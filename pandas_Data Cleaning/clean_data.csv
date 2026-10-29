@@ -1,0 +1,501 @@
+order_id,customer_id,order_date,product,category,price,qty,discount_percentage,payment_method,city,delivery_days,status,rating
+ORD0490,C013,2025-04-27,Cooking Oil 5L,Grocery,810.0,3.0,10,Cash on Delivery,Barishal,6.0,Delivered,5.0
+ORD0430,C097,2025-08-22,Novel,Books,365.0,1.0,0,Unknown,Chattogram,6.0,Returned,2.0
+ORD0083,C091,2025-03-10,Novel,Books,321.0,4.0,5,Card,Khulna,7.0,Delivered,4.0
+ORD0121,C070,2024-12-12,Headphones,Electronics,1363.0,5.0,15,Nagad,Dhaka,8.0,Delivered,4.0
+ORD0222,C074,2025-07-20,Rice 5Kg,Grocery,449.0,3.0,5,Card,Chattogram,3.0,Cancelled,5.0
+ORD0148,C041,2024-04-09,Panjabi,Fashion,1782.0,2.0,0,Cash on Delivery,Khulna,7.0,Cancelled,5.0
+ORD0033,C045,2024-09-02,Laptop,Electronics,49818.0,5.0,15,Nagad,Chattogram,5.0,Returned,4.0
+ORD0386,C104,2025-10-21,Notebook,Books,94.0,3.0,0,Card,Sylhet,5.0,Delivered,5.0
+ORD0201,C107,2024-02-22,Cooking Oil 5L,Grocery,888.0,2.0,0,Card,Rangpur,10.0,Cancelled,1.0
+ORD0482,C004,2024-03-18,Laptop,Electronics,53888.0,3.0,10,Nagad,Dhaka,8.0,Delivered,4.0
+ORD0296,C008,2024-01-25,Headphones,Electronics,1352.0,4.0,0,Cash on Delivery,Sylhet,1.0,Delivered,1.0
+ORD0262,C059,2024-05-09,Sneakers,Fashion,3035.0,3.0,15,Nagad,Barishal,4.0,Delivered,5.0
+ORD0434,C092,2025-07-14,Tea 400G,Grocery,326.0,5.0,0,Cash on Delivery,Khulna,4.0,Delivered,4.0
+ORD0475,C014,2025-02-19,Sneakers,Fashion,2718.0,4.0,10,Nagad,Barishal,9.0,Delivered,2.0
+ORD0460,C059,2025-03-05,Cooking Oil 5L,Grocery,911.0,5.0,0,bKash,Barishal,3.0,Delivered,1.0
+ORD0458,C105,2025-09-30,Tea 400G,Grocery,341.0,2.0,15,Cash on Delivery,Rajshahi,3.0,Delivered,5.0
+ORD0356,C051,2024-10-02,T-Shirt,Fashion,618.0,2.0,15,Card,Barishal,9.0,Delivered,1.0
+ORD0467,C111,2025-08-01,Panjabi,Fashion,1928.0,4.0,0,Cash on Delivery,Dhaka,7.0,Delivered,5.0
+ORD0116,C029,2025-03-05,Panjabi,Fashion,1664.0,2.0,15,Card,Khulna,2.0,Delivered,5.0
+ORD0404,C095,2024-05-06,Smartphone,Electronics,19536.0,5.0,5,Card,Chattogram,10.0,Returned,3.0
+ORD0014,C026,2025-09-03,Panjabi,Fashion,1881.0,5.0,0,bKash,Unknown_City,4.0,Delivered,4.0
+ORD0275,C093,2025-02-25,Saree,Fashion,3656.0,2.0,10,Card,Chattogram,4.0,Delivered,2.0
+ORD0309,C079,2025-03-19,Smartphone,Electronics,16805.0,5.0,15,Card,Rangpur,8.0,Delivered,5.0
+ORD0486,C051,2025-05-19,Rice 5Kg,Grocery,438.0,3.0,10,Cash on Delivery,Barishal,6.0,Delivered,4.0
+ORD0337,C104,2025-01-31,Novel,Books,334.0,5.0,0,Cash on Delivery,Sylhet,7.0,Delivered,3.0
+ORD0498,C063,2025-01-25,Notebook,Books,89.0,1.0,10,Cash on Delivery,Barishal,8.0,Delivered,3.0
+ORD0133,C110,2025-09-18,Panjabi,Fashion,1873.0,2.0,0,Card,Chattogram,4.0,Delivered,3.0
+ORD0376,C020,2025-06-16,Panjabi,Fashion,1961.0,4.0,10,Cash on Delivery,Barishal,7.0,Delivered,5.0
+ORD0260,C118,2024-07-30,Tea 400G,Grocery,297.0,2.0,0,Cash on Delivery,Barishal,9.0,Delivered,3.0
+ORD0269,C046,2024-03-25,Laptop,Electronics,56700.0,3.0,0,Nagad,Unknown_City,1.0,Delivered,4.0
+ORD0279,C096,2024-03-13,Laptop,Electronics,52152.0,5.0,10,bKash,Barishal,6.0,Delivered,3.0
+ORD0497,C065,2024-06-27,Tea 400G,Grocery,325.0,5.0,0,Cash on Delivery,Barishal,6.0,Returned,5.0
+ORD0302,C086,2024-11-17,Laptop,Electronics,51308.0,4.0,5,bKash,Khulna,9.0,Delivered,4.0
+ORD0147,C025,2025-07-29,Headphones,Electronics,1578.0,5.0,0,Cash on Delivery,Rangpur,4.0,Delivered,2.0
+ORD0026,C062,2024-09-13,Sneakers,Fashion,2931.0,5.0,0,bKash,Chattogram,4.0,Cancelled,1.0
+ORD0485,C037,2024-03-21,Headphones,Electronics,1584.0,1.0,15,Card,Sylhet,10.0,Delivered,1.0
+ORD0314,C037,2024-11-22,Sneakers,Fashion,2671.0,1.0,10,Nagad,Sylhet,1.0,Delivered,1.0
+ORD0247,C042,2024-07-29,Sneakers,Fashion,2522.0,2.0,0,bKash,Chattogram,10.0,Delivered,3.0
+ORD0347,C015,2024-05-27,Smartphone,Electronics,16820.0,4.0,10,Card,Barishal,1.0,Delivered,5.0
+ORD0223,C087,2024-09-09,Laptop,Electronics,57994.0,3.0,15,bKash,Khulna,6.0,Delivered,3.0
+ORD0419,C024,2025-01-01,Rice 5Kg,Grocery,476.0,5.0,0,Cash on Delivery,Rajshahi,9.0,Delivered,3.0
+ORD0052,C022,2024-09-13,T-Shirt,Fashion,616.0,5.0,15,Nagad,Rajshahi,2.0,Delivered,4.0
+ORD0259,C086,2024-08-30,Rice 5Kg,Grocery,483.0,1.0,0,Cash on Delivery,Khulna,10.0,Delivered,3.0
+ORD0428,C058,2025-07-25,Smartphone,Electronics,16841.0,3.0,0,Nagad,Barishal,5.0,Delivered,5.0
+ORD0041,C087,2024-04-12,Laptop,Electronics,59116.0,4.0,10,Card,Khulna,1.0,Delivered,4.0
+ORD0090,C093,2025-02-14,Laptop,Electronics,52176.0,5.0,10,bKash,Chattogram,7.0,Delivered,5.0
+ORD0207,C119,2024-08-23,Panjabi,Fashion,1675.0,3.0,5,Nagad,Chattogram,8.0,Returned,5.0
+ORD0240,C003,2025-06-06,Smartphone,Electronics,16555.0,2.0,15,Unknown,Dhaka,8.0,Delivered,5.0
+ORD0483,C018,2024-07-06,T-Shirt,Fashion,647.0,3.0,15,Nagad,Chattogram,8.0,Delivered,4.0
+ORD0239,C059,2025-07-30,Headphones,Electronics,1544.0,1.0,15,Card,Barishal,6.0,Delivered,2.0
+ORD0480,C105,2024-04-29,Tea 400G,Grocery,343.0,4.0,0,bKash,Rajshahi,7.0,Delivered,4.0
+ORD0311,C107,2024-09-08,Smartphone,Electronics,18411.0,5.0,15,Cash on Delivery,Rangpur,8.0,Delivered,5.0
+ORD0004,C072,2024-03-11,Saree,Fashion,3523.0,3.0,10,Cash on Delivery,Sylhet,1.0,Delivered,5.0
+ORD0180,C060,2025-05-29,Rice 5Kg,Grocery,433.0,4.0,15,Cash on Delivery,Dhaka,2.0,Delivered,5.0
+ORD0249,C086,2024-12-22,Tea 400G,Grocery,313.0,1.0,0,Card,Khulna,10.0,Delivered,4.0
+ORD0293,C078,2024-02-17,Headphones,Electronics,1417.0,5.0,5,bKash,Chattogram,8.0,Delivered,4.0
+ORD0066,C008,2024-05-14,Headphones,Electronics,1383.0,1.0,0,Cash on Delivery,Sylhet,4.0,Cancelled,5.0
+ORD0139,C102,2025-10-17,Headphones,Electronics,1613.0,5.0,10,Nagad,Rangpur,3.0,Delivered,1.0
+ORD0437,C083,2024-07-21,Novel,Books,320.0,1.0,15,Card,Dhaka,6.0,Delivered,3.0
+ORD0304,C097,2024-05-31,T-Shirt,Fashion,640.0,3.0,0,Nagad,Chattogram,6.0,Delivered,1.0
+ORD0114,C075,2025-04-04,Notebook,Books,96.0,4.0,10,bKash,Chattogram,2.0,Delivered,4.0
+ORD0469,C061,2024-05-01,Notebook,Books,88.0,2.0,15,Unknown,Khulna,8.0,Delivered,2.0
+ORD0169,C080,2024-09-02,Laptop,Electronics,56272.0,5.0,0,bKash,Barishal,9.0,Delivered,4.0
+ORD0102,C089,2024-05-12,Saree,Fashion,3367.0,3.0,10,bKash,Sylhet,5.0,Returned,5.0
+ORD0373,C110,2025-01-27,Sneakers,Fashion,2760.0,4.0,0,bKash,Chattogram,9.0,Delivered,4.0
+ORD0214,C051,2024-12-28,T-Shirt,Fashion,614.0,3.0,0,Card,Barishal,2.0,Delivered,5.0
+ORD0406,C019,2025-01-31,Notebook,Books,96.0,1.0,15,Cash on Delivery,Barishal,9.0,Delivered,5.0
+ORD0341,C058,2025-05-29,Panjabi,Fashion,1648.0,1.0,10,Nagad,Barishal,2.0,Delivered,3.0
+ORD0461,C039,2024-04-05,Cooking Oil 5L,Grocery,851.0,1.0,5,Nagad,Rangpur,10.0,Returned,1.0
+ORD0338,C088,2025-04-21,Rice 5Kg,Grocery,409.0,4.0,0,Nagad,Khulna,5.0,Cancelled,1.0
+ORD0452,C094,2025-03-26,Tea 400G,Grocery,288.0,2.0,0,Nagad,Rajshahi,2.0,Returned,4.0
+ORD0194,C043,2024-08-27,Notebook,Books,82.0,4.0,10,Nagad,Rajshahi,1.0,Delivered,4.0
+ORD0061,C115,2024-02-03,Tea 400G,Grocery,314.0,3.0,15,Cash on Delivery,Sylhet,4.0,Delivered,5.0
+ORD0417,C101,2025-07-23,Sneakers,Fashion,2543.0,3.0,0,Nagad,Chattogram,3.0,Cancelled,4.0
+ORD0315,C072,2024-08-26,Rice 5Kg,Grocery,453.0,5.0,0,bKash,Sylhet,4.0,Delivered,4.0
+ORD0119,C084,2025-07-21,Cooking Oil 5L,Grocery,857.0,5.0,0,Card,Dhaka,8.0,Delivered,5.0
+ORD0370,C077,2024-05-26,Sneakers,Fashion,3073.0,4.0,0,Nagad,Chattogram,2.0,Delivered,5.0
+ORD0426,C026,2025-03-10,Novel,Books,320.0,2.0,0,Nagad,Rangpur,9.0,Delivered,2.0
+ORD0110,C047,2025-06-12,Saree,Fashion,3538.0,1.0,0,Cash on Delivery,Rangpur,2.0,Delivered,4.0
+ORD0348,C072,2024-10-02,Notebook,Books,85.0,4.0,0,bKash,Sylhet,6.0,Delivered,4.0
+ORD0450,C100,2025-08-06,Notebook,Books,86.0,5.0,0,Card,Rangpur,6.0,Delivered,4.0
+ORD0362,C036,2025-02-17,Smartphone,Electronics,19100.0,5.0,15,Cash on Delivery,Khulna,3.0,Delivered,5.0
+ORD0091,C107,2024-03-19,T-Shirt,Fashion,580.0,2.0,10,bKash,Rangpur,6.0,Returned,4.0
+ORD0156,C074,2024-05-20,Cooking Oil 5L,Grocery,772.0,1.0,15,Cash on Delivery,Chattogram,8.0,Returned,5.0
+ORD0264,C021,2025-02-16,Laptop,Electronics,56470.0,1.0,10,Cash on Delivery,Khulna,6.0,Delivered,5.0
+ORD0307,C116,2025-08-19,Sneakers,Fashion,2728.0,1.0,10,Cash on Delivery,Sylhet,2.0,Delivered,2.0
+ORD0031,C002,2025-02-27,Novel,Books,376.0,4.0,0,Nagad,Barishal,9.0,Delivered,5.0
+ORD0023,C056,2024-08-27,Notebook,Books,96.0,1.0,0,Nagad,Chattogram,7.0,Delivered,4.0
+ORD0306,C017,2024-05-04,Laptop,Electronics,54582.0,2.0,0,bKash,Chattogram,6.0,Delivered,4.0
+ORD0032,C078,2024-07-27,Novel,Books,346.0,1.0,0,Nagad,Chattogram,5.0,Delivered,5.0
+ORD0238,C108,2025-07-03,Cooking Oil 5L,Grocery,771.0,3.0,10,bKash,Rangpur,2.0,Delivered,5.0
+ORD0327,C102,2024-12-24,T-Shirt,Fashion,570.0,3.0,0,bKash,Rangpur,1.0,Delivered,5.0
+ORD0053,C049,2024-05-14,Rice 5Kg,Grocery,408.0,3.0,0,Cash on Delivery,Chattogram,6.0,Delivered,4.0
+ORD0491,C013,2025-01-08,Sneakers,Fashion,2638.0,3.0,5,Cash on Delivery,Barishal,8.0,Delivered,3.0
+ORD0165,C031,2025-07-25,T-Shirt,Fashion,655.0,3.0,0,Nagad,Dhaka,5.0,Delivered,4.0
+ORD0217,C038,2025-08-02,Sneakers,Fashion,2881.0,3.0,0,bKash,Dhaka,4.0,Delivered,5.0
+ORD0163,C047,2025-06-15,Notebook,Books,94.0,2.0,0,Cash on Delivery,Rangpur,8.0,Returned,5.0
+ORD0366,C112,2024-12-09,Notebook,Books,96.0,2.0,15,bKash,Rangpur,4.0,Delivered,4.0
+ORD0057,C094,2024-04-20,Tea 400G,Grocery,312.0,3.0,15,Nagad,Rajshahi,8.0,Delivered,5.0
+ORD0471,C002,2025-09-06,Laptop,Electronics,58556.0,4.0,5,bKash,Barishal,2.0,Delivered,4.0
+ORD0003,C084,2024-04-14,Tea 400G,Grocery,332.0,2.0,15,Cash on Delivery,Dhaka,10.0,Delivered,1.0
+ORD0059,C046,2025-05-19,Smartphone,Electronics,19607.0,3.0,0,bKash,Sylhet,4.0,Returned,3.0
+ORD0372,C034,2025-05-16,Headphones,Electronics,1523.0,2.0,0,Nagad,Chattogram,10.0,Delivered,5.0
+ORD0241,C113,2025-05-27,Rice 5Kg,Grocery,475.0,5.0,0,Cash on Delivery,Rajshahi,1.0,Delivered,2.0
+ORD0268,C093,2025-03-14,Headphones,Electronics,1482.0,1.0,0,Nagad,Chattogram,5.0,Delivered,4.0
+ORD0500,C111,2024-10-25,Saree,Fashion,3310.0,3.0,15,Unknown,Dhaka,10.0,Delivered,4.0
+ORD0075,C078,2024-05-13,Laptop,Electronics,54251.0,3.0,10,bKash,Chattogram,10.0,Returned,5.0
+ORD0331,C024,2024-12-12,Cooking Oil 5L,Grocery,925.0,1.0,10,Card,Rajshahi,1.0,Delivered,3.0
+ORD0477,C078,2024-01-05,Rice 5Kg,Grocery,489.0,5.0,0,Nagad,Unknown_City,7.0,Returned,2.0
+ORD0422,C038,2024-04-27,Cooking Oil 5L,Grocery,905.0,1.0,15,Cash on Delivery,Dhaka,8.0,Delivered,4.0
+ORD0278,C087,2025-02-05,Cooking Oil 5L,Grocery,868.0,2.0,0,bKash,Khulna,4.0,Delivered,5.0
+ORD0081,C051,2025-01-20,Laptop,Electronics,57707.0,2.0,5,Card,Barishal,6.0,Delivered,5.0
+ORD0243,C041,2025-05-09,Rice 5Kg,Grocery,476.0,5.0,0,Card,Khulna,2.0,Delivered,4.0
+ORD0027,C037,2024-02-11,Novel,Books,372.0,3.0,0,Card,Sylhet,9.0,Delivered,4.0
+ORD0203,C005,2024-04-30,Smartphone,Electronics,16963.0,2.0,15,Card,Chattogram,4.0,Cancelled,4.0
+ORD0213,C104,2024-07-02,Cooking Oil 5L,Grocery,903.0,4.0,0,bKash,Sylhet,9.0,Delivered,4.0
+ORD0282,C100,2025-03-09,Novel,Books,365.0,4.0,15,Card,Rangpur,2.0,Returned,3.0
+ORD0354,C039,2024-06-30,Saree,Fashion,3492.0,4.0,5,Cash on Delivery,Rangpur,6.0,Delivered,4.0
+ORD0365,C119,2024-07-04,Headphones,Electronics,1602.0,5.0,0,bKash,Chattogram,8.0,Delivered,4.0
+ORD0146,C015,2025-09-13,Rice 5Kg,Grocery,447.0,3.0,0,Cash on Delivery,Unknown_City,6.0,Delivered,5.0
+ORD0421,C104,2025-01-04,T-Shirt,Fashion,620.0,3.0,0,Nagad,Sylhet,10.0,Returned,5.0
+ORD0109,C114,2024-07-23,Cooking Oil 5L,Grocery,855.0,2.0,10,Nagad,Rangpur,5.0,Delivered,5.0
+ORD0051,C046,2025-09-12,Panjabi,Fashion,1623.0,1.0,15,Card,Sylhet,5.0,Delivered,5.0
+ORD0436,C086,2024-02-25,T-Shirt,Fashion,554.0,5.0,10,Card,Khulna,9.0,Delivered,4.0
+ORD0301,C035,2024-03-17,Saree,Fashion,3467.0,2.0,0,Nagad,Rangpur,10.0,Delivered,4.0
+ORD0015,C043,2025-06-30,Saree,Fashion,3276.0,1.0,0,Unknown,Rajshahi,1.0,Delivered,4.0
+ORD0465,C120,2025-08-14,Notebook,Books,94.0,1.0,10,bKash,Barishal,9.0,Delivered,5.0
+ORD0391,C063,2025-05-09,Headphones,Electronics,1381.0,5.0,10,Card,Barishal,3.0,Cancelled,5.0
+ORD0115,C015,2025-09-15,T-Shirt,Fashion,640.0,5.0,10,Card,Barishal,2.0,Delivered,4.0
+ORD0244,C069,2024-04-27,Saree,Fashion,3197.0,1.0,0,Unknown,Chattogram,2.0,Delivered,4.0
+ORD0060,C048,2025-03-05,Sneakers,Fashion,2774.0,5.0,10,Nagad,Dhaka,7.0,Delivered,5.0
+ORD0174,C082,2024-10-18,Tea 400G,Grocery,327.0,3.0,5,Card,Rajshahi,3.0,Returned,5.0
+ORD0099,C019,2025-03-25,Smartphone,Electronics,17092.0,4.0,10,Nagad,Barishal,6.0,Delivered,4.0
+ORD0160,C022,2025-08-14,Novel,Books,370.0,5.0,0,bKash,Rajshahi,10.0,Delivered,3.0
+ORD0250,C065,2024-11-16,Tea 400G,Grocery,326.0,2.0,0,Nagad,Barishal,5.0,Delivered,3.0
+ORD0042,C065,2025-04-25,Novel,Books,383.0,1.0,0,Cash on Delivery,Barishal,10.0,Delivered,2.0
+ORD0271,C076,2024-08-19,Rice 5Kg,Grocery,412.0,5.0,10,Card,Chattogram,1.0,Delivered,5.0
+ORD0205,C053,2025-05-24,Panjabi,Fashion,1714.0,5.0,5,bKash,Dhaka,8.0,Delivered,4.0
+ORD0218,C048,2024-10-14,Panjabi,Fashion,1637.0,1.0,10,bKash,Dhaka,3.0,Delivered,1.0
+ORD0080,C079,2025-08-02,Smartphone,Electronics,16853.0,2.0,15,Card,Unknown_City,2.0,Delivered,1.0
+ORD0029,C031,2024-06-13,Saree,Fashion,3375.0,1.0,0,Card,Dhaka,8.0,Delivered,5.0
+ORD0345,C100,2025-08-03,Laptop,Electronics,54059.0,2.0,10,bKash,Rangpur,2.0,Cancelled,2.0
+ORD0364,C002,2025-07-01,Saree,Fashion,3659.0,2.0,15,Card,Barishal,6.0,Returned,4.0
+ORD0257,C034,2025-01-10,Tea 400G,Grocery,295.0,5.0,10,bKash,Chattogram,8.0,Returned,4.0
+ORD0466,C052,2025-02-22,Novel,Books,329.0,3.0,0,bKash,Dhaka,3.0,Delivered,4.0
+ORD0058,C110,2025-10-12,Tea 400G,Grocery,302.0,1.0,5,Cash on Delivery,Chattogram,7.0,Delivered,3.0
+ORD0427,C029,2025-04-15,Notebook,Books,93.0,1.0,15,Cash on Delivery,Khulna,1.0,Delivered,2.0
+ORD0063,C034,2024-04-03,T-Shirt,Fashion,656.0,4.0,15,Nagad,Chattogram,10.0,Delivered,1.0
+ORD0388,C035,2024-01-10,Laptop,Electronics,58864.0,1.0,0,Nagad,Rangpur,6.0,Delivered,5.0
+ORD0112,C080,2025-01-17,Sneakers,Fashion,2550.0,5.0,0,Card,Barishal,2.0,Delivered,4.0
+ORD0085,C057,2024-02-26,T-Shirt,Fashion,587.0,5.0,0,Nagad,Barishal,5.0,Delivered,3.0
+ORD0237,C073,2025-05-05,Sneakers,Fashion,2561.0,5.0,10,Card,Sylhet,9.0,Returned,5.0
+ORD0272,C015,2024-05-15,Laptop,Electronics,60370.0,4.0,5,bKash,Barishal,4.0,Delivered,2.0
+ORD0343,C006,2024-09-21,Novel,Books,325.0,5.0,0,bKash,Barishal,2.0,Delivered,5.0
+ORD0228,C036,2025-08-08,Notebook,Books,97.0,2.0,10,Unknown,Khulna,7.0,Delivered,4.0
+ORD0130,C112,2025-01-05,T-Shirt,Fashion,633.0,3.0,5,bKash,Rangpur,10.0,Delivered,5.0
+ORD0166,C047,2025-05-06,Notebook,Books,94.0,3.0,0,Cash on Delivery,Rangpur,5.0,Delivered,5.0
+ORD0097,C075,2025-04-05,Rice 5Kg,Grocery,457.0,1.0,10,Nagad,Chattogram,6.0,Cancelled,5.0
+ORD0489,C117,2024-04-13,Novel,Books,330.0,5.0,0,Cash on Delivery,Dhaka,10.0,Delivered,3.0
+ORD0297,C053,2024-04-16,Novel,Books,341.0,3.0,0,Nagad,Dhaka,7.0,Delivered,1.0
+ORD0142,C041,2025-08-17,Cooking Oil 5L,Grocery,874.0,5.0,0,Nagad,Khulna,10.0,Cancelled,4.0
+ORD0464,C034,2024-10-17,Rice 5Kg,Grocery,474.0,1.0,10,Card,Chattogram,5.0,Delivered,1.0
+ORD0188,C065,2024-02-02,Laptop,Electronics,60348.0,4.0,0,Card,Barishal,3.0,Delivered,5.0
+ORD0369,C082,2025-02-27,Novel,Books,342.0,3.0,0,Nagad,Rajshahi,3.0,Delivered,5.0
+ORD0221,C010,2024-03-18,Smartphone,Electronics,16552.0,2.0,0,Card,Rangpur,6.0,Delivered,4.0
+ORD0229,C013,2024-05-29,Panjabi,Fashion,1728.0,4.0,0,Nagad,Barishal,7.0,Delivered,5.0
+ORD0323,C096,2025-01-22,T-Shirt,Fashion,620.0,2.0,0,Cash on Delivery,Barishal,3.0,Delivered,1.0
+ORD0396,C033,2024-02-21,Saree,Fashion,3319.0,3.0,10,Nagad,Rangpur,9.0,Delivered,5.0
+ORD0360,C055,2024-10-16,Cooking Oil 5L,Grocery,875.0,5.0,0,bKash,Khulna,8.0,Delivered,5.0
+ORD0082,C016,2025-09-02,Panjabi,Fashion,1880.0,5.0,0,bKash,Barishal,3.0,Delivered,1.0
+ORD0355,C093,2024-10-18,Notebook,Books,96.0,1.0,0,Card,Chattogram,1.0,Delivered,4.0
+ORD0322,C115,2025-03-23,Panjabi,Fashion,1736.0,2.0,15,Card,Sylhet,6.0,Delivered,5.0
+ORD0067,C070,2024-05-09,Smartphone,Electronics,16827.0,1.0,15,Card,Dhaka,9.0,Delivered,2.0
+ORD0435,C066,2024-05-25,Sneakers,Fashion,3027.0,5.0,0,Nagad,Chattogram,4.0,Cancelled,4.0
+ORD0415,C018,2025-09-27,Smartphone,Electronics,18877.0,2.0,5,Nagad,Chattogram,6.0,Cancelled,4.0
+ORD0189,C115,2025-04-04,Saree,Fashion,3845.0,4.0,5,Card,Sylhet,2.0,Returned,3.0
+ORD0335,C090,2025-05-06,Laptop,Electronics,52740.0,5.0,0,bKash,Barishal,1.0,Delivered,3.0
+ORD0054,C050,2025-01-09,T-Shirt,Fashion,556.0,5.0,10,Cash on Delivery,Unknown_City,3.0,Delivered,5.0
+ORD0172,C001,2025-08-10,Novel,Books,319.0,1.0,0,bKash,Barishal,3.0,Delivered,3.0
+ORD0385,C029,2025-08-10,Smartphone,Electronics,18618.0,1.0,15,Card,Khulna,3.0,Delivered,2.0
+ORD0140,C083,2024-06-17,Laptop,Electronics,55199.0,3.0,0,Unknown,Dhaka,4.0,Delivered,4.0
+ORD0274,C098,2024-03-11,Novel,Books,385.0,2.0,10,bKash,Rangpur,10.0,Delivered,5.0
+ORD0285,C015,2025-04-09,Laptop,Electronics,59671.0,1.0,10,bKash,Barishal,5.0,Delivered,2.0
+ORD0439,C073,2025-08-21,Rice 5Kg,Grocery,435.0,3.0,0,Cash on Delivery,Sylhet,6.0,Delivered,3.0
+ORD0295,C118,2025-01-12,Notebook,Books,92.0,4.0,10,Card,Barishal,4.0,Returned,4.0
+ORD0233,C106,2024-11-22,Saree,Fashion,3274.0,4.0,0,Card,Sylhet,10.0,Delivered,5.0
+ORD0100,C104,2025-09-04,Sneakers,Fashion,2749.0,3.0,0,Cash on Delivery,Sylhet,2.0,Delivered,2.0
+ORD0284,C106,2024-11-13,Tea 400G,Grocery,329.0,1.0,15,Card,Sylhet,4.0,Delivered,4.0
+ORD0149,C039,2024-12-01,T-Shirt,Fashion,656.0,2.0,10,Cash on Delivery,Rangpur,4.0,Delivered,5.0
+ORD0016,C041,2024-04-15,Notebook,Books,98.0,4.0,0,Cash on Delivery,Khulna,8.0,Delivered,5.0
+ORD0164,C019,2025-06-29,Saree,Fashion,3820.0,4.0,0,Cash on Delivery,Barishal,5.0,Cancelled,5.0
+ORD0290,C080,2024-02-15,T-Shirt,Fashion,629.0,1.0,0,Nagad,Barishal,1.0,Delivered,5.0
+ORD0047,C007,2024-09-03,Tea 400G,Grocery,344.0,5.0,5,Nagad,Rangpur,4.0,Delivered,4.0
+ORD0087,C061,2025-07-26,Cooking Oil 5L,Grocery,885.0,5.0,15,Cash on Delivery,Khulna,2.0,Delivered,1.0
+ORD0038,C076,2024-12-19,Headphones,Electronics,1484.0,4.0,0,Card,Chattogram,8.0,Delivered,4.0
+ORD0423,C019,2025-01-25,Smartphone,Electronics,18657.0,3.0,0,Card,Barishal,5.0,Returned,4.0
+ORD0371,C120,2025-10-11,Novel,Books,384.0,3.0,0,bKash,Barishal,8.0,Delivered,4.0
+ORD0425,C066,2024-03-25,Novel,Books,328.0,5.0,0,Nagad,Chattogram,9.0,Returned,1.0
+ORD0446,C084,2024-06-18,Novel,Books,332.0,5.0,10,Unknown,Dhaka,8.0,Delivered,3.0
+ORD0294,C032,2024-01-09,Saree,Fashion,3210.0,4.0,0,Nagad,Dhaka,5.0,Cancelled,4.0
+ORD0173,C002,2025-05-22,Smartphone,Electronics,19790.0,4.0,0,Cash on Delivery,Barishal,1.0,Delivered,4.0
+ORD0074,C059,2025-01-18,Sneakers,Fashion,2695.0,3.0,0,Card,Barishal,2.0,Delivered,2.0
+ORD0281,C061,2024-08-08,Tea 400G,Grocery,292.0,3.0,0,Unknown,Khulna,7.0,Returned,4.0
+ORD0105,C074,2025-06-03,Laptop,Electronics,52754.0,1.0,10,bKash,Chattogram,6.0,Cancelled,3.0
+ORD0358,C079,2025-03-09,Notebook,Books,98.0,3.0,5,Cash on Delivery,Rangpur,6.0,Delivered,4.0
+ORD0254,C064,2025-06-01,T-Shirt,Fashion,638.0,5.0,15,Card,Barishal,7.0,Delivered,5.0
+ORD0017,C039,2024-09-15,Saree,Fashion,3279.0,1.0,5,bKash,Rangpur,2.0,Delivered,5.0
+ORD0447,C033,2025-05-10,Tea 400G,Grocery,349.0,2.0,0,bKash,Rangpur,4.0,Delivered,4.0
+ORD0092,C042,2024-08-29,Saree,Fashion,3396.0,2.0,0,Nagad,Chattogram,5.0,Delivered,3.0
+ORD0089,C068,2024-11-28,Panjabi,Fashion,1661.0,1.0,0,Card,Dhaka,6.0,Delivered,5.0
+ORD0387,C107,2024-02-10,Smartphone,Electronics,16559.0,2.0,0,Cash on Delivery,Rangpur,6.0,Delivered,2.0
+ORD0141,C091,2024-10-08,Laptop,Electronics,52257.0,5.0,0,Cash on Delivery,Khulna,10.0,Returned,2.0
+ORD0195,C099,2024-11-22,T-Shirt,Fashion,638.0,5.0,10,Cash on Delivery,Khulna,4.0,Delivered,3.0
+ORD0206,C039,2025-07-30,Saree,Fashion,3369.0,1.0,0,Nagad,Rangpur,1.0,Delivered,5.0
+ORD0103,C062,2025-06-23,Novel,Books,370.0,2.0,0,Card,Chattogram,9.0,Delivered,1.0
+ORD0265,C049,2025-04-14,Saree,Fashion,3557.0,1.0,15,Cash on Delivery,Chattogram,2.0,Returned,5.0
+ORD0175,C068,2024-12-04,Panjabi,Fashion,1689.0,1.0,0,Card,Dhaka,5.0,Delivered,1.0
+ORD0171,C107,2025-05-03,Sneakers,Fashion,2886.0,4.0,15,Nagad,Rangpur,5.0,Delivered,4.0
+ORD0389,C092,2025-01-16,Tea 400G,Grocery,305.0,1.0,0,Nagad,Khulna,2.0,Delivered,5.0
+ORD0158,C030,2025-06-29,Tea 400G,Grocery,310.0,5.0,5,Cash on Delivery,Rangpur,8.0,Delivered,5.0
+ORD0071,C111,2025-10-10,Laptop,Electronics,50888.0,5.0,10,Cash on Delivery,Dhaka,7.0,Cancelled,4.0
+ORD0134,C078,2024-03-30,Laptop,Electronics,54472.0,4.0,15,Cash on Delivery,Chattogram,6.0,Delivered,4.0
+ORD0455,C075,2024-06-13,Smartphone,Electronics,16660.0,3.0,0,bKash,Chattogram,10.0,Delivered,4.0
+ORD0379,C046,2025-09-30,Novel,Books,333.0,5.0,0,bKash,Sylhet,2.0,Delivered,1.0
+ORD0363,C083,2025-02-18,Panjabi,Fashion,1713.0,4.0,5,bKash,Dhaka,10.0,Cancelled,4.0
+ORD0246,C004,2025-02-09,Novel,Books,328.0,4.0,0,Nagad,Dhaka,8.0,Cancelled,5.0
+ORD0470,C120,2025-07-17,T-Shirt,Fashion,601.0,3.0,10,bKash,Barishal,3.0,Delivered,1.0
+ORD0432,C057,2025-06-30,Novel,Books,317.0,2.0,0,Nagad,Barishal,7.0,Returned,4.0
+ORD0353,C067,2025-04-20,Notebook,Books,85.0,3.0,10,Card,Rajshahi,2.0,Delivered,4.0
+ORD0245,C104,2024-12-04,Cooking Oil 5L,Grocery,795.0,2.0,10,Card,Sylhet,8.0,Delivered,5.0
+ORD0019,C110,2025-09-02,Cooking Oil 5L,Grocery,895.0,5.0,10,Nagad,Chattogram,9.0,Delivered,5.0
+ORD0178,C041,2024-09-24,Saree,Fashion,3805.0,1.0,5,Nagad,Khulna,8.0,Delivered,5.0
+ORD0410,C079,2025-07-29,Notebook,Books,83.0,3.0,5,Card,Rangpur,9.0,Delivered,5.0
+ORD0021,C011,2024-06-09,Novel,Books,330.0,1.0,0,Nagad,Dhaka,9.0,Delivered,3.0
+ORD0056,C059,2024-01-15,Cooking Oil 5L,Grocery,827.0,4.0,0,bKash,Barishal,8.0,Delivered,4.0
+ORD0320,C016,2024-11-27,Headphones,Electronics,1452.0,2.0,0,bKash,Barishal,3.0,Cancelled,3.0
+ORD0462,C075,2025-03-06,Novel,Books,360.0,5.0,0,bKash,Chattogram,9.0,Delivered,4.0
+ORD0368,C087,2025-08-17,Laptop,Electronics,54676.0,5.0,10,bKash,Khulna,8.0,Delivered,2.0
+ORD0035,C102,2025-05-09,Cooking Oil 5L,Grocery,885.0,4.0,5,Nagad,Rangpur,8.0,Returned,3.0
+ORD0182,C104,2025-07-04,Notebook,Books,91.0,4.0,15,Nagad,Sylhet,4.0,Cancelled,2.0
+ORD0185,C049,2024-02-26,Laptop,Electronics,59388.0,3.0,5,Nagad,Chattogram,9.0,Delivered,5.0
+ORD0151,C120,2024-02-19,T-Shirt,Fashion,566.0,3.0,0,Cash on Delivery,Barishal,8.0,Cancelled,5.0
+ORD0208,C021,2025-10-19,Panjabi,Fashion,1895.0,4.0,15,Card,Khulna,8.0,Delivered,5.0
+ORD0352,C033,2024-02-29,Headphones,Electronics,1408.0,2.0,0,bKash,Rangpur,8.0,Delivered,5.0
+ORD0095,C045,2024-10-08,Laptop,Electronics,54658.0,3.0,10,bKash,Chattogram,6.0,Returned,4.0
+ORD0377,C116,2024-06-17,Rice 5Kg,Grocery,437.0,2.0,5,bKash,Sylhet,4.0,Delivered,3.0
+ORD0303,C028,2024-05-02,Rice 5Kg,Grocery,433.0,3.0,0,Nagad,Rangpur,6.0,Cancelled,1.0
+ORD0098,C056,2025-04-06,Cooking Oil 5L,Grocery,791.0,1.0,0,Cash on Delivery,Chattogram,2.0,Returned,3.0
+ORD0236,C110,2025-10-10,Sneakers,Fashion,2897.0,2.0,0,Nagad,Chattogram,5.0,Delivered,5.0
+ORD0405,C101,2025-07-20,Rice 5Kg,Grocery,405.0,1.0,5,Card,Chattogram,9.0,Delivered,4.0
+ORD0442,C043,2025-07-05,Panjabi,Fashion,1929.0,2.0,0,Cash on Delivery,Rajshahi,2.0,Delivered,4.0
+ORD0155,C086,2025-07-25,Saree,Fashion,3706.0,3.0,0,Nagad,Khulna,4.0,Cancelled,5.0
+ORD0123,C040,2025-02-11,Saree,Fashion,3803.0,5.0,10,Card,Barishal,5.0,Delivered,4.0
+ORD0339,C079,2024-03-28,Headphones,Electronics,1576.0,1.0,15,Cash on Delivery,Rangpur,9.0,Delivered,4.0
+ORD0079,C105,2024-01-30,Tea 400G,Grocery,347.0,3.0,0,Cash on Delivery,Rajshahi,5.0,Delivered,5.0
+ORD0062,C045,2025-01-11,T-Shirt,Fashion,643.0,1.0,10,Cash on Delivery,Chattogram,1.0,Delivered,4.0
+ORD0476,C111,2025-08-19,Laptop,Electronics,55546.0,5.0,0,Cash on Delivery,Dhaka,5.0,Delivered,4.0
+ORD0126,C003,2025-03-16,Laptop,Electronics,57498.0,1.0,10,Nagad,Dhaka,9.0,Delivered,5.0
+ORD0319,C053,2024-01-21,Smartphone,Electronics,17037.0,2.0,10,Card,Dhaka,1.0,Delivered,4.0
+ORD0317,C020,2025-08-28,T-Shirt,Fashion,611.0,3.0,0,Cash on Delivery,Unknown_City,10.0,Cancelled,3.0
+ORD0496,C088,2024-12-18,Saree,Fashion,3542.0,3.0,0,Card,Khulna,2.0,Delivered,4.0
+ORD0431,C110,2025-09-13,Panjabi,Fashion,1903.0,3.0,0,Cash on Delivery,Chattogram,8.0,Delivered,5.0
+ORD0451,C116,2025-06-12,Cooking Oil 5L,Grocery,808.0,2.0,5,Cash on Delivery,Sylhet,6.0,Delivered,5.0
+ORD0418,C074,2024-02-10,Smartphone,Electronics,17390.0,2.0,0,Cash on Delivery,Chattogram,10.0,Delivered,4.0
+ORD0025,C113,2025-02-16,Rice 5Kg,Grocery,416.0,3.0,0,Card,Rajshahi,8.0,Delivered,1.0
+ORD0329,C103,2024-08-18,Laptop,Electronics,58617.0,5.0,0,Card,Rajshahi,2.0,Delivered,4.0
+ORD0440,C078,2025-10-18,Smartphone,Electronics,17328.0,2.0,5,Cash on Delivery,Chattogram,6.0,Delivered,5.0
+ORD0127,C073,2024-11-09,Laptop,Electronics,50381.0,3.0,5,Card,Unknown_City,3.0,Delivered,5.0
+ORD0424,C057,2025-06-10,Smartphone,Electronics,19481.0,3.0,10,Card,Barishal,8.0,Delivered,4.0
+ORD0328,C044,2025-02-27,Rice 5Kg,Grocery,471.0,2.0,5,Card,Dhaka,6.0,Returned,5.0
+ORD0179,C057,2024-01-12,Panjabi,Fashion,1830.0,5.0,0,Cash on Delivery,Barishal,4.0,Delivered,2.0
+ORD0444,C090,2025-04-28,Cooking Oil 5L,Grocery,917.0,5.0,15,Nagad,Barishal,6.0,Delivered,4.0
+ORD0381,C049,2024-11-04,Notebook,Books,93.0,1.0,5,bKash,Chattogram,9.0,Delivered,4.0
+ORD0224,C034,2025-02-02,Sneakers,Fashion,2919.0,2.0,0,Cash on Delivery,Chattogram,2.0,Delivered,1.0
+ORD0359,C029,2025-09-30,Rice 5Kg,Grocery,432.0,5.0,5,bKash,Khulna,1.0,Returned,4.0
+ORD0094,C053,2025-10-20,Novel,Books,380.0,5.0,15,Cash on Delivery,Dhaka,6.0,Delivered,5.0
+ORD0070,C097,2025-03-30,Sneakers,Fashion,2904.0,4.0,0,bKash,Chattogram,6.0,Cancelled,3.0
+ORD0037,C073,2024-09-30,Saree,Fashion,3804.0,5.0,0,Cash on Delivery,Sylhet,5.0,Cancelled,5.0
+ORD0161,C023,2025-01-24,Cooking Oil 5L,Grocery,872.0,5.0,0,Nagad,Barishal,1.0,Cancelled,2.0
+ORD0012,C090,2024-12-04,Sneakers,Fashion,3078.0,5.0,0,Card,Barishal,5.0,Delivered,4.0
+ORD0145,C050,2024-03-15,Novel,Books,343.0,4.0,15,bKash,Rajshahi,3.0,Delivered,5.0
+ORD0361,C077,2024-09-24,Panjabi,Fashion,1851.0,3.0,15,Cash on Delivery,Chattogram,4.0,Delivered,4.0
+ORD0128,C064,2025-09-21,Rice 5Kg,Grocery,409.0,3.0,5,Cash on Delivery,Barishal,1.0,Delivered,5.0
+ORD0448,C079,2024-02-13,Laptop,Electronics,52408.0,2.0,15,Nagad,Rangpur,9.0,Delivered,5.0
+ORD0010,C100,2025-05-02,Rice 5Kg,Grocery,455.0,2.0,15,Card,Rangpur,8.0,Delivered,2.0
+ORD0382,C112,2025-06-07,Sneakers,Fashion,2985.0,1.0,15,bKash,Rangpur,5.0,Delivered,2.0
+ORD0177,C015,2025-02-14,Sneakers,Fashion,2809.0,1.0,15,bKash,Barishal,3.0,Delivered,5.0
+ORD0232,C059,2024-05-19,Rice 5Kg,Grocery,435.0,5.0,0,Cash on Delivery,Barishal,10.0,Delivered,5.0
+ORD0211,C081,2024-03-02,T-Shirt,Fashion,601.0,3.0,10,Card,Sylhet,8.0,Delivered,1.0
+ORD0129,C079,2024-02-01,Saree,Fashion,3509.0,2.0,0,Card,Rangpur,1.0,Delivered,4.0
+ORD0144,C095,2025-10-04,Tea 400G,Grocery,329.0,4.0,10,Cash on Delivery,Chattogram,5.0,Delivered,4.0
+ORD0242,C102,2024-04-28,Panjabi,Fashion,1770.0,1.0,15,Nagad,Rangpur,6.0,Delivered,5.0
+ORD0008,C011,2024-07-05,Saree,Fashion,3479.5,3.0,5,Nagad,Dhaka,6.0,Delivered,5.0
+ORD0299,C010,2025-10-14,Tea 400G,Grocery,294.0,2.0,5,bKash,Rangpur,10.0,Cancelled,1.0
+ORD0255,C072,2024-06-20,Notebook,Books,96.0,4.0,0,bKash,Sylhet,4.0,Delivered,1.0
+ORD0378,C035,2025-05-31,T-Shirt,Fashion,628.0,5.0,0,bKash,Unknown_City,6.0,Delivered,5.0
+ORD0342,C109,2024-05-09,Headphones,Electronics,1642.0,2.0,0,Card,Sylhet,2.0,Delivered,4.0
+ORD0009,C090,2025-07-23,Panjabi,Fashion,1937.0,3.0,0,Nagad,Barishal,2.0,Delivered,5.0
+ORD0157,C013,2024-05-23,Headphones,Electronics,1532.0,5.0,0,Cash on Delivery,Barishal,3.0,Delivered,4.0
+ORD0028,C109,2025-10-12,Headphones,Electronics,1649.0,4.0,5,bKash,Unknown_City,8.0,Delivered,5.0
+ORD0267,C051,2024-02-19,Tea 400G,Grocery,343.0,3.0,0,bKash,Barishal,8.0,Delivered,4.0
+ORD0065,C029,2025-09-02,T-Shirt,Fashion,579.0,2.0,0,Cash on Delivery,Unknown_City,3.0,Delivered,4.0
+ORD0256,C048,2024-06-21,Panjabi,Fashion,1701.0,3.0,5,Card,Dhaka,9.0,Returned,2.0
+ORD0325,C103,2024-05-24,Novel,Books,355.0,4.0,0,bKash,Rajshahi,4.0,Delivered,5.0
+ORD0154,C023,2024-10-13,Sneakers,Fashion,2802.0,5.0,10,bKash,Barishal,3.0,Delivered,5.0
+ORD0049,C091,2024-09-13,Tea 400G,Grocery,307.0,4.0,5,Cash on Delivery,Khulna,4.0,Delivered,4.0
+ORD0209,C065,2025-05-15,Headphones,Electronics,1392.0,5.0,0,bKash,Barishal,9.0,Delivered,2.0
+ORD0288,C020,2025-10-04,Panjabi,Fashion,1876.0,5.0,0,Card,Barishal,8.0,Returned,5.0
+ORD0002,C089,2025-08-12,Tea 400G,Grocery,290.0,3.0,15,Card,Sylhet,7.0,Delivered,2.0
+ORD0270,C106,2025-03-15,Notebook,Books,94.0,2.0,15,Unknown,Sylhet,2.0,Delivered,4.0
+ORD0266,C040,2025-05-21,T-Shirt,Fashion,656.0,2.0,0,Cash on Delivery,Barishal,5.0,Delivered,3.0
+ORD0334,C089,2025-05-17,Smartphone,Electronics,17614.0,5.0,0,bKash,Sylhet,6.0,Delivered,5.0
+ORD0096,C088,2024-02-28,Panjabi,Fashion,1786.0,1.0,0,Cash on Delivery,Khulna,2.0,Delivered,5.0
+ORD0473,C012,2024-07-25,Novel,Books,350.0,1.0,15,Cash on Delivery,Rangpur,4.0,Delivered,4.0
+ORD0305,C071,2024-02-01,Novel,Books,336.0,2.0,5,Card,Khulna,9.0,Returned,4.0
+ORD0117,C025,2025-08-11,Tea 400G,Grocery,322.0,5.0,0,Nagad,Rangpur,5.0,Delivered,1.0
+ORD0046,C092,2025-06-27,Saree,Fashion,3451.0,2.0,5,Nagad,Khulna,3.0,Delivered,2.0
+ORD0162,C027,2025-03-04,T-Shirt,Fashion,542.0,3.0,0,Card,Chattogram,4.0,Delivered,5.0
+ORD0499,C062,2025-03-07,Novel,Books,372.0,3.0,15,Card,Chattogram,2.0,Delivered,3.0
+ORD0118,C005,2025-03-02,Tea 400G,Grocery,311.0,5.0,0,bKash,Unknown_City,9.0,Delivered,2.0
+ORD0289,C105,2024-06-19,Smartphone,Electronics,17999.0,5.0,0,Nagad,Rajshahi,6.0,Delivered,2.0
+ORD0078,C066,2025-08-10,Cooking Oil 5L,Grocery,827.0,3.0,0,Card,Chattogram,9.0,Cancelled,1.0
+ORD0402,C055,2025-05-19,Notebook,Books,83.0,2.0,0,Card,Khulna,2.0,Delivered,4.0
+ORD0064,C047,2025-08-01,Saree,Fashion,3320.0,2.0,0,bKash,Rangpur,9.0,Delivered,4.0
+ORD0459,C099,2025-01-22,Tea 400G,Grocery,326.0,2.0,5,Nagad,Khulna,2.0,Delivered,4.0
+ORD0397,C116,2025-08-09,T-Shirt,Fashion,549.0,4.0,5,bKash,Sylhet,8.0,Delivered,5.0
+ORD0231,C031,2024-01-07,Rice 5Kg,Grocery,415.0,3.0,5,Cash on Delivery,Dhaka,10.0,Delivered,4.0
+ORD0298,C028,2024-02-14,Headphones,Electronics,1563.0,1.0,0,Card,Rangpur,6.0,Delivered,2.0
+ORD0187,C020,2024-02-16,Notebook,Books,85.0,1.0,5,Cash on Delivery,Barishal,2.0,Returned,1.0
+ORD0120,C011,2024-12-31,Saree,Fashion,3328.0,1.0,0,Cash on Delivery,Dhaka,4.0,Delivered,5.0
+ORD0200,C019,2024-12-04,Sneakers,Fashion,2656.0,2.0,15,bKash,Unknown_City,8.0,Delivered,2.0
+ORD0351,C026,2024-03-08,Smartphone,Electronics,18055.0,2.0,0,Card,Rangpur,3.0,Returned,1.0
+ORD0122,C001,2024-02-07,Headphones,Electronics,1369.0,4.0,0,Nagad,Barishal,1.0,Delivered,1.0
+ORD0479,C055,2025-07-30,Notebook,Books,89.0,4.0,5,Unknown,Khulna,6.0,Delivered,5.0
+ORD0443,C072,2025-08-15,Cooking Oil 5L,Grocery,872.0,5.0,5,Unknown,Sylhet,1.0,Returned,4.0
+ORD0308,C014,2024-05-11,T-Shirt,Fashion,648.0,4.0,0,Cash on Delivery,Barishal,2.0,Delivered,5.0
+ORD0472,C041,2025-01-28,Saree,Fashion,3206.0,1.0,5,Cash on Delivery,Khulna,10.0,Delivered,3.0
+ORD0159,C061,2025-08-20,Saree,Fashion,3622.0,4.0,0,bKash,Unknown_City,10.0,Delivered,4.0
+ORD0086,C115,2024-01-08,Panjabi,Fashion,1790.0,1.0,5,Card,Sylhet,3.0,Delivered,4.0
+ORD0226,C083,2024-04-15,Cooking Oil 5L,Grocery,859.0,4.0,0,bKash,Dhaka,6.0,Returned,2.0
+ORD0263,C020,2025-05-16,T-Shirt,Fashion,631.0,4.0,0,Cash on Delivery,Barishal,7.0,Delivered,5.0
+ORD0332,C105,2024-02-24,Tea 400G,Grocery,345.0,2.0,0,Cash on Delivery,Rajshahi,4.0,Delivered,5.0
+ORD0411,C045,2025-01-25,Smartphone,Electronics,18082.0,1.0,0,bKash,Chattogram,1.0,Delivered,4.0
+ORD0077,C060,2024-08-05,Saree,Fashion,3223.0,5.0,0,Card,Dhaka,4.0,Delivered,5.0
+ORD0398,C064,2024-04-15,Laptop,Electronics,60287.0,1.0,5,Card,Barishal,1.0,Returned,1.0
+ORD0383,C023,2024-09-26,Rice 5Kg,Grocery,423.0,2.0,10,Nagad,Barishal,6.0,Delivered,4.0
+ORD0088,C046,2024-11-16,Sneakers,Fashion,2530.0,1.0,10,Unknown,Sylhet,10.0,Delivered,5.0
+ORD0183,C060,2024-03-20,Cooking Oil 5L,Grocery,841.0,3.0,10,Unknown,Dhaka,1.0,Returned,4.0
+ORD0106,C074,2024-07-04,Tea 400G,Grocery,312.0,2.0,15,Nagad,Chattogram,8.0,Delivered,5.0
+ORD0409,C011,2024-12-19,T-Shirt,Fashion,615.0,3.0,15,Nagad,Dhaka,3.0,Returned,5.0
+ORD0050,C029,2025-01-02,Laptop,Electronics,52109.0,5.0,10,Cash on Delivery,Khulna,5.0,Delivered,5.0
+ORD0390,C111,2025-05-04,Rice 5Kg,Grocery,429.0,4.0,5,Nagad,Dhaka,2.0,Delivered,1.0
+ORD0006,C034,2025-05-10,Tea 400G,Grocery,340.0,5.0,5,Card,Chattogram,10.0,Delivered,5.0
+ORD0018,C092,2024-06-04,Laptop,Electronics,55847.0,1.0,0,Unknown,Khulna,2.0,Delivered,2.0
+ORD0235,C026,2025-04-17,Novel,Books,369.0,1.0,15,Nagad,Rangpur,8.0,Delivered,2.0
+ORD0413,C117,2025-09-22,Saree,Fashion,3720.0,1.0,15,Nagad,Dhaka,9.0,Delivered,4.0
+ORD0407,C037,2024-10-07,Tea 400G,Grocery,322.0,2.0,5,Cash on Delivery,Sylhet,5.0,Delivered,3.0
+ORD0107,C042,2025-03-30,Saree,Fashion,3623.0,2.0,10,Cash on Delivery,Chattogram,8.0,Delivered,4.0
+ORD0135,C049,2025-01-05,Panjabi,Fashion,1926.0,2.0,10,Nagad,Unknown_City,2.0,Delivered,3.0
+ORD0414,C012,2024-02-18,Cooking Oil 5L,Grocery,898.0,3.0,5,Card,Rangpur,7.0,Delivered,1.0
+ORD0227,C039,2025-01-29,Tea 400G,Grocery,326.0,3.0,0,Cash on Delivery,Unknown_City,7.0,Delivered,2.0
+ORD0215,C106,2024-11-03,Rice 5Kg,Grocery,456.0,2.0,15,bKash,Sylhet,1.0,Delivered,5.0
+ORD0191,C015,2025-04-19,Smartphone,Electronics,18922.0,3.0,15,Card,Barishal,9.0,Delivered,4.0
+ORD0453,C086,2025-01-05,T-Shirt,Fashion,558.0,2.0,10,bKash,Khulna,4.0,Delivered,5.0
+ORD0321,C066,2024-03-15,Laptop,Electronics,58811.0,3.0,0,Card,Unknown_City,10.0,Delivered,5.0
+ORD0283,C058,2025-06-07,Panjabi,Fashion,1650.0,1.0,0,Nagad,Barishal,9.0,Delivered,5.0
+ORD0030,C042,2024-11-18,Cooking Oil 5L,Grocery,771.0,1.0,0,Cash on Delivery,Chattogram,2.0,Delivered,1.0
+ORD0170,C115,2025-04-28,Smartphone,Electronics,16561.0,3.0,0,Nagad,Sylhet,1.0,Returned,3.0
+ORD0181,C103,2025-05-04,Tea 400G,Grocery,302.0,2.0,0,Card,Rajshahi,10.0,Delivered,5.0
+ORD0101,C078,2024-09-15,Cooking Oil 5L,Grocery,880.0,3.0,15,Nagad,Chattogram,6.0,Delivered,3.0
+ORD0198,C034,2024-11-03,Notebook,Books,88.0,2.0,5,Nagad,Chattogram,9.0,Delivered,4.0
+ORD0210,C012,2025-02-26,Novel,Books,318.0,1.0,0,Nagad,Rangpur,2.0,Delivered,1.0
+ORD0136,C077,2025-01-04,T-Shirt,Fashion,635.0,1.0,10,Cash on Delivery,Chattogram,8.0,Returned,3.0
+ORD0484,C113,2024-07-30,Notebook,Books,85.0,3.0,0,Nagad,Rajshahi,4.0,Cancelled,5.0
+ORD0441,C019,2024-11-08,Rice 5Kg,Grocery,447.0,3.0,5,Unknown,Barishal,3.0,Cancelled,2.0
+ORD0199,C063,2025-04-19,T-Shirt,Fashion,576.0,2.0,0,Card,Barishal,7.0,Returned,3.0
+ORD0374,C005,2024-07-14,Smartphone,Electronics,19411.0,5.0,0,bKash,Chattogram,4.0,Delivered,5.0
+ORD0167,C024,2024-10-24,Sneakers,Fashion,2805.5,2.0,0,Unknown,Rajshahi,2.0,Delivered,5.0
+ORD0395,C108,2025-06-01,Smartphone,Electronics,18516.0,2.0,5,Card,Unknown_City,3.0,Delivered,5.0
+ORD0137,C002,2024-11-12,Tea 400G,Grocery,345.0,1.0,5,Card,Barishal,9.0,Delivered,5.0
+ORD0286,C089,2024-06-16,Smartphone,Electronics,18748.0,1.0,5,Cash on Delivery,Sylhet,9.0,Returned,4.0
+ORD0336,C050,2025-04-29,Novel,Books,335.0,1.0,0,Cash on Delivery,Unknown_City,7.0,Delivered,5.0
+ORD0132,C079,2024-07-09,T-Shirt,Fashion,655.0,1.0,5,Card,Rangpur,9.0,Delivered,4.0
+ORD0040,C020,2025-05-22,Sneakers,Fashion,3074.0,2.0,0,Nagad,Barishal,9.0,Cancelled,5.0
+ORD0216,C044,2024-02-27,Sneakers,Fashion,2731.0,4.0,15,bKash,Dhaka,3.0,Delivered,5.0
+ORD0044,C006,2024-08-20,T-Shirt,Fashion,616.0,3.0,15,bKash,Unknown_City,7.0,Delivered,2.0
+ORD0055,C108,2024-04-27,Panjabi,Fashion,1889.0,3.0,5,bKash,Rangpur,3.0,Delivered,5.0
+ORD0488,C074,2025-04-13,Cooking Oil 5L,Grocery,824.0,2.0,0,Card,Chattogram,6.0,Delivered,1.0
+ORD0300,C051,2024-08-30,Sneakers,Fashion,2891.0,2.0,0,Cash on Delivery,Barishal,6.0,Delivered,4.0
+ORD0468,C053,2024-07-02,Cooking Oil 5L,Grocery,898.0,4.0,0,Card,Dhaka,5.0,Delivered,5.0
+ORD0036,C036,2025-06-04,Sneakers,Fashion,2627.0,5.0,15,Nagad,Khulna,2.0,Delivered,5.0
+ORD0316,C061,2024-08-12,Cooking Oil 5L,Grocery,904.0,1.0,10,Card,Khulna,6.0,Delivered,3.0
+ORD0400,C031,2024-12-05,Smartphone,Electronics,19140.0,4.0,10,Card,Dhaka,6.0,Delivered,4.0
+ORD0310,C090,2024-08-07,Novel,Books,345.0,3.0,0,Cash on Delivery,Barishal,5.0,Delivered,3.0
+ORD0277,C114,2025-07-20,Panjabi,Fashion,1852.0,2.0,10,Unknown,Rangpur,6.0,Delivered,4.0
+ORD0125,C040,2024-12-13,Notebook,Books,89.0,4.0,0,Card,Barishal,6.0,Delivered,4.0
+ORD0143,C059,2024-03-24,Tea 400G,Grocery,291.0,1.0,0,Cash on Delivery,Barishal,4.0,Cancelled,5.0
+ORD0111,C011,2025-03-23,Rice 5Kg,Grocery,486.0,2.0,0,Nagad,Dhaka,8.0,Delivered,1.0
+ORD0324,C109,2025-08-04,Notebook,Books,98.0,4.0,0,Nagad,Sylhet,6.0,Delivered,4.0
+ORD0333,C069,2024-09-28,Notebook,Books,91.0,5.0,15,Cash on Delivery,Chattogram,5.0,Delivered,2.0
+ORD0394,C038,2025-05-08,Sneakers,Fashion,2891.0,2.0,0,Card,Dhaka,3.0,Returned,1.0
+ORD0474,C020,2025-01-03,Tea 400G,Grocery,299.0,1.0,0,bKash,Barishal,3.0,Delivered,4.0
+ORD0108,C042,2024-07-17,Panjabi,Fashion,1968.0,4.0,0,Card,Chattogram,8.0,Delivered,4.0
+ORD0456,C109,2025-06-13,Headphones,Electronics,1427.0,2.0,5,bKash,Sylhet,5.0,Delivered,4.0
+ORD0013,C120,2024-11-19,T-Shirt,Fashion,554.0,2.0,0,Nagad,Barishal,4.0,Delivered,5.0
+ORD0273,C056,2024-11-16,Notebook,Books,96.0,1.0,0,Cash on Delivery,Chattogram,3.0,Delivered,3.0
+ORD0048,C022,2025-04-21,Rice 5Kg,Grocery,428.0,1.0,0,Nagad,Rajshahi,2.0,Delivered,5.0
+ORD0204,C061,2024-11-25,Sneakers,Fashion,3032.0,5.0,0,Card,Unknown_City,8.0,Returned,4.0
+ORD0478,C092,2024-12-14,Cooking Oil 5L,Grocery,777.0,3.0,0,Cash on Delivery,Khulna,9.0,Cancelled,4.0
+ORD0022,C046,2025-04-26,Smartphone,Electronics,17671.0,5.0,0,bKash,Sylhet,6.0,Delivered,4.0
+ORD0403,C111,2024-08-08,T-Shirt,Fashion,554.0,4.0,5,Nagad,Dhaka,6.0,Delivered,5.0
+ORD0084,C057,2024-04-23,Cooking Oil 5L,Grocery,784.0,4.0,0,Card,Barishal,9.0,Delivered,1.0
+ORD0131,C078,2025-08-10,Saree,Fashion,3410.0,1.0,0,Cash on Delivery,Chattogram,7.0,Delivered,4.0
+ORD0457,C061,2025-05-08,Rice 5Kg,Grocery,460.0,4.0,0,Nagad,Khulna,7.0,Cancelled,3.0
+ORD0494,C084,2025-08-04,Rice 5Kg,Grocery,432.0,5.0,0,Card,Dhaka,2.0,Delivered,1.0
+ORD0330,C055,2024-03-16,Smartphone,Electronics,17347.0,1.0,0,Nagad,Khulna,7.0,Delivered,2.0
+ORD0230,C117,2025-01-04,Panjabi,Fashion,1794.0,1.0,0,Nagad,Dhaka,8.0,Cancelled,4.0
+ORD0287,C056,2024-04-30,Headphones,Electronics,1462.0,3.0,0,Cash on Delivery,Chattogram,7.0,Delivered,2.0
+ORD0124,C053,2024-12-05,Panjabi,Fashion,1749.0,1.0,0,bKash,Dhaka,6.0,Delivered,5.0
+ORD0034,C061,2024-04-26,Cooking Oil 5L,Grocery,834.0,2.0,5,bKash,Khulna,3.0,Delivered,4.0
+ORD0005,C066,2025-10-12,Laptop,Electronics,54269.0,3.0,5,Nagad,Chattogram,6.0,Delivered,4.0
+ORD0412,C015,2024-05-29,Headphones,Electronics,1645.0,3.0,0,Cash on Delivery,Barishal,4.0,Returned,1.0
+ORD0020,C114,2025-03-15,Rice 5Kg,Grocery,432.0,5.0,0,bKash,Rangpur,10.0,Delivered,4.0
+ORD0220,C112,2025-01-28,Novel,Books,378.0,3.0,15,Nagad,Rangpur,2.0,Returned,5.0
+ORD0380,C029,2025-01-24,Notebook,Books,83.0,4.0,0,Cash on Delivery,Khulna,8.0,Delivered,4.0
+ORD0420,C081,2024-06-12,Cooking Oil 5L,Grocery,777.0,5.0,5,Card,Sylhet,2.0,Delivered,4.0
+ORD0357,C046,2025-09-07,Rice 5Kg,Grocery,487.0,2.0,0,Nagad,Sylhet,5.0,Cancelled,4.0
+ORD0150,C116,2025-05-24,Cooking Oil 5L,Grocery,844.0,3.0,0,bKash,Sylhet,7.0,Returned,5.0
+ORD0225,C014,2024-04-14,Panjabi,Fashion,1780.0,3.0,0,bKash,Barishal,3.0,Delivered,5.0
+ORD0248,C046,2024-04-26,Saree,Fashion,3378.0,4.0,0,Card,Sylhet,9.0,Delivered,5.0
+ORD0454,C108,2025-05-05,Notebook,Books,83.0,4.0,0,Nagad,Unknown_City,7.0,Delivered,4.0
+ORD0152,C055,2025-03-17,Panjabi,Fashion,1813.0,1.0,0,Cash on Delivery,Khulna,6.0,Delivered,5.0
+ORD0493,C016,2024-06-29,Notebook,Books,84.0,1.0,5,Card,Barishal,3.0,Returned,5.0
+ORD0318,C090,2025-07-09,Tea 400G,Grocery,349.0,4.0,0,Nagad,Barishal,8.0,Delivered,2.0
+ORD0292,C046,2024-10-04,Sneakers,Fashion,3033.0,3.0,0,Cash on Delivery,Sylhet,2.0,Returned,1.0
+ORD0234,C100,2025-01-08,Sneakers,Fashion,2677.0,4.0,0,Nagad,Rangpur,6.0,Returned,3.0
+ORD0011,C092,2024-11-09,Panjabi,Fashion,1700.0,2.0,15,Cash on Delivery,Khulna,8.0,Returned,5.0
+ORD0280,C052,2025-03-06,Sneakers,Fashion,3002.0,5.0,0,Nagad,Dhaka,8.0,Delivered,1.0
+ORD0072,C090,2024-04-11,Rice 5Kg,Grocery,450.0,4.0,15,bKash,Barishal,9.0,Delivered,5.0
+ORD0253,C019,2025-09-26,Headphones,Electronics,1444.0,4.0,0,Cash on Delivery,Barishal,1.0,Delivered,3.0
+ORD0093,C029,2024-06-30,Tea 400G,Grocery,298.0,1.0,15,Card,Khulna,8.0,Cancelled,5.0
+ORD0492,C015,2024-10-03,Tea 400G,Grocery,332.0,1.0,0,Card,Barishal,7.0,Delivered,3.0
+ORD0350,C086,2024-07-11,Notebook,Books,89.0,1.0,5,Nagad,Khulna,7.0,Delivered,5.0
+ORD0416,C078,2025-04-04,Notebook,Books,98.0,3.0,0,bKash,Chattogram,3.0,Delivered,2.0
+ORD0375,C012,2025-05-30,Panjabi,Fashion,1666.0,4.0,10,Cash on Delivery,Rangpur,3.0,Delivered,1.0
+ORD0401,C081,2024-01-03,Laptop,Electronics,57853.0,2.0,0,Cash on Delivery,Sylhet,5.0,Returned,5.0
+ORD0193,C032,2025-08-31,T-Shirt,Fashion,565.0,1.0,0,Card,Dhaka,10.0,Delivered,4.0
+ORD0258,C112,2024-10-31,Sneakers,Fashion,2577.0,2.0,0,Card,Rangpur,5.0,Delivered,2.0
+ORD0495,C095,2025-10-06,T-Shirt,Fashion,638.0,4.0,0,Card,Chattogram,6.0,Delivered,4.0
+ORD0340,C075,2025-06-19,Cooking Oil 5L,Grocery,775.0,4.0,5,Unknown,Chattogram,10.0,Delivered,5.0
+ORD0068,C019,2025-06-09,Rice 5Kg,Grocery,445.0,3.0,10,bKash,Unknown_City,8.0,Returned,4.0
+ORD0196,C113,2024-11-03,Novel,Books,351.0,4.0,0,bKash,Rajshahi,9.0,Cancelled,3.0
+ORD0344,C031,2025-06-16,Cooking Oil 5L,Grocery,820.0,3.0,5,bKash,Dhaka,10.0,Cancelled,5.0
+ORD0138,C012,2025-10-19,Tea 400G,Grocery,293.0,3.0,0,Card,Rangpur,8.0,Returned,5.0
+ORD0261,C106,2024-10-23,Saree,Fashion,3835.0,3.0,10,Cash on Delivery,Sylhet,9.0,Delivered,3.0
+ORD0039,C070,2024-08-27,Notebook,Books,85.0,4.0,5,bKash,Dhaka,6.0,Delivered,5.0
+ORD0463,C017,2024-12-24,Rice 5Kg,Grocery,476.0,4.0,10,bKash,Chattogram,7.0,Delivered,4.0
+ORD0202,C120,2025-07-26,Laptop,Electronics,51570.0,5.0,0,Card,Barishal,4.0,Delivered,4.0
+ORD0481,C007,2025-06-12,Saree,Fashion,3439.0,3.0,10,bKash,Rangpur,5.0,Delivered,4.0
+ORD0291,C104,2024-02-06,Sneakers,Fashion,3035.0,2.0,10,Card,Sylhet,4.0,Delivered,4.0
+ORD0449,C012,2024-02-10,Rice 5Kg,Grocery,488.0,1.0,15,Cash on Delivery,Rangpur,2.0,Returned,4.0
+ORD0190,C050,2024-07-01,Novel,Books,375.0,1.0,10,Card,Rajshahi,9.0,Delivered,4.0
+ORD0252,C016,2025-10-22,Headphones,Electronics,1496.0,5.0,0,Nagad,Barishal,8.0,Delivered,3.0
+ORD0113,C045,2024-12-09,Smartphone,Electronics,17347.0,1.0,0,Nagad,Chattogram,1.0,Delivered,5.0
+ORD0438,C105,2024-10-18,Novel,Books,361.0,1.0,10,bKash,Rajshahi,4.0,Delivered,4.0
+ORD0184,C060,2024-12-01,Tea 400G,Grocery,322.0,2.0,10,Card,Dhaka,2.0,Delivered,5.0
+ORD0153,C092,2025-07-29,Smartphone,Electronics,17642.0,3.0,0,Cash on Delivery,Khulna,9.0,Delivered,2.0
+ORD0313,C053,2025-05-06,Sneakers,Fashion,2958.0,3.0,10,Card,Dhaka,6.0,Cancelled,5.0
+ORD0326,C105,2025-10-16,Headphones,Electronics,1541.0,1.0,15,Cash on Delivery,Rajshahi,6.0,Delivered,4.0
+ORD0192,C069,2024-10-09,T-Shirt,Fashion,595.0,2.0,0,bKash,Chattogram,1.0,Delivered,1.0
+ORD0045,C040,2024-01-30,Rice 5Kg,Grocery,420.0,3.0,0,Cash on Delivery,Barishal,1.0,Delivered,5.0
+ORD0445,C063,2024-05-17,Tea 400G,Grocery,335.0,3.0,5,bKash,Barishal,7.0,Delivered,1.0
+ORD0276,C059,2025-01-28,Headphones,Electronics,1576.0,5.0,0,Card,Barishal,6.0,Delivered,4.0
+ORD0007,C115,2024-10-12,T-Shirt,Fashion,640.0,1.0,5,Nagad,Sylhet,8.0,Cancelled,5.0
+ORD0251,C079,2025-02-01,Saree,Fashion,3635.0,5.0,5,Nagad,Rangpur,10.0,Delivered,5.0
+ORD0312,C119,2024-05-20,Smartphone,Electronics,16516.0,4.0,5,Nagad,Chattogram,9.0,Delivered,1.0
+ORD0076,C047,2025-03-09,Novel,Books,324.0,3.0,15,bKash,Rangpur,5.0,Cancelled,4.0
+ORD0001,C045,2024-06-20,Notebook,Books,86.0,3.0,10,bKash,Chattogram,3.0,Delivered,2.0
+ORD0429,C012,2024-11-19,Rice 5Kg,Grocery,462.0,4.0,0,Card,Rangpur,2.0,Returned,1.0
+ORD0392,C089,2025-05-09,Saree,Fashion,3578.0,2.0,5,bKash,Unknown_City,7.0,Delivered,1.0
+ORD0384,C027,2024-07-31,Headphones,Electronics,1362.0,4.0,15,Card,Chattogram,6.0,Delivered,4.0
+ORD0433,C041,2024-01-12,Novel,Books,325.0,3.0,10,Nagad,Khulna,2.0,Delivered,1.0
+ORD0069,C024,2024-11-04,Tea 400G,Grocery,291.0,5.0,5,bKash,Rajshahi,1.0,Delivered,5.0
+ORD0487,C087,2024-05-11,Sneakers,Fashion,2644.0,5.0,0,Card,Khulna,8.0,Returned,1.0
+ORD0168,C102,2024-08-07,Novel,Books,333.0,4.0,0,Cash on Delivery,Rangpur,9.0,Delivered,3.0
+ORD0393,C105,2024-01-13,Laptop,Electronics,52378.0,3.0,15,Nagad,Rajshahi,6.0,Returned,2.0
+ORD0219,C030,2024-03-19,T-Shirt,Fashion,610.0,4.0,0,Nagad,Rangpur,10.0,Delivered,5.0
+ORD0043,C046,2025-01-24,Saree,Fashion,3747.0,5.0,0,Card,Unknown_City,9.0,Delivered,2.0
+ORD0367,C031,2024-12-05,Notebook,Books,97.0,4.0,0,Cash on Delivery,Dhaka,10.0,Delivered,5.0
+ORD0346,C075,2025-02-24,Panjabi,Fashion,1932.0,3.0,0,Card,Chattogram,8.0,Cancelled,5.0
+ORD0073,C033,2024-12-13,Rice 5Kg,Grocery,485.0,4.0,5,Card,Rangpur,7.0,Delivered,5.0
+ORD0024,C049,2024-05-25,Novel,Books,325.0,3.0,0,bKash,Chattogram,3.0,Delivered,4.0
+ORD0399,C064,2025-10-14,Laptop,Electronics,58210.0,5.0,0,Nagad,Barishal,8.0,Delivered,5.0
+ORD0186,C071,2024-11-11,Tea 400G,Grocery,292.0,4.0,15,bKash,Khulna,7.0,Delivered,4.0
+ORD0349,C076,2024-08-21,Panjabi,Fashion,1923.0,1.0,0,Cash on Delivery,Chattogram,8.0,Delivered,4.0
+ORD0104,C086,2024-12-15,Saree,Fashion,3366.0,2.0,5,Nagad,Khulna,4.0,Delivered,3.0
+ORD0408,C087,2024-11-02,Headphones,Electronics,1474.0,5.0,15,Cash on Delivery,Khulna,9.0,Delivered,4.0
+ORD0212,C015,2024-01-18,Cooking Oil 5L,Grocery,859.0,1.0,10,Cash on Delivery,Barishal,9.0,Delivered,4.0
+ORD0197,C075,2025-05-22,Novel,Books,363.0,5.0,0,Cash on Delivery,Chattogram,7.0,Returned,5.0
+ORD0176,C059,2025-08-04,Notebook,Books,87.0,3.0,15,Nagad,Barishal,3.0,Cancelled,5.0
