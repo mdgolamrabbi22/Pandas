@@ -74,4 +74,13 @@ for col in ["qty", "rating", "delivery_days"]:
 # print(cpy_df["order_date"].min(), cpy_df["order_date"].max())
 # print(cpy_df[["price", "qty", "rating", "delivery_days"]].describe())
 
-cpy_df = cpy_df.to_csv("clean_data.csv", index=False)
+# cpy_df = cpy_df.to_csv("clean_data.csv", index=False)
+
+# Data Column Create
+
+cpy_df["gross_amount"] = cpy_df["price"] * cpy_df["qty"]
+cpy_df["discount_amount"] = cpy_df["gross_amount"] * \
+    cpy_df["discount_percentage"] / 100
+cpy_df["total_amount"] = cpy_df["gross_amount"] - cpy_df["discount_amount"]
+
+print(cpy_df[["gross_amount", "discount_amount", "total_amount"]].head())
