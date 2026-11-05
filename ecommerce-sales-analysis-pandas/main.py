@@ -299,7 +299,7 @@ plt.title("Customer Age Distribution")
 plt.xlabel("Customer Age")
 plt.ylabel("Number of Records")
 plt.tight_layout()
-# plt.show()
+plt.show()
 
 
 # part-7: Bussines insights
