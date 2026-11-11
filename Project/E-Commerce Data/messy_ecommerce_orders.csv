@@ -1,0 +1,1056 @@
+﻿Order ID,Customer_ID,customer name,Age ,GENDER,City,Category,Unit Price,Qty,discount_pct,Payment Method,Order Date,Ship Date,Delivery Status,Customer Rating,is_member,Total Amount
+ORD10665,C278,Rahim Uddin,18, Female,Khulna,Beauty,332.44,5,0.0,BKASH,01-15-2024,18/01/2024,delivered,3,True,1662.2
+ORD10073,C257,  Imran Khan  ,23,Female,Dhaka,Sports,2702.41,4,20.0,Debit Card,15 Jan 2025,"January 18, 2025",Delivered,4,True,8647.71
+ORD10407,C261,Shirin Sultana,thirty,MALE,?,Sports,4609.05,1,0.0,Debit Card,02-16-2024,2024-02-20,Returned,-,true,4609.05
+ORD10190,C341,  Sabbir Ahmed  ,36,Male,Khulna,Electronics,9134.09,1,0.0,Debit Card,03/08/2024,2023-01-01,Deliverd,nan,True,9134.09
+ORD10933,C183,Rahim Uddin,34,Male,Dhaka,electronics,7975.15,4,5.0,Debit Card,02/05/2025,"May 03, 2025",Delivered,4,False,30305.57
+ORD10128,nan,  Rahim Uddin  ,45,female,Dhaka,Beauty,"৳1,393.02",4,5.0,NULL,02-23-2025,03 Mar 2025,delivered,3,1,5293.48
+ORD10915,C243,  Farhana Rahman  ,38,Male,Chittagong,Sports,BDT 3684.54,1,15.0,bkash,03-08-2025,12/03/2025,Delivered,4,N,3131.86
+ORD10057,C149,Mim Chowdhury,36,Female,Chittagong,N/A,211.62,1,20.0,bKash,05 Mar 2024,2023-01-01,Delivered,5,True,169.3
+ORD10119,C466,Sabbir Ahmed,39,Female,Dhaka,Sports,1174.22,2,20.0,bKash,"October 03, 2024","October 10, 2024",Delivered,4,0,$1878.75
+ORD10934,C196,farhana rahman,35,Male,-,Electronics,16537.76,1,15.0,Credit Card,09-18-2024,09-26-2024,Delivered,1,1,14057.1
+ORD10976,C342,ARIF ISLAM,18,Female,barisal,Beauty,1041.01,3,10.0,Credit Card,04-24-2024,"April 27, 2024",Cancelled,5,False,2810.73
+ORD10718,C434,Imran Khan,23,Female,Khulna,Clothing,2325.48,1,0.0,credit card,13 Mar 2025,17 Mar 2025,Delivered,4,True,2325.48
+ORD10058,C489,Mim Chowdhury,27,Female,Dhaka,Books,719.6,4,25.0,Credit card,2024-05-23,31/05/2024,Delivered,4,False,2158.8
+ORD10921,C597,Sabbir Ahmed,,Male,Sylhet,Home & Kitchen,"3,111 Tk",1,10.0,Debit Card,17/09/2024,18 Sep 2024,Returned,4,False,2799.5
+ORD10606,C398,Shirin Sultana,twenty five,male,khulna,Books,315.45,1,0.0,COD,"May 21, 2025","May 23, 2025",in transit,missing,True,$315.45
+ORD10027,C141,Tania Akter,35,M,Dhaka,Beauty,-500,1,25.0,Credit Card,09-07-2024,11 Sep 2024,in transit,1,True,689.2
+ORD10119,C466,Sabbir Ahmed,39,Female,Dhaka,Sports,1174.22,2,20.0,bKash,"October 03, 2024","October 10, 2024",Delivered,4,0,$1878.75
+ORD10829,C449,  Shirin Sultana  ,31,Male,?,Home & Kitchen,3274.44,3,25.0,Debit Card,04-20-2024,04-26-2024,Delivered,5,False,7367.49
+ORD10689,C316,Rahim Uddin,22,M,Chittagong,Books ,220.08,4,10.0,Nagad,07 Oct 2024,10-11-2024,Returned,5,True,NULL
+ORD10628,C593,Tania Akter,20,Female,Rajshahi,Home & Kitchen,5484.14,1,150,Credit Card,20/11/2024,21 Nov 2024,Delivered,3,False,5484.14
+ORD10524,C540,Arif Islam,41,Male,Rajshahi,Beauty,996.62,5,15.0,Credit Card,06-21-2024,06-28-2024,in transit,5,1,4235.64
+ORD10164,C383,Rahim Uddin,,Female,Rajshahi,Books,N/A,2,5.0,bKash,2025-03-26,01 Apr 2025,Delivered,5,False,409.07
+ORD10393,C409,karim hossain,25, Female,Barisal,Home & Kitchen,8182.29,3,5.0,Nagad,29 Apr 2024,06 May 2024,Delivered,4,False,23319.53
+ORD10763,C238,Mim Chowdhury,39,Female,Barisal,Beauty,NA,2,0.0,Nagad,13 Feb 2024,2024-02-16,Delivered,null,True,$2664.88
+ORD10889,C240,Farhana Rahman,51,male,Dhaka,Home & Kitchen,"2,886 Tk",4,20.0,bKash,2025-03-03,03-05-2025,in transit,4,True,9236.64
+ORD10051,C512,Arif Islam,35,Male,DHAKA,Beauty,6000.0,5,0.0,Credit Card,2024-10-12,17 Oct 2024,Delivered,2,True,30000.0
+ORD10378,C546,Arif Islam,42,Female,Sylhet,Sports,3482.62,3,10.0,Credit Card,"August 17, 2024",18 Aug 2024,Delivered,5,1,9403.07
+ORD10049,C533,Farhana Rahman,31,male,Dhaka,Beauty,764.24,1,5.0,Credit card,"July 09, 2025",2025-07-13,Returned,5,1,726.03
+ORD10668,-,  Farhana Rahman  ,27,M,Chittagong,Sports,1267.84,1,15.0,Debit Card,26 Aug 2024,08-28-2024,Delivered,1,1,1077.66
+ORD10878,C254,FARHANA RAHMAN,27,Male,Khulna,Sports,957.93,2,150,Cash on Delivery,26/03/2024,2024-03-28,Cancelled,5,False,1915.86
+ORD10678,C530,arif islam,48,MALE,Dhaka,Beauty,395.33,1,20.0,Debit Card,2025-03-05,2025-03-06,Returned,3,True,316.26
+ORD10401,C328,Arif Islam,47,Male,-,home & kitchen,4959.72,4,0.0,bKash,04 Sep 2024,09-05-2024,Delivered,3,False,19838.88
+ORD10558,C317,Mim Chowdhury,nan,Female,Sylhet,Books,325.73,2,10.0,Debit Card,2024-11-08,2024-11-11,Delivered,3,False,$586.31
+ORD10227,C148,Arif Islam,32,male,Barisal,Electronics,5259.45,1,25.0,bKash,2024-06-09,11/06/2024,Cancelled,10,true,3944.59
+ORD10650,C432,Tania Akter,36,Male,Barisal,Home & Kitchen,6281.02,2,10.0,Nagad,26/03/2024,"March 29, 2024",Delivered,NA,False,11305.84
+ORD10585,C556,NUSRAT JAHAN,0,Male,Sylhet,Electronics,NULL,5,0.0,Cash on Delivery,26/02/2024,"March 04, 2024",Cancelled,4,False,52439.6
+ORD10820,C527,Farhana Rahman,31,Male,Rajshahi,Sports,2117.33,1,10.0,Debit Card,25/07/2024,26/07/2024,Cancelled,1,False,1905.6
+ORD10526,C563,Rahim Uddin,23,Male,Dhaka,Sports,3115.25,1,20.0,Nagad,"August 24, 2024","August 30, 2024",DELIVERED,5,True,2492.2
+ORD10654,C571,Rahim Uddin,34,Female,Rajshahi,Beauty,1105.19,5,10.0,Credit card,2025-06-01,05/06/2025,Delivered,2,False,4973.36
+ORD10701,C396,Mim Chowdhury,46,Female,Barisal,Clothing,2021.68,3,15.0,BKASH,2024-06-27,07-04-2024,Delivered,5,No,?
+ORD10004,C489,  Arif Islam  ,30,male,Sylhet,Clothing,1185.89,3,5.0,bKash,10/02/2024,18/02/2024,Delivered,null,False,3379.79
+ORD10197,C131,Sabbir Ahmed,29,Male,Rajshahi,Books,386.22,4,0.0,Credit Card,2024-11-27,2024-12-05,Delivered,5,False,1544.88
+ORD10749,C580,Farhana Rahman,31,Female,Khulna,Home & Kitchen,15109.52,2,15.0,bkash,2025-01-06,01-07-2025,Delivered,1,No,
+ORD10946,C137,Nusrat Jahan,32,Female,Barisal,Electronics,11457.8,3,0.0,Credit Card,11/01/2024,"January 15, 2024",Cancelled,5,True,34373.4
+ORD10143,C256,Nusrat Jahan,29,male,,BOOKS,102.52,2,0.0,COD,13 Aug 2025,17 Aug 2025,Delivered,5,False,205.04
+ORD10633,C294,  Arif Islam  ,35,female,Chittagong,Sports ,2143.58,1,10.0,Debit Card,"October 18, 2024",24 Oct 2024,Returned,5,No,1929.22
+ORD10589,C565,Farhana Rahman,32, Female,Rajshahi,Beauty,1937.74,1,10.0,Nagad,29/04/2024,"May 05, 2024",Delivered,3,No,1743.97
+ORD10155,C208,Rahim Uddin,36,Male,Rajshahi,Home & Kitchen,BDT 1798.45,1,5.0,N/A,11-24-2024,2024-12-01,Delivered,3,True,1708.53
+ORD10269,C409,Imran Khan,twenty five,Female,Chittagong,Books,842.59,2,0.0,COD,"January 10, 2025",2025-01-16,Delivered,5,1,1685.18
+ORD10123,C377,KARIM HOSSAIN,44,Male,,Books,142.2,1,5.0,missing,02-14-2024,2024-02-21,Delivered,2,Y,135.09
+ORD10168,C334,Karim Hossain,-5,Female,Rajshahi,Books,977.41,5,25.0,COD,08-13-2025,08-21-2025,Delivered,3,True,3665.29
+ORD10263,C368,Nusrat Jahan,N/A,Female,Dhaka,Books ,456.72,3,0.0,Cash on Delivery,09-17-2024,24/09/2024,in transit,2,True,1370.16
+ORD10855,C229,Mim Chowdhury,unknown,Female,Khulna,Electronics,BDT 8544.21,1,15.0,Debit Card,16/01/2024,01-21-2024,Delivered,2,True,7262.58
+ORD10270,C169,Imran Khan,18,female,Dhaka,Books,BDT 473.19,2,10.0,Debit Card,"July 30, 2025",2023-01-01,Delivered,4,False,$851.74
+ORD10287,C532,SHIRIN SULTANA,54,Male,sylhet,Electronics,10444.74,4,0.0,Debit Card,"October 31, 2024",07 Nov 2024,Delivered,5,True,41778.96
+ORD10832,C542,Nusrat Jahan,37,male,Rajshahi,Electronics,17150.07,5,0.0,bKash,18/08/2025,08-23-2025,in transit,1,True,85750.35
+ORD10065,C530,Sabbir Ahmed,39,Male,Chittagong,Sports,BDT 1546.45,1,20.0,Nagad,"January 22, 2024","January 24, 2024",Returned,4,Y,1237.16
+ORD10673,C563,arif islam,25,Male,Rajshahi,Clothing,2544.38,1,25.0,bKash,24/01/2025,01-25-2025,In Transit,5,False,1908.28
+ORD10266,C284,Mim Chowdhury,44,Female,KHULNA,Electronics,9031.46,3,25.0,NULL,"March 13, 2025",03-18-2025,Delivered,5,True,20320.78
+ORD10543,C187,Farhana Rahman,36,Female,Sylet,Clothing,3390.17,1,15.0,bKash,16/08/2025,17 Aug 2025,Delivered,-,0,$2881.64
+ORD10980,C491,nusrat jahan,25,Female,Chattogram,Books,996.32,5,10.0,Credit card,11-28-2024,"December 05, 2024",Cancelled,missing,Y,4483.44
+ORD10947,C254,Nusrat Jahan,37,Male,CTG,NA,-500,2,0.0,Credit Card,28 Mar 2025,03-31-2025,Delivered,4,True,$1503.2
+ORD10194,C560,Farhana Rahman,36,Female,Chittagong,Books,519.03,4,20.0,Cash on Delivery,"August 10, 2024",14/08/2024,Delivered,5,N,1660.9
+ORD10381,C212,Rahim Uddin,46,Male,Sylhet,Electronics,3505.52,2,5.0,Debit Card,07-06-2025,2025-07-10,Delivered,5,False,6660.49
+ORD10840,C534,Farhana Rahman,30,Male,Rajshai,Books,9999999,3,0.0,Debit Card,11-30-2024,2024-12-02,delivered,5,True,1396.68
+ORD10239,C380,Shirin Sultana,18,F,Dhaka,Books,384.56,1,5.0,Credit Card,2024-06-04,2024-06-11,Cancelled,3,True,
+ORD10639,C503,karim hossain,34,Female,Khulna,beauty,1733.53,1,20.0,Nagad,2024-06-22,2024-06-28,Returned,5,True,$1386.82
+ORD10061,C283,Mim Chowdhury,49,Female,Rajshai,Sports,1879.99,2,10.0,cod,09 Apr 2024,13 Apr 2024,Delivered,N/A,False,3383.98
+ORD10457,C399,Nusrat Jahan,34,Male,chittagong,Sports,"4,370 Tk",1,5.0,Nagad,16 Apr 2025,21/04/2025,Delivered,3,False,$4151.19
+ORD10896,C142,Arif Islam,23,Male,Barisal,Books,645.54,4,5.0,bKash,"January 05, 2025",12/01/2025,Cancelled,NA,True,2453.05
+ORD10099,C257,Farhana Rahman,24,Female,CTG,Electronics,14877.37,4,10.0,Nagad,16 Mar 2025,21 Mar 2025,Delivered,2,False,53558.53
+ORD10321,C504,Arif Islam,30,male,Barishal,clothing,350.95,5,0.0,Credit Card,"May 05, 2024",05-07-2024,Delivered,5,False,1754.75
+ORD10721,?,nusrat jahan,41,Male,chittagong,Electronics ,5158.08,2,20.0,Cash on Delivery,13 Feb 2024,02-15-2024,Cancelled,N/A,No,nan
+ORD10528,C502,Nusrat Jahan,23,Female,Sylhet,Clothing,1256.98,5,5.0,NULL,05 Dec 2024,07/12/2024,Delivered,null,False,5970.66
+ORD10429,C546,Karim Hossain,33,Female,Rajshahi,Electronics,14083.52,4,5.0,Cash on Delivery,29/01/2024,2024-02-06,Delivered,5,No,53517.38
+ORD10387,C552,Nusrat Jahan,27,Female,Dhaka,Electronics,5232.18,2,0.0,Nagad,2025-06-07,14 Jun 2025,Delivered,2,False,10464.36
+ORD10415,C271,SABBIR AHMED,0,Male,Chittagong,Books,227.16,1,15.0,Cash on Delivery,"June 08, 2024","June 10, 2024",Cancelled,4,true,193.09
+ORD10809,C464,Mim Chowdhury,36,Female,Barisal,HOME & KITCHEN,1926.84,5,10.0,Cash on Delivery,"April 10, 2024",13/04/2024,Delivered,3,False,8670.78
+ORD10406,C268,Arif Islam,34,Male,nan,Clothing,1010.29,1,10.0,Nagad,2025-07-29,2025-08-03,Returned,5,True,909.26
+ORD10349,C205,Tania Akter,38,Male,KHULNA,Electronics,11328.63,3,25.0,nan,10/05/2025,13 May 2025,Delivered,-,False,25489.42
+ORD10714,C567,MIM CHOWDHURY,38,Female,Chattogram,Home & Kitchen,4084.96,1,999,Debit Card,"January 03, 2024",2024-01-08,Delivered,4,True,4084.96
+ORD10651,C419,Mim Chowdhury,26,Female,Khulna, Clothing,1766.9,1,0.0,Nagad,2024-03-02,03 Mar 2024,Delivered,nan,False,1766.9
+ORD10216,C508,  Farhana Rahman  ,46,female,Sylhet,Electronics,BDT 11272.7,2,15.0,Credit Card,2024-08-05,09/08/2024,In Transit,5,True,19163.59
+ORD10400,C286,Shirin Sultana,48,Male,Sylhet,Sports,2039.93,1,0.0,Credit Card,nan,13 Sep 2024,Cancelled,3,1,2039.93
+ORD10928,C480,Karim Hossain,36,Female,sylhet,Books,75.0,2,0.0,Nagad,2025-02-25,"February 26, 2025",in transit,?,False,150.0
+ORD10449,C461,rahim uddin,nan,male,sylhet,Beauty,624.34,1,0.0,bKash,26 Feb 2025,2025-03-05,Returned,1,1,$624.34
+ORD10881,C329,Karim Hossain,NA,Female,Khulna,Books ,310.97,1,25.0,Nagad,"February 09, 2025",17/02/2025,Delivered,nan,False,233.23
+ORD10350,C137,  Tania Akter  ,51,Male,Barisal,Electronics,BDT 19683.18,1,0.0,Credit Card,16 Aug 2024,2024-08-17,Cancelled,NULL,true,19683.18
+ORD10656,C566,Shirin Sultana,21,male,chittagong,Clothing,554.19,1,0.0,Nagad,09 Oct 2024,2024-10-14,In Transit,1,true,554.19
+ORD10007,C434,  Shirin Sultana  ,23,Female,Rajshahi,Sports,4626.49,2,0.0,bKash,"February 15, 2025",19 Feb 2025,Delivered,,Yes,9252.98
+ORD10951,C318,Tania Akter,NULL,Male,rajshahi,Home & Kitchen,"৳1,778.37",2,10.0,bKash,2025-02-11,02-18-2025,DELIVERED,-,True,3201.07
+ORD10180,C576,Farhana Rahman,20,Male,Dhaka,Books,405.63,4,25.0,Cash on Delivery,"March 04, 2024",12 Mar 2024,Delivered,3,True,1216.89
+ORD10962,C574,Sabbir Ahmed,24,Female,Rajshahi,Books,107.53,1,20.0,Credit card,10/07/2024,07-12-2024,Delivered,2,True,86.02
+ORD10428,C232,Nusrat Jahan,41,Female,barisal,NULL,468.28,5,5.0,Nagad,26/05/2025,05-27-2025,Returned,4,False,2224.33
+ORD10708,C253,Karim Hossain,29,Female,Rajshai,Electronics,16299.27,1,5.0,Credit Card,"April 17, 2024","April 24, 2024",In Transit,2,True,15484.31
+ORD10814,C463,Nusrat Jahan,38,M,Chittagong,Sports,4731.24,1,25.0,Cash on Delivery,2025-02-09,2025-02-10,In Transit,1,True,3548.43
+ORD10070,C346,nusrat jahan,36,Male,Dhaka,Clothing ,335.09,3,10.0,bKash,12/03/2025,2025-03-19,in transit,4,True,904.74
+ORD10717,C582,SHIRIN SULTANA,36,Male,Rajshahi,Clothing,1184.54,2,5.0,bKash,07-30-2024,01/08/2024,Delivered,3,False,$2250.63
+ORD10264,C397,Imran Khan,20,Female,Sylhet,Beauty,1743.82,1,25.0,cod,2025-04-20,04-27-2025,Delivered,NA,False,1307.86
+ORD10452,C451,  Imran Khan  ,19,Female,Khulna,Sports,"2,775 Tk",2,5.0,Nagad,13/01/2024,01-15-2024,Delivered,5,true,5273.22
+ORD10235,C537,Mim Chowdhury,33,Male,Chittagong,Electronics,"12,366 Tk",5,15.0,Credit Card,2024-04-17,21/04/2024,Delivered,2,False,52556.09
+ORD10584,C578,Mim Chowdhury,NULL,Female,Barisal,Home & Kitchen,"3,964 Tk",3,5.0,Credit Card,"March 16, 2024",19 Mar 2024,Delivered,null,True,11297.68
+ORD10301,C541,Imran Khan,37,Female,?,Books,326.3,1,0.0,nagad,"August 25, 2024",28/08/2024,Delivered,,False,326.3
+ORD10716,C401,Arif Islam,30,Female,Sylhet,Clothing,1669.04,2,5.0,Nagad,2024-11-06,11-11-2024,Delivered,5,Y,$3171.18
+ORD10246,C202,NUSRAT JAHAN,40,Female,barisal,Sports,1386.4,2,5.0,Nagad,24/07/2024,27 Jul 2024,Delivered,4,0,2634.16
+ORD10983,C343,Karim Hossain,33,?,Barisal,Sports,1275.86,3,20.0,Credit Card,05-13-2024,2024-05-15,In Transit,1,False,$3062.06
+ORD10048,C403,Sabbir Ahmed,30,Male,barisal,Home & Kitchen,"৳2,017.75",1,20.0,Cash on Delivery,"October 04, 2024",10-06-2024,Delivered,null,False,1614.2
+ORD10826,C302,karim hossain,29,Female,Khulna,beauty,1003.94,1,15.0,Credit Card,20 Jan 2024,"January 22, 2024",Delivered,?,False,853.35
+ORD10083,C500,Tania Akter,18,Female,Khulna,Books,351.68,1,0.0,Nagad,"April 03, 2024","April 04, 2024",Delivered,5,False,351.68
+ORD10121,C161,Rahim Uddin,27,MALE,sylhet,Electronics,12192.21,4,20.0,Debit Card,08-05-2025,11/08/2025,Delivered,1,Yes,39015.07
+ORD10147,C230,Sabbir Ahmed,21, Female,Dhaka,Sports,919.73,2,10.0,Cash on Delivery,2024-11-26,2024-12-03,Delivered,4,Y,1655.51
+ORD10087,C590,Mim Chowdhury,40,Female,Sylhet,Home & Kitchen,BDT 1285.45,1,0.0,Nagad,2024-01-10,13 Jan 2024,delivered,4,True,1285.45
+ORD10391,C187,Arif Islam,40,Female,Dhaka,Home & Kitchen,1528.06,5,25.0,Debit Card,19/03/2024,25/03/2024,Delivered,5,True,5730.22
+ORD10960,C250,Karim Hossain,null,Male,Barisal,Clothing,1069.77,100,0.0,Nagad,"February 18, 2025",2025-02-22,Cancelled,1,True,3209.31
+ORD10719,C194,Rahim Uddin,29,,khulna,books,509.5,4,25.0,,05-04-2024,10 May 2024,Delivered,2,False,
+ORD10757,C520,Rahim Uddin,39,Female,Barisal,Electronics,12436.4,5,5.0,nagad,"February 17, 2024",20 Feb 2024,Delivered,5,N,59072.9
+ORD10210,C442,Farhana Rahman,34,Female,Rajshahi,Clothing,missing,1,5.0,Debit Card,"March 06, 2025",14 Mar 2025,Cancelled,4,true,1255.25
+ORD10571,C264,  Rahim Uddin  ,39,Male,Chittagong,Books,null,1,0.0,bKash,"April 26, 2024",04-27-2024,canceled,N/A,No,414.29
+ORD10644,C585,  Nusrat Jahan  ,39,Male,Rajshai,Clothing,2002.87,1,20.0,Cash on Delivery,2025-01-02,"January 10, 2025",Delivered,1,True,1602.3
+ORD10081,C220,SHIRIN SULTANA,37,Male,Rajshahi,Books,448.17,2,0.0,Nagad,12/02/2025,02-20-2025,Cancelled,2,True,896.34
+ORD10905,C430,Imran Khan,34,Male,Rajshahi,Books,BDT 284.05,1,0.0,Credit card,06-09-2025,16 Jun 2025,Delivered,4,False,284.05
+ORD10554,C276,Rahim Uddin,,M,Sylhet, Sports,1076.0,4,20.0,bKash,2024-02-19,2024-02-24,In Transit,5,False,3443.2
+ORD10753,C236,Karim Hossain,38,Male,KHULNA,Sports,"৳2,158.02",2,15.0,Nagad,21 Oct 2024,"October 28, 2024",DELIVERED,1,False,3668.63
+ORD10929,C326,Karim Hossain,35,MALE,Dhaka,Clothing,3549.15,4,25.0,Nagad,"July 16, 2024",19 Jul 2024,Returned,-1,Y,10647.45
+ORD10085,C162,SHIRIN SULTANA,31,Male,Dhaka ,Books,464 Tk,4,15.0,Nagad,"May 06, 2025","May 13, 2025",Delivered,1,N,1579.23
+ORD10913,C260,Tania Akter,26,Female,Chattogram,Home & Kitchen,missing,3,25.0,Debit Card,08-08-2024,"August 14, 2024",Delivered,5,False,5276.41
+ORD10741,C320,  Mim Chowdhury  ,34,Male,khulna,Beauty,NA,1,0.0,Debit Card,2024-10-12,18/10/2024,in transit,5,False,2385.08
+ORD10548,C437,Farhana Rahman,34,Female,Chittagong,Home & Kitchen,1603.53,1,0.0,Nagad,N/A,12-28-2024,in transit,1,False,1603.53
+ORD10499,C181,Shirin Sultana,24,Male,chittagong,Home & Kitchen,2848.14,1,0.0,Cash on Delivery,"July 02, 2025","July 07, 2025",Delivered,?,False,2848.14
+ORD10600,C288,Mim Chowdhury,19,Male,Chittagong,Home & Kitchen,3345.83,2,0.0,Nagad,24/05/2025,31 May 2025,Delivered,5,False,6691.66
+ORD10599,C257,Shirin Sultana,21,Female,Rajshahi,Electronics,8798.96,1,20.0,Debit Card,12-21-2024,"December 25, 2024",Delivered,nan,False,7039.17
+ORD10973,C332,Rahim Uddin,18,Female,Barisal,Home & Kitchen,,1,15.0,bKash,"September 30, 2024",2023-01-01,Delivered,2,False,8720.14
+ORD10537,C224,Arif Islam,21,male,Chittagong,Sports,"৳1,726.74",2,15.0,Nagad,04-25-2025,2025-05-03,Delivered,3,False,2935.46
+ORD10587,C396,FARHANA RAHMAN,19,Female,KHULNA,Books,,1,20.0,Nagad,28/01/2025,02-05-2025,Returned,5,True,225.02
+ORD10642,C549,Rahim Uddin,25,Male,Rajshahi,Electronics,14575.99,1,0.0,N/A,25/05/2024,2024-05-28,Returned,,True,14575.99
+ORD10028,C336,Mim Chowdhury,22,MALE,NA,Electronics,34792.92,3,10.0,bKash,21/09/2024,29 Sep 2024,Delivered,,False,93940.88
+ORD10189,C368,  Farhana Rahman  ,30,Male,Dhaka,Clothing,940.39,1,10.0,Cash on Delivery,18 Jun 2024,22 Jun 2024,DELIVERED,4,False,846.35
+ORD10416,C473,Rahim Uddin,60,female,chittagong,home & kitchen,4950.83,2,10.0,cod,11-28-2024,29 Nov 2024,Returned,5,False,8911.49
+ORD10206,C489,Tania Akter,NULL,MALE,missing,Electronics,16529.13,1,0.0,Nagad,06-16-2025,"June 19, 2025",In Transit,2,True,16529.13
+ORD10193,C594,rahim uddin,35,MALE,,Clothing,null,5,5.0,Debit Card,"November 13, 2024",18 Nov 2024,Delivered,5,0,12932.44
+ORD10030,?,arif islam,21,Male,Dhaka, Books,781.98,1,25.0,Credit Card,2024-11-21,11-23-2024,Returned,3,Yes,586.48
+ORD10464,C244,arif islam,44,Female,sylhet,Clothing,513.35,1,0.0,Credit Card,"February 22, 2025",2025-02-23,Delivered,5,False,$513.35
+ORD10339,C589,  Farhana Rahman  ,0,Male,Rajshahi,Books,413.0,1,0.0,bKash,05/11/2024,12 Nov 2024,Delivered,4,False,
+ORD10362,C346,Imran Khan,22,Female,Dhaka,Beauty,1706.27,2,10.0,Credit Card,"February 05, 2025",02-09-2025,In Transit,3,False,3071.29
+ORD10870,C390,Imran Khan,48,Female,KHULNA,Home & Kitchen,5043.75,2,5.0,Credit Card,04/11/2024,11-06-2024,Delivered,2,True,9583.12
+ORD10586,C223,Karim Hossain,31,Female,sylhet,Sports,"1,925 Tk",1,5.0,COD,17 Feb 2025,19/02/2025,Delivered,3,False,1828.8
+ORD10157,C469,Karim Hossain,48,MALE,Sylhet,Sports,2470.91,3,0.0,Nagad,30/01/2025,"February 05, 2025",Delivered,3,False,7412.73
+ord10575,C598,Nusrat Jahan,34,Male,Barisal,Books,554.57,1,5.0,Credit Card,2024-09-19,27/09/2024,Delivered,4,1,526.84
+ORD10761,C241,Arif Islam,25,Female,Barisal,Electronics,6788.43,3,15.0,nagad,2025-08-14,2025-08-15,Delivered,4,True,17310.5
+ORD10201,C546,Arif Islam,18,Male,Chittagong,Sports,3653.79,5,20.0,Nagad,16/12/2024,17 Dec 2024,In Transit,3,True,14615.16
+ORD10851,C137,Tania Akter,37,Female,Chittagong,BEAUTY,"৳3,750.15",5,15.0,,28/04/2024,29/04/2024,Delivered,2,True,15938.14
+ORD10498,C518,Tania Akter,19,Male,Dhaka,Electronics,7305.42,4,0.0,Debit Card,06-01-2024,"June 02, 2024",Cancelled,3,True,29221.68
+ORD10010,C452,Sabbir Ahmed,38,NULL,Rajshahi,Sports ,"3,532 Tk",4,0.0,bKash,04-23-2025,04-30-2025,In Transit,4,True,14126.56
+ORD10328,C523,NUSRAT JAHAN,61,Female,Khulna,Books,BDT 432.42,1,25.0,cod,11-04-2024,2024-11-08,Delivered,4,Yes,324.32
+ORD10336,C497,Mim Chowdhury,18, Female,Sylhet, Books,569.08,1,15.0,BKASH,31/05/2024,05 Jun 2024,Delivered,3,True,483.72
+ORD10145,C100,Farhana Rahman,38,Male,Rajshahi,Sports,1360.8,5,5.0,Credit Card,"October 21, 2024",2024-10-25,Delivered,N/A,False,$6463.8
+ORD10293,C396,Imran Khan,35,Female,Barisal,Beauty,9999999,2,10.0,Debit Card,2025-07-07,"July 11, 2025",Delivered,5,0,894.2
+ORD10469,C283,Arif Islam,36,Male,Chittagong,Electronics,14140.57,5,15.0,Debit Card,02/04/2025,05/04/2025,Delivered,1,True,60097.42
+ORD10461,C386,Sabbir Ahmed,50,Male,Rajshahi,Clothing,1429.8,2,25.0,BKASH,17 Jul 2024,07-19-2024,in transit,2,1,2144.7
+ORD10724,C258,Mim Chowdhury,40,Female,?,Home & Kitchen,4805.9,5,0.0,Debit Card,30 Jun 2025,03/07/2025,Cancelled,5,Yes,24029.5
+ORD10092,C337,Shirin Sultana,35,female,?,Home & Kitchen,6099.4,1,0.0,bKash,03/10/2024,08/10/2024,Delivered,5,True,6099.4
+ORD10907,C195,Farhana Rahman,23, Female,Rajshahi,Books,409.53,4,0.0,Cash on Delivery,26 Feb 2025,01 Mar 2025,Returned,5,true,1638.12
+ORD10103,C579,ARIF ISLAM,18,female,Sylhet,Clothing,2267.15,1,15.0,Debit Card,"February 05, 2025",06 Feb 2025,DELIVERED,4,False,1927.08
+ORD10512,C322,Karim Hossain,31,Female,Chittagong,Electronics,3564.73,1,0.0,Nagad,09 Mar 2025,11/03/2025,in transit,4,Yes,3564.73
+ORD10347,C544,Tania Akter,42,Female,Chittagong,Books,BDT 1292.04,1,10.0,Cash on Delivery,"February 06, 2024",12/02/2024,Delivered,1,False,$1162.84
+ORD10911,C589,Nusrat Jahan,28,Female,Sylhet,Home & Kitchen,8633.88,5,20.0,Cash on Delivery,2024-01-21,2024-01-23,Deliverd,2,True,34535.52
+ORD10936,C268,Arif Islam,44,Female,Barisal,Books,384.84,3,0.0,Credit Card,N/A,07/08/2025,In Transit,5,True,1154.52
+ORD10232,C283,Imran Khan,49,nan,Khulna,Books ,421.82,1,10.0,?,"November 19, 2024",26/11/2024,Delivered,,False,379.64
+ORD10859,C337,shirin sultana,22,Female,Sylhet,Clothing,BDT 2280.43,5,0.0,Credit Card,2025-01-23,2025-01-31,Delivered,5,No,11402.15
+ORD10790,C210,  Tania Akter  ,21,Male,Dhaka,Beauty,506.36,1,0.0,Nagad,06/01/2024,01-09-2024,Cancelled,4,True,506.36
+ORD10856,C526,Mim Chowdhury,36,Female,Barisal,Clothing,1232.89,2,15.0,Nagad,2024-09-23,10-01-2024,Cancelled,1,Y,2095.91
+ORD10617,C416,  Karim Hossain  ,44,Male,barisal,Books,389 Tk,2,15.0,Debit Card,23/12/2024,2024-12-29,Returned,4,True,662.05
+ORD10600,C288,Mim Chowdhury,19,Male,Chittagong,Home & Kitchen,3345.83,2,0.0,Nagad,24/05/2025,31 May 2025,Delivered,5,False,6691.66
+ORD10386,C562,Tania Akter,30,Female,Rajshahi,Home & Kitchen,2240.48,2,0.0,Debit Card,31 Dec 2024,08/01/2025,Delivered,3,False,4480.96
+ORD10509,C107,FARHANA RAHMAN,40,MALE,Chittagong,Books,287.54,3,0.0,nagad,02/10/2024,10-08-2024,Cancelled,4,False,862.62
+ORD10238,C343,SABBIR AHMED,20,Male,sylhet,Electronics,30951.47,2,0.0,BKASH,11-14-2024,15 Nov 2024,Delivered,3,True,61902.94
+ORD10871,C279,Sabbir Ahmed,27,Male,Dhaka,Clothing,৳881.06,1,20.0,credit card,07 Jun 2024,12/06/2024,In Transit,1,True,704.85
+ORD10680,C381,Sabbir Ahmed,?,Female,Chittagong,Clothing,BDT 764.28,4,25.0,Credit Card,"February 19, 2025",27 Feb 2025,Delivered,5,False,2292.84
+ORD10833,C152,Mim Chowdhury,null,Male,Barisal,Home & Kitchen,1959.25,5,0.0,Credit Card,2025-02-13,02-15-2025,Delivered,5,True,9796.25
+ORD10742,C145,Nusrat Jahan,thirty,Female,Khulna,Clothing,2039.83,2,0.0,bKash,17/01/2024,24 Jan 2024,Delivered,1,True,$4079.66
+ORD10759,C412,Mim Chowdhury,24,Male,Barisal,Electronics ,7011.79,1,0.0,Debit Card,18 Mar 2024,21 Mar 2024,Delivered,5,No,7011.79
+ORD10091,C424,  Nusrat Jahan  ,42,F,Chittagong,Home & Kitchen,"6,902 Tk",2,5.0,Cash on Delivery,09-08-2024,09-13-2024,Delivered,3,Yes,13114.07
+ORD10796,C225,Arif Islam,38, Female,Sylhet,Sports,2852.7,2,0.0,Cash on Delivery,2024-09-11,2023-01-01,Delivered,5,N,5705.4
+ORD10144,C449,Karim Hossain,42,Female,barisal,Sports,2028.67,4,0.0,Debit Card,16 Jan 2025,20 Jan 2025,Returned,5,False,8114.68
+ORD10243,C197,Farhana Rahman,51,Male,Barisal, Books,353.63,2,0.0,Nagad,23 Jul 2024,07-25-2024,Delivered,4,False,707.26
+ORD10255,C377,Mim Chowdhury,35,Female,sylhet,Electronics,BDT 18760.52,5,10.0,Credit Card,2024-08-18,"August 22, 2024",Delivered,3,False,84422.34
+ORD10505,C371,  Shirin Sultana  ,24,male,rajshahi,Clothing,2161.07,2,0.0,COD,04/01/2025,"January 07, 2025",Delivered,4,0,4322.14
+ORD10767,C201,Imran Khan,18,Female,Rajshahi,Clothing,1269.61,1,15.0,bKash,05 Feb 2025,"February 09, 2025",Delivered,5,true,1079.17
+ORD10666,C259,Sabbir Ahmed,26,Male,Chittagong,Beauty,826.1,5,10.0,bKash,"December 04, 2024",12-10-2024,Delivered,5,true,3717.45
+ORD10552,C369,Shirin Sultana,26,Female,Barisal,Electronics,22767.48,1,0.0,?,"April 02, 2025",04-08-2025,Delivered,missing,True,22767.48
+ORD10506,C446,MIM CHOWDHURY,?,Male,Chittagong,Clothing,4991.8,1,15.0,Cash on Delivery,30 Mar 2025,07 Apr 2025,in transit,4,True,4243.03
+ORD10472,C104,Rahim Uddin,34,Male,Rajshahi,Electronics,19128.51,5,20.0,Nagad,2024-02-28,01/03/2024,Delivered,4,False,76514.04
+ORD10514,C556,Nusrat Jahan,23,Female,Chittagong,Books ,450.13,4,15.0,Credit Card,01/06/2025,02 Jun 2025,Delivered,?,False,NA
+ORD10573,C405,Sabbir Ahmed,51,Male,Rajshahi,Sports,2362.97,1,0.0,Credit card,"June 14, 2025",2025-06-22,Delivered,5,True,$2362.97
+ORD10199,C429,Shirin Sultana,43,null,Dhaka,Books,597 Tk,3,5.0,bKash,05/09/2024,2024-09-11,in transit,3,0,1702.13
+ORD10780,C271,Farhana Rahman,32,Female,Dhaka,Books,391.3,3,0.0,Credit Card,29/12/2024,2025-01-02,Delivered,4,True,1173.9
+ORD10086,C177,Rahim Uddin,23,Female,khulna,Clothing,1249.27,2,20.0,Cash on Delivery,24 Nov 2024,11-30-2024,canceled,4,False,
+ORD10850,C208,  Shirin Sultana  ,28,Female,Rajshahi,Beauty,"1,032 Tk",1,25.0,Nagad,14/07/2025,16 Jul 2025,Cancelled,,True,773.94
+ORD10389,C469,Shirin Sultana,28,Male,Khulna,Home & Kitchen,502.0,2,5.0,Cash on Delivery,17/01/2025,2025-01-22,Delivered,missing,False,953.8
+ORD10101,C256,  Tania Akter  ,28,Male,Chittagong,Beauty,1308.27,1,0.0,Nagad,05/12/2024,2024-12-08,Cancelled,5,True,1308.27
+ORD10358,C323,Imran Khan,N/A,Female,Chittagong,Sports,0,2,15.0,Debit Card,"December 01, 2024","December 07, 2024",Delivered,5,true,1972.54
+ORD10039,C255,Farhana Rahman,46,Male,Dhaka,Beauty,834.33,1,15.0,Debit Card,07 Mar 2025,14 Mar 2025,delivered,3,True,709.18
+ORD10540,C168,Tania Akter,27,Male,NULL,Clothing ,870.54,2,0.0,Credit Card,06-01-2024,"June 07, 2024",Cancelled,3,True,1741.08
+ORD10175,C269,mim chowdhury,,,Rajshahi,Electronics,12410.23,4,0.0,Cash on Delivery,18 Jul 2024,07-20-2024,Delivered,1,1,49640.92
+ORD10016,C111,imran khan,25,Female,Dhaka,Clothing,1928.55,2,5.0,Credit Card,09-07-2024,09-14-2024,Delivered,3,False,3664.24
+ORD10557,C119,mim chowdhury,39,Male,Chittagong,Sports,BDT 4401.95,5,0.0,Cash on Delivery,2024-01-14,15 Jan 2024,delivered,4,False,22009.75
+ORD10478,C368,Mim Chowdhury,28,Male,Khulna, Beauty,2695.52,2,15.0,Cash on Delivery,29/06/2025,07 Jul 2025,Cancelled,2,False,4582.38
+ORD10968,C522,ARIF ISLAM,22,Female,Chittagong,Clothing,3473.73,4,15.0,Credit card,01/08/2024,"August 04, 2024",delivered,2,False,11810.68
+ORD10895,C250,Shirin Sultana,,Female,Barisal,Books,477.76,4,25.0,Cash on Delivery,07 Aug 2025,08/08/2025,Returned,2,False,-
+ORD10882,C521,Shirin Sultana,35,Male,Rajshahi,Home & Kitchen,BDT 2976.57,2,10.0,cod,06-19-2024,24/06/2024,Returned,missing,True,5357.83
+ORD10766,C381,Tania Akter,22,Female,Barisal,Beauty,1457.09,1,5.0,Credit Card,12/05/2024,05-20-2024,In Transit,3,False,1384.24
+ORD10177,C334,Karim Hossain,27,Female,Khulna,Sports,"৳1,550.09",2,0.0,bkash,2025-08-08,2025-08-10,delivered,1,True,3100.18
+ORD10136,C364,Tania Akter,36,Male,Dhaka,Books,392.79,2,0.0,Cash on Delivery,"December 02, 2024",2024-12-05,delivered,3,False,785.58
+ORD10080,C153,Mim Chowdhury,36,Female,Khulna,books,103.15,1,25.0,NA,"February 14, 2025",02-17-2025,in transit,1,No,77.36
+ORD10126,C217,Farhana Rahman,34,Female,Khulna,-,6471.55,3,20.0,Cash on Delivery,24/08/2024,08-31-2024,Delivered,5,No,15531.72
+ORD10118,C460,Shirin Sultana,35,Female,Sylhet,Sports,5238.98,5,150,Credit Card,?,20 Aug 2025,Delivered,4,False,$23575.41
+ORD10784,C594,shirin sultana,18,Male,Chittagong,Home & Kitchen,4796.58,4,20.0,Cash on Delivery,03-08-2024,09/03/2024,Delivered,2,True,15349.06
+ORD10893,C298,  Sabbir Ahmed  ,31,Male,Sylhet,CLOTHING,1002.77,4,15.0,nagad,"April 17, 2025",21/04/2025,Delivered,4,No,3409.42
+ORD10910,C217,Farhana Rahman,32,Male,Chittagong,Home & Kitchen,BDT 3047.38,2,25.0,Debit Card,2024-02-13,"February 19, 2024",Delivered,5,False,4571.07
+ORD10304,C473,Karim Hossain,35,Female,Khulna,Home & Kitchen,1642.82,1,0.0,credit card,10 Sep 2024,14 Sep 2024,Delivered,4,Yes,1642.82
+ORD10445,C294,Mim Chowdhury,32,Male,chittagong,Books,457.62,1,0.0,BKASH,02-21-2025,2025-02-24,Delivered,3,True,457.62
+ORD10095,C337,Karim Hossain,29,Female,Sylhet,Books,118.92,2,5.0,nagad,06 Jul 2025,07 Jul 2025,Delivered,6,False,-
+ORD10869,C521,Sabbir Ahmed,46,Male,sylhet,Beauty,909.46,4,5.0,NULL,2024-06-28,30/06/2024,Delivered,1,False,3455.95
+ORD10192,C404,Rahim Uddin,40,male,Chittagong,Home & Kitchen,5493.73,2,0.0,Debit Card,04/04/2024,"April 12, 2024",Returned,5,True,10987.46
+ORD10975,C237,Rahim Uddin,32,Female,Barisal,Electronics,13764.34,2,25.0,Debit Card,03-02-2024,2024-03-06,Delivered,5,False,20646.51
+ORD10288,C318,Imran Khan,54,Female,Rajshahi,BOOKS,879.01,1,-10,Cash on Delivery,08 Mar 2024,03-09-2024,delivered,4,No,835.06
+ORD10108,C175,Tania Akter,47,Female,Chittagong,Electronics,25138.55,4,20.0,Cash on Delivery,"January 25, 2024",29/01/2024,Delivered,5,False,80443.36
+ORD10330,C213,  Karim Hossain  ,18,Male,Khulna,Beauty,BDT 2125.69,2,25.0,Cash on Delivery,03 Jan 2025,10 Jan 2025,Delivered,1,True,3188.54
+ORD10681,C380,TANIA AKTER,44,Male,Barisal,Home & Kitchen,"2,540 Tk",5,25.0,Credit Card,25 Sep 2024,27/09/2024,Deliverd,2,True,9526.69
+ORD10546,C449,  Rahim Uddin  ,999,Female,Chittagong,Sports,1265.16,-1,25.0,bKash,08-31-2024,2024-09-07,Delivered,NULL,True,1897.74
+ORD10204,C304,Arif Islam,24,Female,Dahka,Sports,"2,542 Tk",1,5.0,Nagad,?,29 Apr 2024,Delivered,5,False,2414.71
+ORD10303,C375,Tania Akter,31,Female,Sylet,Home & Kitchen,3805.53,2,0.0,BKASH,2024-05-29,01/06/2024,Delivered,5,False,7611.06
+ORD10211,C321,Mim Chowdhury,41,Male,KHULNA,Sports,3144.05,2,5.0,Credit Card,02-24-2025,2025-03-04,Cancelled,3,False,5973.7
+ORD10354,C443,mim chowdhury,18,Female,Khulna,Clothing,1049.41,4,0.0,credit card,04-24-2025,2025-05-01,Delivered,5,True,$4197.64
+ORD10124,C286,Tania Akter,36,Male,barisal,Electronics,"7,166 Tk",1,25.0,Cash on Delivery,23 Sep 2024,30/09/2024,Delivered,,True,5374.82
+ORD10290,C214,  Shirin Sultana  ,40,Female,Rajshahi,missing,3071.37,-2,15.0,Credit Card,2024-04-14,20/04/2024,Delivered,5,Y,2610.66
+ORD10570,C364,Nusrat Jahan,27,null,KHULNA,Books,293.06,5,0.0,,12/03/2024,"March 15, 2024",Delivered,3,True,1465.3
+ORD10041,C353,Tania Akter,18,Male,Rajshahi,Beauty,2443.13,1,0.0,Credit Card,2024-01-11,17/01/2024,Returned,3,False,2443.13
+ORD10249,C261,Rahim Uddin,37,F,Sylhet,Home & Kitchen ,NA,1,25.0,Cash on Delivery,09-22-2024,"September 23, 2024",Delivered,1,False,2999.19
+ORD10831,C376,IMRAN KHAN,18,Male,Khulna,Beauty,663.37,5,10.0,bkash,2024-05-21,05-22-2024,Delivered,5,False,2985.16
+ORD10005,C441,  Karim Hossain  ,?,Female,Dhaka,Electronics,8500.25,1,10.0,bkash,25 Oct 2024,2023-01-01,Delivered,5,False,7650.22
+ORD10064,C416,SABBIR AHMED,29,Female,Barisal,Sports,6691.09,2,15.0,bkash,05-01-2024,08/05/2024,Delivered,5,False,11374.85
+ORD10046,C566,imran khan,50,MALE,Rajshahi,Books,435.52,3,5.0,Debit Card,04/01/2024,"January 12, 2024",Delivered,2,False,1241.23
+ORD10045,C152,mim chowdhury,33,Male,Chittagong,Clothing,872.71,2,0.0,Cash on Delivery,"December 24, 2024",12-29-2024,Delivered,5,True,1745.42
+ORD10410,C529,Mim Chowdhury,31,Female,Rajshai,Beauty,1059.29,5,25.0,Nagad,2025-08-07,"August 10, 2025",Delivered,5,Y,3972.34
+ORD10456,C343,Shirin Sultana,38,Male,Sylhet,Books,৳830.18,5,25.0,bKash,"July 06, 2024","July 13, 2024",Delivered,2,False,3113.18
+ORD10447,C129,Shirin Sultana,36,Male,Barishal,Beauty,2008.33,1,10.0,Credit card,"March 14, 2024","March 22, 2024",Delivered,3,True,1807.5
+ORD10003,C415,Imran Khan,40,Female,Chattogram,Sports,1403.32,1,10.0,Nagad,16 Jun 2025,"June 17, 2025",Delivered,3,True,1262.99
+ORD10867,C395,Imran Khan,19,male,Dhaka,Sports,2886.38,5,0.0,Cash on Delivery,08-31-2024,"September 05, 2024",Delivered,5,True,14431.9
+ORD10488,C467,Sabbir Ahmed,,Female,CTG, Home & Kitchen,2265.98,1,0.0,Credit Card,27 Aug 2024,01/09/2024,Delivered,-,False,2265.98
+ORD10392,C207,Imran Khan,44,Male,barisal,missing,837.71,3,10.0,Nagad,21/12/2024,29 Dec 2024,Delivered,1,False,2261.82
+ORD10487,C536,Arif Islam,28,Female,chittagong,Electronics,"৳6,245.19",4,0.0,Cash on Delivery,03-03-2024,"March 06, 2024",Delivered,,False,
+ORD10632,C197,  Nusrat Jahan  ,39,Male,Barishal,electronics,27687.05,1,25.0,Credit Card,"March 27, 2024",29/03/2024,Delivered,3,True,20765.29
+ORD10908,C438,Sabbir Ahmed,25,Male,Dhaka,Home & Kitchen,1992.33,5,0.0,Debit Card,15/05/2025,19 May 2025,Delivered,5,0,$9961.65
+ORD10195,C411,Shirin Sultana,27,Male,Dhaka,Beauty,522.74,2,0.0,bKash,"July 13, 2025",2025-07-16,delivered,N/A,N,1045.48
+ORD10671,C442,NUSRAT JAHAN,39,Female,Rajshahi,Home & Kitchen,18000.0,2,25.0,Debit Card,"February 03, 2025",2025-02-08,Delivered,4,False,27000.0
+ORD10555,C130,Mim Chowdhury,45,Female,Chittagong,SPORTS,"1,333 Tk",100,20.0,Debit Card,07-21-2024,29 Jul 2024,Delivered,4,False,4267.01
+ORD10539,C277,Imran Khan,36,Female,Chittagong,Home & Kitchen,3670.51,2,10.0,Debit Card,11-06-2024,2024-11-11,Delivered,3,0,6606.92
+ORD10360,C409,NUSRAT JAHAN,49,MALE,Chattogram, Sports,1792.45,1,20.0,Debit Card,2025-07-30,03 Aug 2025,Cancelled,1,False,1433.96
+ORD10247,C157,farhana rahman,18,Male,Sylhet,Electronics,9999999,1,25.0,bKash,23/02/2025,2025-02-24,Delivered,1,Y,7043.59
+ORD10785,C164,Arif Islam,37,Male,Barisal,Beauty,1348.8,3,0.0,cod,05/02/2024,"February 09, 2024",Delivered,N/A,true,$4046.4
+ORD10630,C568,sabbir ahmed,32,Female,DHAKA,Books,?,3,5.0,Debit Card,02-22-2025,23 Feb 2025,Delivered,4,Yes,1878.58
+ORD10703,C598,MIM CHOWDHURY,36,N/A,Barisal,Books,176.74,1,5.0,Cash on Delivery,26 Jan 2025,2025-01-30,Delivered,5,False,167.9
+ORD10613,NA,Shirin Sultana,47,Female,Barisal,Beauty,763.37,1,20.0,Debit Card,2024-08-22,2024-08-30,delivered,?,False,610.7
+ORD10661,C275,FARHANA RAHMAN,48,Female,Dhaka,Books,330.3,3,0.0,COD,17 Feb 2024,2024-02-19,Delivered,2,True,990.9
+ORD10635,C308,Rahim Uddin,38,Male,Sylhet,Electronics,"13,452 Tk",4,25.0,Debit Card,20 Mar 2025,"March 26, 2025",Delivered,5,0,40355.28
+ORD10903,C473,IMRAN KHAN,32,Female,Dhaka,Books,532.08,1,0.0,bkash,"October 10, 2024",16 Oct 2024,Cancelled,?,False,532.08
+ORD10078,C329,MIM CHOWDHURY,19,Female,Rajshahi,home & kitchen,3333.97,1,10.0,Credit Card,09/03/2025,2023-01-01,Delivered,N/A,True,3000.57
+ORD10109,C246,Imran Khan,18,Male,Sylhet,Electronics,"৳5,969.73",1,25.0,BKASH,2025-07-18,19/07/2025,in transit,2,true,4477.3
+ORD10581,C540,Shirin Sultana,47,Female,Chittagong,Electronics,5472.48,2,15.0,nagad,"December 12, 2024","December 14, 2024",In Transit,5,True,9303.22
+ORD10111,C481,  Farhana Rahman  ,NA,MALE,Chittagong,Books,251.26,4,15.0,nagad,2024-11-29,05/12/2024,delivered,5,False,854.28
+ORD10312,C523,RAHIM UDDIN,39,Female,Khulna,Clothing,658.7,5,0.0,nagad,2025-03-03,03-05-2025,Delivered,1,Yes,3293.5
+ord10835,?,Imran Khan,25,Female,dhaka,Books,280.5,3,0.0,bKash,02/04/2025,08 Apr 2025,Delivered,-,true,841.5
+ORD10883,C267,imran khan,30,Male,Sylhet, Home & Kitchen,-500,2,15.0,nagad,23 Jun 2025,29 Jun 2025,Cancelled,2,False,1372.94
+ORD10102,C286,Farhana Rahman,,Female,Khulna,Sports,783.15,5,0.0,Credit Card,"September 19, 2024",2024-09-26,DELIVERED,4,False,3915.75
+ord10702,C542,Sabbir Ahmed,39,Male,Khulna,Electronics,12099.57,250,5.0,bKash,23/07/2024,2024-07-31,Delivered,4,False,11494.59
+ORD10437,C459,Karim Hossain,23,male,Dhaka,Books,৳471.92,1,0.0,bKash,05 Jun 2024,"June 08, 2024",Cancelled,3,True,471.92
+ORD10324,C561,Shirin Sultana,35,Male,NULL,Clothing,855.27,1,25.0,credit card,08/04/2024,04-12-2024,In Transit,2,False,641.45
+ORD10527,C520,Tania Akter,26,Male,Dhaka,Clothing,1573.89,2,10.0,Nagad,2024-11-18,"November 19, 2024",Delivered,3,true,2833.0
+ORD10562,C285,farhana rahman,27,MALE,Sylhet,Beauty,1484.11,1,15.0,bKash,"July 25, 2025",2023-01-01,DELIVERED,4,False,1261.49
+ORD10567,C152,Mim Chowdhury,37,Male,Dhaka,Electronics,7445.91,5,5.0,-,02-14-2025,02-19-2025,Delivered,4,True,35368.07
+ORD10880,C120,Mim Chowdhury,23,Female,Khulna,clothing,3315.3,2,0.0,Nagad,2024-07-04,"July 07, 2024",Delivered,4,True,6630.6
+ORD10805,C180,Sabbir Ahmed,21,Female,Dhaka,Books,357.29,2,20.0,bkash,"October 18, 2024",26 Oct 2024,in transit,5,False,571.66
+ORD10739,C478,Sabbir Ahmed,48, Female,?,Home & Kitchen,"3,603 Tk",4,25.0,BKASH,"December 30, 2024",01-01-2025,Cancelled,1,False,10809.75
+ORD10914,C532,nusrat jahan,unknown,Male,Khulna,Electronics,"20,141 Tk",5,0.0,Nagad,06 Mar 2025,03-07-2025,Returned,2,True,100703.3
+ORD10813,C379,Shirin Sultana,36, Female,Khulna,Home & Kitchen,7369.18,2,25.0,Debit Card,20 Sep 2024,23/09/2024,Delivered,4,True,11053.77
+ORD10945,C422,Imran Khan,36,Male,Barisal,SPORTS,"৳2,039.42",1,10.0,Debit Card,03-18-2025,"March 20, 2025",Delivered,N/A,0,1835.48
+ORD10214,C481,Karim Hossain,29,Female,KHULNA,Electronics,5918.01,5,25.0,Debit Card,2024-01-13,"January 19, 2024",In Transit,2,True,22192.54
+ORD10137,C220,SABBIR AHMED,24,Male,Sylhet,Beauty,225.36,1,15.0,Cash on Delivery,06 Jan 2025,01-12-2025,Cancelled,-,True,191.56
+ORD10885,C175,Arif Islam,,MALE,Sylhet,Books,331.85,1,5.0,bKash,05-06-2024,2024-05-14,Returned,5,False,315.26
+ORD10706,C552,Tania Akter,32,Male,Barisal,Books,BDT 114.4,2,10.0,bKash,"November 09, 2024",15/11/2024,Delivered,,True,nan
+ORD10918,C236,Arif Islam,30,Female,Sylhet,Sports,3764.52,4,5.0,credit card,13 Oct 2024,"October 15, 2024",DELIVERED,3,False,14305.18
+ORD10422,C478,Farhana Rahman,20,Female,Sylhet,Electronics,6063.58,1,0.0,Credit Card,28/12/2024,29 Dec 2024,Cancelled,3,False,6063.58
+ORD10525,C596,Farhana Rahman,null,Male,Khulna,Beauty,N/A,5,20.0,Cash on Delivery,03/01/2024,"January 09, 2024",DELIVERED,1,False,9788.24
+ORD10518,C347,Karim Hossain,28,Female,Barisal,Books,NULL,2,10.0,nagad,2024-07-05,12/07/2024,Cancelled,2,true,572.4
+ORD10134,C271,Nusrat Jahan,33,Female,Barisal, Sports,3342.67,2,0.0,Cash on Delivery,30/06/2024,2024-07-04,Deliverd,5,False,6685.34
+ORD10998,C195,NUSRAT JAHAN,33,Male,Barisal,Books,511 Tk,1,15.0,Debit Card,2024-05-21,23/05/2024,Delivered,5,True,434.36
+ORD10874,C181,Farhana Rahman,32,Male,Chittagong,Beauty,BDT 680.71,2,25.0,Credit Card,12 Oct 2024,2024-10-16,Cancelled,5,False,1021.06
+ORD10479,C133,Karim Hossain,28,Male,Barishal,Electronics,47967.23,1,0.0,Cash on Delivery,2024-08-21,23/08/2024,Delivered,2,True,47967.23
+ORD10466,C374,  Farhana Rahman  ,18,N/A,Sylhet,,8738.2,5,0.0,Cash on Delivery,22/11/2024,11-29-2024,Delivered,4,true,43691.0
+ORD10146,C344,Karim Hossain,29,female,Dhaka,Clothing,2018.61,2,25.0,Credit Card,2024-04-07,2024-04-08,Cancelled,3,True,3027.92
+ORD10314,C378,IMRAN KHAN,thirty,Female,Sylhet, Clothing,1244.13,4,15.0,bKash,"January 12, 2025","January 20, 2025",Delivered,5,False,4230.04
+ORD10798,C425,Nusrat Jahan,42,female,dhaka,Beauty,?,2,25.0,bKash,03-15-2025,22/03/2025,Delivered,,False,
+ORD10237,C514,  Sabbir Ahmed  ,N/A,Male,CTG,Electronics,9012.48,1,20.0,bkash,04/01/2024,2024-01-09,In Transit,4,False,7209.98
+ORD10986,C204,Imran Khan,44,Male,Barisal,Clothing,4498.25,5,15.0,Credit card,03/09/2024,07/09/2024,Delivered,4,True,19117.56
+ORD10791,C311,ARIF ISLAM,25,M,khulna,Clothing,507.79,1,25.0,bKash,10-09-2024,17/10/2024,Delivered,4,False,380.84
+ORD10988,C194,Mim Chowdhury,32,Female,Khulna,Electronics,15660.59,1,5.0,Nagad,29 Apr 2024,02/05/2024,In Transit,4,True,14877.56
+ORD10446,C393,Shirin Sultana,32,Female,Barisal,Beauty,644.52,3,10.0,Credit Card,21/08/2025,28/08/2025,Delivered,3,No,1740.2
+ORD10822,C445,Rahim Uddin,35,Female,Dhaka,Clothing,1374.41,2,10.0,bkash,12/09/2024,09-15-2024,Returned,1,True,2473.94
+ORD10376,C127,Nusrat Jahan,38,NULL,Dhaka,Books,280.71,1,999,Debit Card,06-19-2025,2025-06-22,Delivered,1,True,$238.6
+ORD10105,C362,farhana rahman,39,Female,Sylhet,Sports,1966.04,5,15.0,Cash on Delivery,2024-07-19,20 Jul 2024,Delivered,5,True,$8355.67
+ORD10163,C405,Sabbir Ahmed,32,Female,Barisal,Home & Kitchen,5679.45,1,0.0,Cash on Delivery,23 May 2025,"May 30, 2025",Delivered,4,True,5679.45
+ORD10569,C224,Karim Hossain,34,Male,Sylhet, Clothing,1414.3,4,15.0,Cash on Delivery,06-18-2025,2023-01-01,Cancelled,4,False,4808.62
+ORD10737,C337,Imran Khan,43,Male,Dhaka,Books,,2,20.0,cod,03/09/2024,2024-09-10,DELIVERED,4,False,$1378.02
+ORD10127,C438,  Mim Chowdhury  ,34,female,Barishal,Clothing,3164.89,1,25.0,,09-23-2024,24 Sep 2024,Delivered,3,False,2373.67
+ORD10318,C232,Mim Chowdhury,20,null,Dhaka,BOOKS,207.29,2,0.0,Cash on Delivery,2025-07-30,02 Aug 2025,Returned,4,True,414.58
+ORD10345,C113,Farhana Rahman,18,Male,Chattogram,Beauty,1343.02,2,20.0,Cash on Delivery,N/A,04-26-2025,Delivered,?,False,2148.83
+ord10810,C408,Sabbir Ahmed,28, Female,dhaka,Electronics,BDT 6089.33,2,10.0,Debit Card,2025-06-12,20 Jun 2025,DELIVERED,1,True,10960.79
+ORD10847,C503,Imran Khan,23,Female,Rajshahi,Home & Kitchen,4498.15,1,20.0,bKash,31 Oct 2024,11-08-2024,Delivered,2,True,3598.52
+ORD10385,C512,Sabbir Ahmed,27,Female,Sylhet,Books,290.99,2,10.0,credit card,2024-04-07,11 Apr 2024,Delivered,2,N,523.78
+ORD10614,C576,Imran Khan,26,male,DHAKA,ELECTRONICS,6646.28,1,5.0,Nagad,06 Jan 2025,01-09-2025,Delivered,5,True,$6313.97
+ORD10961,C200,Rahim Uddin,29,Male,Barisal,Clothing,"৳1,610.14",1,15.0,Cash on Delivery,13/09/2024,15/09/2024,Deliverd,1,0,1368.62
+ORD10751,C449,Tania Akter,23,Female,Khulna,Clothing,700.6,1,25.0,COD,11-12-2024,14 Nov 2024,Delivered,4,True,525.45
+ORD10031,C484,  Arif Islam  ,49,Female,Barisal,Books,308.11,1,0.0,Credit Card,05-26-2024,01 Jun 2024,Delivered,5,True,308.11
+ORD10713,C319,rahim uddin,35,M,-,Sports,BDT 1018.28,1,0.0,nagad,12 Oct 2024,20 Oct 2024,Returned,2,True,$1018.28
+ORD10578,C117,Shirin Sultana,45, Female,Sylhet,Clothing,2379.77,1,0.0,Debit Card,05-08-2025,10/05/2025,Delivered,5,False,2379.77
+ORD10357,C167,FARHANA RAHMAN,21,Female,Chittagong,,601.55,1,15.0,Cash on Delivery,"September 24, 2024",29/09/2024,Deliverd,5,True,511.32
+ORD10359,C471,Rahim Uddin,22,Male,Khulna,Electronics,BDT 9629.24,2,0.0,bKash,20/08/2025,22/08/2025,Delivered,5,True,19258.48
+ORD10667,C265,Karim Hossain,42,Male,KHULNA,Beauty,673.33,1,15.0,Cash on Delivery,2025-06-02,2025-06-07,Delivered,5,False,572.33
+ORD10112,C522,Karim Hossain,38,N/A,Khulna,Electronics,11862.81,3,5.0,Credit card,22 Mar 2025,27/03/2025,canceled,5,True,33809.01
+ORD10816,C532,Mim Chowdhury,18,Male,Barishal,Clothing,1329.13,1,20.0,Credit Card,2024-07-09,12 Jul 2024,Delivered,3,False,1063.3
+ORD10132,C296,Shirin Sultana,18,Male,Barishal,ELECTRONICS,"৳8,576.11",2,0.0,nagad,03-12-2024,2024-03-17,delivered,1,True,17152.22
+ORD10152,C526,  Mim Chowdhury  ,32,Female,barisal,Books,841.24,1,15.0,Nagad,02-16-2025,2025-02-23,Deliverd,3,False,715.05
+ORD10866,C315,Karim Hossain,27,Male,Chattogram,Clothing,1001.34,2,10.0,Credit Card,"April 13, 2025","April 18, 2025",Cancelled,5,False,1802.41
+ORD10771,C431,Mim Chowdhury,28,-,missing,Electronics,5574.01,4,25.0,Credit Card,2024-09-09,09-12-2024,Delivered,?,True,16722.03
+ORD10579,C437,  Arif Islam  ,33,Female,Chittagong,Sports,1435.17,4,25.0,Credit Card,28 Nov 2024,11-29-2024,canceled,1,N,4305.51
+ORD10475,C161,Mim Chowdhury,25,Female,Barishal,Home & Kitchen,5085.92,1,25.0,Credit card,"August 05, 2025","August 08, 2025",Delivered,?,False,3814.44
+ORD10593,C374,Arif Islam,40,F,Rajshahi,Sports,1094.88,2,20.0,BKASH,"July 10, 2025",2023-01-01,Delivered,?,1,1751.81
+ORD10261,C102,Arif Islam,39,Male,Sylhet,beauty,2148.91,1,20.0,Cash on Delivery,23 May 2024,27 May 2024,Cancelled,4,True,1719.13
+ORD10294,C334,Mim Chowdhury,55,male,null,Electronics,24893.3,3,15.0,Credit Card,01-01-2025,02/01/2025,Returned,1,False,$63477.91
+ORD10209,C227,Nusrat Jahan,18,Female,Chittagong,Electronics,15196.36,2,15.0,bKash,"April 06, 2025",14 Apr 2025,Delivered,?,True,25833.81
+ORD10612,C537,Imran Khan,35,Female,barisal,Beauty,747.34,2,10.0,,03-23-2025,03-28-2025,Delivered,4,False,1345.21
+ORD10823,C319,  Tania Akter  ,28,male,Dhaka,Sports,3312.4,1,5.0,NA,14/08/2025,16 Aug 2025,Cancelled,3,False,3146.78
+ORD10698,C154,Rahim Uddin,51,Female,Chittagong,Beauty,0,4,20.0,Nagad,12 Nov 2024,11-17-2024,In Transit,5,True,2273.02
+ORD10522,C314,  Farhana Rahman  ,35,Male,Sylhet,Clothing,3207.4,4,25.0,Nagad,22 Nov 2024,11-28-2024,DELIVERED,2,False,9622.2
+ORD10159,C102,nusrat jahan,18,Female,Rajshahi,Clothing,687.52,1,0.0,Credit card,2025-04-21,04-26-2025,Delivered,3,True,687.52
+ORD10610,C210,Shirin Sultana,29,Female,Barisal,Books,312.54,1,15.0,Debit Card,"February 22, 2024","February 27, 2024",Delivered,2,Y,265.66
+ORD10638,C237,Karim Hossain,28,Female,Rajshahi, Sports,1460.83,2,0.0,COD,05 May 2025,08 May 2025,Delivered,5,False,-
+ORD10097,C315,shirin sultana,null,Female,Sylhet,Books,461.02,2,5.0,bKash,"May 27, 2024",2024-06-03,Delivered,NULL,False,875.94
+ORD10093,C313,Sabbir Ahmed,42,Male,Rajshahi,Electronics,36509.17,5,0.0,credit card,2025-07-22,07-25-2025,Delivered,4,true,182545.85
+ORD10333,C474,Imran Khan,37,Male,barisal,Electronics,10552.31,1,10.0,Cash on Delivery,13 Aug 2025,19/08/2025,Deliverd,2,Y,9497.08
+ORD10450,C521,Imran Khan,32,Male,NULL,Home & Kitchen,1281.58,2,15.0,Credit Card,2025-07-09,"July 14, 2025",Delivered,NULL,True,2178.69
+ORD10279,C521,mim chowdhury,40,female,Khulna,Home & Kitchen,6598.32,1,15.0,bKash,20 Nov 2024,"November 27, 2024",Delivered,4,Y,5608.57
+ORD10646,C139,Karim Hossain,38,Female,Dhaka,Home & Kitchen,1272.03,4,5.0,bKash,"June 13, 2024",18/06/2024,Deliverd,1,No,
+ORD10186,C222,MIM CHOWDHURY,37,Male,Rajshahi,-,"৳5,504.84",2,0.0,Credit Card,01-25-2025,01-29-2025,In Transit,2,False,11009.68
+ORD10810,C408,Sabbir Ahmed,28, Female,dhaka,Electronics,BDT 6089.33,2,10.0,Debit Card,2025-06-12,20 Jun 2025,DELIVERED,1,True,10960.79
+ORD10797,C196,Shirin Sultana,18,N/A,Sylhet,Home & Kitchen,5325.19,5,0.0,bKash,2024-07-13,"July 19, 2024",canceled,5,False,26625.95
+ORD10838,C188,Rahim Uddin,42,Female,Dhaka,NA,"৳1,103.87",4,0.0,Nagad,"December 05, 2024",2024-12-12,Cancelled,5,No,N/A
+ORD10224,C312,Farhana Rahman,43,Male,Chittagong,Home & Kitchen,"৳4,204.55",1,25.0,bKash,11 Jul 2024,07-14-2024,delivered,2,True,3153.41
+ORD10014,C129,Sabbir Ahmed,20,Male,Chattogram,Clothing,BDT 2217.1,1,5.0,Debit Card,"August 18, 2025",25 Aug 2025,In Transit,5,False,$2106.24
+ORD10170,C551,MIM CHOWDHURY,20,Female,Dhaka,Electronics,2112.08,2,20.0,Nagad,2025-07-23,07-28-2025,Delivered,5,True,3379.33
+ORD10431,C306,Imran Khan,26,Female,Chittagong,Electronics,"৳10,324.96",1,0.0,Nagad,2025-04-05,08/04/2025,in transit,4,False,10324.96
+ORD10494,C361,tania akter,32,Male,Sylhet,Electronics,12394.14,1,0.0,Debit Card,"August 02, 2025",10/08/2025,Delivered,5,True,12394.14
+ORD10115,C195,Shirin Sultana,41,Female,Sylhet,Home & Kitchen,3819.09,3,15.0,Debit Card,"August 22, 2024",24/08/2024,Delivered,3,0,9738.68
+ORD10533,C574,nusrat jahan,32,Female,KHULNA,Electronics ,25307.4,3,15.0,bkash,12 Apr 2024,15 Apr 2024,Returned,2,N,64533.87
+ORD10676,C429,shirin sultana,18,F,Chittagong,Clothing,"1,133 Tk",1,0.0,Nagad,09 Jun 2025,06-14-2025,Delivered,5,true,1132.76
+ORD10631,C140,Rahim Uddin,34,Female,barisal,Books,446.44,4,10.0,Credit card,"May 10, 2025","May 12, 2025",Delivered,5,True,$1607.18
+ORD10019,C580,Mim Chowdhury,18,Male,sylhet,,2240.24,2,5.0,Nagad,07-29-2025,30/07/2025,DELIVERED,3,Y,$4256.46
+ORD10107,C296,Farhana Rahman,46,Female,Barisal,Clothing,777.86,4,25.0,Credit card,"January 25, 2025",27 Jan 2025,In Transit,5,No,2333.58
+ORD10139,C597,Mim Chowdhury,38,Male,Barisal,Books,৳520.54,2,20.0,bKash,2025-01-15,01-19-2025,Returned,5,True,832.86
+ORD10644,C585,  Nusrat Jahan  ,39,Male,Rajshai,Clothing,2002.87,1,20.0,Cash on Delivery,2025-01-02,"January 10, 2025",Delivered,1,True,1602.3
+ORD10236,C428,Nusrat Jahan,20,Female,KHULNA, Sports,BDT 5687.03,5,25.0,Debit Card,29 Sep 2024,2024-10-01,Delivered,4,True,21326.36
+ORD10909,C484,Farhana Rahman,35,NA,rajshahi,Electronics,12255.72,5,20.0,Credit card,"March 22, 2025","March 30, 2025",DELIVERED,,True,49022.88
+ORD10637,C473,Arif Islam,30,Male,Rajshahi,Electronics,19901.33,-2,20.0,Credit Card,08/08/2025,2025-08-13,Delivered,5,No,79605.32
+ORD10355,?,SABBIR AHMED,27,Female,Sylhet,electronics,6596.8,5,0.0,bKash,06-12-2025,06-19-2025,Delivered,5,False,32984.0
+ORD10443,C284,Tania Akter,27, Female,Khulna,Sports,827.05,2,25.0,Debit Card,19/10/2024,2024-10-21,Cancelled,-,True,1240.57
+ORD10370,C516,Karim Hossain,38,Female,Rajshahi,Electronics,2964.66,2,25.0,Debit Card,2024-07-12,2024-07-14,Delivered,5,0,4446.99
+ORD10888,C329,  Sabbir Ahmed  ,18,Female,Dhaka,null,670 Tk,5,0.0,Debit Card,22 Jan 2025,01-29-2025,Delivered,nan,False,N/A
+ORD10233,C142,Rahim Uddin,38,M,Dhaka,Home & Kitchen,940.36,3,0.0,Nagad,24 Jan 2025,31/01/2025,In Transit,5,False,2821.08
+ORD10229,C511,Mim Chowdhury,29,Female,Khulna,CLOTHING,BDT 844.95,4,20.0,Cash on Delivery,2024-02-29,2024-03-01,Returned,5,False,2703.84
+ORD10653,C583,Imran Khan,42,Male,Sylhet,Clothing,601.25,3,15.0,Credit Card,23/11/2024,"November 27, 2024",Delivered,1,true,1533.19
+ORD10423,C257,Tania Akter,NA,Female,Barisal,Clothing,2446.99,1,25.0,Debit Card,27/01/2024,01 Feb 2024,DELIVERED,5,True,1835.24
+ORD10454,C253,Mim Chowdhury,18,Female,Rajshahi,Beauty,874.42,1,25.0,Credit Card,08/04/2024,2024-04-14,DELIVERED,2,False,655.82
+ORD10645,C502,Shirin Sultana,35,Male,,Clothing,2223.91,2,0.0,Nagad,07-23-2025,07-27-2025,In Transit,3,True,4447.82
+ORD10319,C485,SABBIR AHMED,29,Female,Sylhet,BOOKS,639.1,5,10.0,Debit Card,2025-02-23,26/02/2025,Delivered,4,False,2875.95
+ORD10440,C195,arif islam,29,F,nan,Clothing,915.49,1,5.0,Credit Card,13/02/2025,"February 17, 2025",Delivered,3,False,869.72
+ORD10624,C100,Mim Chowdhury,23,female,Barisal,Clothing,516.21,1,15.0,Debit Card,"March 29, 2024",2024-04-05,delivered,3,False,438.78
+ORD10523,C458,Sabbir Ahmed,22,-,Chittagong,Clothing,743.15,2,0.0,null,,05/06/2024,Delivered,5,False,1486.3
+ORD10477,C264,Nusrat Jahan,35,Female,Khulna,Electronics,5156.53,1,0.0,Cash on Delivery,12 Nov 2024,"November 17, 2024",Returned,5,True,$5156.53
+ORD10468,C543,Mim Chowdhury,45,Female,Chattogram,Books,482.55,2,20.0,Debit Card,07-21-2025,"July 22, 2025",Delivered,1,Y,772.08
+ORD10702,C542,Sabbir Ahmed,39,Male,Khulna,Electronics,12099.57,250,5.0,bKash,23/07/2024,2024-07-31,Delivered,4,False,11494.59
+ORD10059,missing,  Imran Khan  ,29,Female,Dhaka,Sports,2425.15,2,20.0,Credit Card,19 Mar 2025,03-21-2025,in transit,3,True,3880.24
+ORD10697,C186,Sabbir Ahmed,-,Male,Rajshahi,Home & Kitchen,"৳7,253.74",2,25.0,bKash,"June 19, 2025",2025-06-26,Cancelled,5,False,10880.61
+ORD10411,C365,FARHANA RAHMAN,34,Male,barisal,Home & Kitchen,"1,292 Tk",1,0.0,Cash on Delivery,05/09/2024,12/09/2024,Delivered,3,True,N/A
+ORD10078,C329,MIM CHOWDHURY,19,Female,Rajshahi,home & kitchen,3333.97,1,10.0,Credit Card,09/03/2025,2023-01-01,Delivered,N/A,True,3000.57
+ORD10924,C443,Karim Hossain,25,Female,Sylhet,Beauty,1139.72,1,0.0,bKash,08-19-2025,"August 24, 2025",Delivered,3,False,1139.72
+ORD10116,C399,Tania Akter,33,Female,Barisal,Clothing,1203.97,2,25.0,,02-18-2025,"February 22, 2025",canceled,2,1,1805.96
+ORD10068,C395,Farhana Rahman,32,Male,Rajshahi,Books,604.71,5,20.0,Nagad,12/07/2025,2025-07-20,Delivered,5,True,2418.84
+ORD10609,C553,ARIF ISLAM,18,Female,Sylhet,Home & Kitchen,"৳6,611.75",1,20.0,cod,19/11/2024,25 Nov 2024,Delivered,1,True,$5289.4
+ORD10944,C236,rahim uddin,missing,Female,Dhaka,Home & Kitchen,3046.68,2,25.0,bKash,"May 12, 2025",17 May 2025,In Transit,5,False,-
+ORD10810,C408,Sabbir Ahmed,28, Female,dhaka,Electronics,BDT 6089.33,2,10.0,Debit Card,2025-06-12,20 Jun 2025,DELIVERED,1,True,10960.79
+ORD10371,C553,RAHIM UDDIN,23,M,Rajshahi,Home & Kitchen,"4,682 Tk",5,10.0,bKash,05-24-2024,01/06/2024,Returned,5,True,21068.68
+ORD10399,C307,imran khan,27,Male,khulna,Beauty,"৳1,404.73",2,5.0,Cash on Delivery,29 Sep 2024,01 Oct 2024,Returned,5,False,2668.99
+ORD10409,C565,Mim Chowdhury,37,Male,NULL, Home & Kitchen,3438.42,4,10.0,Credit Card,"January 28, 2024",29 Jan 2024,Delivered,1,False,12378.31
+ORD10801,C476,Rahim Uddin,18,NA,Chattogram,Books,866.5,2,5.0,Debit Card,01-26-2024,02/02/2024,Delivered,4,True,1646.35
+ORD10439,C573,MIM CHOWDHURY,18,F,Khulna,Sports,3378.43,5,0.0,credit card,06-22-2025,2025-06-23,Deliverd,5,False,16892.15
+ORD10550,C357,  Karim Hossain  ,30,Female,Dhaka,Home & Kitchen,4774.81,1,20.0,Cash on Delivery,12-27-2024,30/12/2024,Delivered,4,False,3819.85
+ORD10037,C231,  Arif Islam  ,47,Female,Chattogram, Home & Kitchen,2442.15,2,5.0,bKash,06-15-2025,2025-06-16,Delivered,4,True,4640.08
+ORD10746,C129,Rahim Uddin,21,Male,nan,Home & Kitchen,980.08,2,5.0,nagad,2024-08-30,31/08/2024,DELIVERED,5,True,$1862.15
+ORD10710,C300,Imran Khan,,Female,Khulna,Clothing,2419.35,1,0.0,bKash,"January 28, 2024",04/02/2024,Delivered,5,N,2419.35
+ORD10106,C377,tania akter,48,Female,Dhaka,Sports,"3,509 Tk",3,0.0,cod,07/09/2024,09-14-2024,Delivered,5,True,10527.84
+ORD10465,C144,Rahim Uddin,24, Female,Chittagong,Beauty,BDT 2112.26,1,0.0,Debit Card,"August 17, 2025","August 24, 2025",Delivered,1,False,2112.26
+ORD10351,C415,shirin sultana,32,Male,Khulna,Sports,"৳2,491.73",2,20.0,nagad,NULL,21/03/2025,In Transit,nan,Y,3986.77
+ORD10356,C244,Arif Islam,26,Male,Khulna,Clothing,832.52,3,25.0,Debit Card,2024-03-07,10 Mar 2024,Delivered,,False,1873.17
+ORD10323,C421,  Shirin Sultana  ,18,F,KHULNA,Sports,"৳1,301.37",2,5.0,Debit Card,"September 18, 2024",2024-09-22,Cancelled,4,0,2472.6
+ORD10744,C332,karim hossain,32,Male,CTG,Clothing,1600.41,3,10.0,Cash on Delivery,30 Mar 2025,04-03-2025,Delivered,5,False,4321.11
+ORD10251,C298,Nusrat Jahan,32,Female,Barisal,Home & Kitchen,1535.66,2,10.0,Nagad,2024-06-22,2024-06-30,Delivered,5,0,2764.19
+ORD10502,C392,Nusrat Jahan,N/A,Male,Barisal,Home & Kitchen,"৳3,548.28",2,15.0,Credit card,2024-11-11,11-12-2024,Deliverd,,False,6032.08
+ORD10534,C116,  Mim Chowdhury  ,44,Male,Dhaka,Books,,1,25.0,Nagad,21 May 2024,2024-05-29,Delivered,4,Yes,299.21
+ORD10723,C529,  Rahim Uddin  ,45,Female,Dhaka,Home & Kitchen,BDT 3344.97,1,5.0,credit card,22/05/2024,26 May 2024,Delivered,4,True,3177.72
+ORD10390,C354,  Sabbir Ahmed  ,43,Female,Rajshahi,Home & Kitchen,1621.24,3,20.0,bKash,2024-04-20,2024-04-27,Delivered,5,False,3890.98
+ORD10055,C190,Nusrat Jahan,35,Female,Khulna,Electronics,10840.28,3,25.0,bKash,20 Apr 2025,2025-04-27,Delivered,4,True,$24390.63
+ORD10215,C244,Shirin Sultana,33,Male,Sylhet,Books,"1,789 Tk",3,10.0,BKASH,23 Feb 2025,25/02/2025,Cancelled,5,True,4829.84
+ORD10338,C306,rahim uddin,25,Female,Rajshahi,Beauty,987.27,3,10.0,Credit Card,2024-02-12,20 Feb 2024,Delivered,4,True,$2665.63
+ORD10772,C255,  Farhana Rahman  ,18,Male,Khulna,Sports,2058.59,3,10.0,Credit Card,18/05/2025,26 May 2025,Delivered,,False,5558.19
+ORD10529,C407,arif islam,18, Female,Sylhet,Beauty,933.23,2,0.0,Debit Card,"March 19, 2025",24 Mar 2025,Cancelled,3,True,$1866.46
+ORD10056,C124,Karim Hossain,35,Female,Dhaka,Sports,12716.06,1,0.0,Nagad,"January 20, 2025",01-25-2025,Delivered,N/A,No,12716.06
+ORD10591,C403,Karim Hossain,51,MALE,barisal,Electronics,10492.95,1,15.0,Cash on Delivery,12/05/2025,15/05/2025,canceled,5,True,8919.01
+ORD10861,C217,SHIRIN SULTANA,20,female,NULL,Clothing,BDT 1946.21,5,0.0,COD,11/01/2024,12/01/2024,Delivered,1,False,NA
+ORD10169,C470,MIM CHOWDHURY,30,Male,Khulna,Sports,768.98,3,25.0,Nagad,22/01/2025,26/01/2025,Delivered,1,False,1730.2
+ORD10291,C153,Mim Chowdhury,22,Female,Rajshahi,Clothing,1962.48,5,0.0,COD,2025-03-05,"March 13, 2025",Delivered,5,True,9812.4
+ORD10181,C148,Sabbir Ahmed,27,Female,Khulna,Clothing,687.58,2,0.0,Debit Card,18/07/2025,21/07/2025,In Transit,-,N,$1375.16
+ORD10053,C187,  Rahim Uddin  ,29,M,Chittagong,Home & Kitchen,"৳2,883.89",2,0.0,Credit card,2024-11-20,21/11/2024,Delivered,2,False,5767.78
+ORD10726,C220,Shirin Sultana,37,Female,Dhaka,books,132.09,5,25.0,Credit Card,13/10/2024,10-21-2024,Delivered,4,False,495.34
+ORD10939,C204,Farhana Rahman,32,Female,Barisal,Electronics,14967.85,1,0.0,bKash,null,"July 29, 2024",Delivered,4,True,14967.85
+ORD10346,C365,Imran Khan,18,Female,Khulna,missing,5336.68,2,15.0,Debit Card,"March 05, 2024",03-11-2024,In Transit,5,True,9072.36
+ORD10802,C220,Imran Khan,?,Female,,Beauty,1025.04,3,25.0,Nagad,26/03/2025,30/03/2025,Delivered,5,Yes,2306.34
+ORD10151,C220,Rahim Uddin,thirty,Female,Sylhet,Home & Kitchen,4983.31,4,0.0,Debit Card,2024-04-02,2024-04-03,Delivered,4,True,
+ORD10930,C463,Sabbir Ahmed,18,MALE,Chattogram,Electronics,19649.86,4,20.0,nagad,04 Jan 2024,"January 08, 2024",Delivered,missing,Yes,62879.55
+ORD10715,nan,Farhana Rahman,twenty five,Female,Sylet,Home & Kitchen,3201.55,2,0.0,bKash,2024-05-28,30/05/2024,Cancelled,3,False,6403.1
+ORD10230,C369,Tania Akter,23, Female,Sylhet,Clothing,1249.0,1,0.0,Credit Card,missing,16 Feb 2024,Cancelled,,0,1249.0
+ORD10614,C576,Imran Khan,26,male,DHAKA,ELECTRONICS,6646.28,1,5.0,Nagad,06 Jan 2025,01-09-2025,Delivered,5,True,$6313.97
+ORD10837,C267,Farhana Rahman,31,Female,Barisal,Home & Kitchen,1715.05,1,15.0,bKash,08 Oct 2024,10-10-2024,Delivered,5,True,1457.79
+ORD10619,C196,Rahim Uddin,41,Male,Barisal,Beauty,1436.91,4,5.0,Cash on Delivery,19 Apr 2025,2025-04-23,Delivered,5,False,5460.26
+ORD10745,C182,farhana rahman,37,Female,Barisal,Beauty,370.89,2,0.0,Debit Card,"June 18, 2024",2024-06-21,DELIVERED,2,True,741.78
+ORD10812,C410,Shirin Sultana,34,Male,Khulna,Beauty,495.0,1,0.0,bKash,04-30-2024,"May 03, 2024",Delivered,2,False,495.0
+ORD10931,C339,Shirin Sultana,33,Female,Chittagong,Clothing,2091.71,2,5.0,cod,08-17-2024,23 Aug 2024,Delivered,,True,3974.25
+ORD10966,C377,Arif Islam,33,MALE,Khulna,Clothing ,561.98,2,15.0,BKASH,25 May 2024,30/05/2024,Delivered,3,False,
+ORD10188,C543,Sabbir Ahmed,23,Female,Dhaka,Beauty,2379.4,1,0.0,bkash,"June 26, 2024",06-28-2024,In Transit,1,True,2379.4
+ORD10388,C406,  Farhana Rahman  ,18,Female,,Home & Kitchen ,1956.53,1,10.0,Debit Card,18 Apr 2025,19/04/2025,Delivered,1,False,1760.88
+ORD10971,C244,Sabbir Ahmed,44,,Barisal,Clothing,1269.4,2,25.0,Debit Card,04 Mar 2025,03-11-2025,DELIVERED,5,True,1904.1
+ORD10849,C407,mim chowdhury,18,N/A,rajshahi,Beauty,655.33,2,15.0,nagad,2025-08-03,2025-08-04,Delivered,2,True,missing
+ORD10825,C530,Arif Islam,36,NULL,Khulna,Beauty,710.03,1,0.0,Debit Card,2025-02-03,2025-02-08,In Transit,4,Y,710.03
+ORD10185,C232,Farhana Rahman,19,Male,Dhaka ,Clothing,BDT 912.19,2,0.0,Credit Card,2024-05-19,"May 27, 2024",Delivered,4,False,1824.38
+ORD10626,C591,Imran Khan,39,Male,Rajshahi,clothing,BDT 1520.58,4,0.0,bKash,"April 14, 2025",04-22-2025,Returned,missing,False,6082.32
+ORD10043,C298,sabbir ahmed,36,Female,Sylet,Sports,1060.33,4,0.0,Credit Card,17/09/2024,18 Sep 2024,Delivered,1,False,4241.32
+ORD10458,C190,Mim Chowdhury,33,M,Barisal,Clothing,"৳1,844.06",2,25.0,Cash on Delivery,05-10-2025,11/05/2025,Delivered,NULL,True,2766.09
+ORD10648,C579,Farhana Rahman,30,Female,sylhet,Home & Kitchen,1908.53,5,20.0,Credit card,07-25-2024,"August 02, 2024",Delivered,5,Y,$7634.12
+ORD10652,C276,Imran Khan,42,Male,Chittagong,books,397.55,1,5.0,Debit Card,"January 23, 2024",24/01/2024,Delivered,4,False,377.67
+ORD10142,C120,Farhana Rahman,23,Male,Rajshahi,Electronics,9060.45,1,0.0,Nagad,"July 16, 2025",24/07/2025,Delivered,3,False,9060.45
+ord10921,C597,Sabbir Ahmed,,Male,Sylhet,Home & Kitchen,"3,111 Tk",1,10.0,Debit Card,17/09/2024,18 Sep 2024,Returned,4,False,2799.5
+ORD10615,C438,rahim uddin,31,Male,Sylhet,Sports,BDT 1040.25,1,25.0,cod,02-27-2025,06 Mar 2025,Delivered,1,true,N/A
+ORD10857,C129,Nusrat Jahan,64,Female,CTG,Sports,1863.67,2,20.0,credit card,27 Jun 2025,2025-07-02,In Transit,5,False,2981.87
+ORD10352,C323,  Arif Islam  ,18,Female,Rajshahi,Home & Kitchen,BDT 2959.18,1,15.0,Cash on Delivery,"September 20, 2024",09-25-2024,Delivered,4,False,2515.3
+ORD10317,C438,Mim Chowdhury,33,Male,khulna,Beauty,1706.19,5,0.0,Credit card,06/07/2025,"July 14, 2025",Delivered,3,True,8530.95
+ORD10322,C194,Tania Akter,18,Male,Chittagong,Beauty,688.63,1,5.0,Nagad,2024-07-22,28 Jul 2024,Delivered,2,False,654.2
+ORD10448,C146,farhana rahman,44,female,Dhaka, Clothing,BDT 1021.11,5,15.0,bKash,"November 19, 2024",27/11/2024,Cancelled,-,True,$4339.72
+ORD10846,C507,KARIM HOSSAIN,37,Female,Khulna,Beauty ,530.59,5,15.0,bKash,"February 27, 2025",04 Mar 2025,Delivered,4,Yes,2255.01
+ORD10542,C364,Karim Hossain,29,female,Chittagong,Sports,5562.25,2,0.0,Cash on Delivery,2024-12-22,"December 26, 2024",Cancelled,1,False,11124.5
+ORD10755,C499,Rahim Uddin,38,Male,dhaka,Home & Kitchen,4106.67,2,15.0,bKash,04-18-2025,24/04/2025,DELIVERED,3,False,6981.34
+ORD10636,C275,ARIF ISLAM,20,Female,KHULNA, Home & Kitchen,3223.71,1,0.0,Nagad,06 May 2024,"May 07, 2024",Returned,5,False,null
+ORD10329,C491,  Sabbir Ahmed  ,32,Male,Khulna,Sports,"৳2,854.29",1,0.0,Cash on Delivery,02-21-2024,23/02/2024,Delivered,4,True,2854.29
+ORD10000,C147,KARIM HOSSAIN,?,F,Barisal,Sports,2821.43,3,10.0,Cash on Delivery,16 Sep 2024,"September 23, 2024",Delivered,2,True,7617.86
+ORD10150,C104,Shirin Sultana,34,Male,-, Books,427.18,2,0.0,Nagad,10 Jul 2024,"July 12, 2024",Delivered,1,False,854.36
+ORD10649,C509,SHIRIN SULTANA,-,female,Sylhet,Beauty,৳480.81,1,15.0,Nagad,2025-02-18,2025-02-24,Delivered,4,True,408.69
+ORD10067,C396,Tania Akter,26,Female,Rajshai,Home & Kitchen,1216.78,100,0.0,Debit Card,2025-07-29,06/08/2025,Delivered,4,False,$3650.34
+ORD10778,C368,  Mim Chowdhury  ,nan,MALE,sylhet,Home & Kitchen,11307.91,1,25.0,Nagad,2024-02-09,02-11-2024,canceled,2,False,8480.93
+ORD10819,C313,Tania Akter,31,Male,Barisal,Beauty,679.8,2,25.0,Credit Card,17/01/2025,01-23-2025,Delivered,1,True,1019.7
+ORD10592,C180,Mim Chowdhury,nan,Male,Khulna,Sports,7049.72,3,0.0,bKash,"October 25, 2024",26/10/2024,Cancelled,?,False,null
+ORD10842,C110,Mim Chowdhury,18,Male,Chittagong,Sports,"৳2,486.83",2,20.0,Credit Card,"September 09, 2024",2024-09-12,Delivered,3,No,$3978.93
+ORD10687,C496,Tania Akter,31,Female,Barisal,Sports,1573.13,1,0.0,bKash,19/08/2024,22 Aug 2024,Delivered,1,True,1573.13
+ORD10327,C227,TANIA AKTER,29,Female,Dhaka,Electronics,9214.37,2,20.0,Debit Card,"January 16, 2025",19/01/2025,Cancelled,nan,True,14742.99
+ORD10549,C543,karim hossain,30,female,-,Beauty,1335.06,4,25.0,Cash on Delivery,2024-06-19,06-21-2024,in transit,2,False,4005.18
+ORD10900,C124,SHIRIN SULTANA,51,null,Rajshahi,Books,BDT 566.53,2,25.0,bKash,2025-02-25,"February 27, 2025",Cancelled,,False,849.8
+ORD10574,C411,Karim Hossain,41, Female,Khulna,Electronics,46886.58,3,0.0,Nagad,08-23-2024,2024-08-31,Delivered,5,true,140659.74
+ORD10596,C139,Arif Islam,unknown,MALE,Chittagong,Beauty,2463.95,2,20.0,Credit Card,29 Jan 2025,2025-02-03,Cancelled,3,False,3942.32
+ORD10565,C260,Shirin Sultana,27,Female,Barisal,Clothing,1333.62,2,5.0,Nagad,15/06/2024,2024-06-19,Returned,4,true,2533.88
+ORD10709,C228,Mim Chowdhury,46,Female,KHULNA, Books,232.54,1,5.0,-,12-24-2024,"December 28, 2024",Delivered,4,Y,220.91
+ORD10845,C241,Sabbir Ahmed,29,Female,sylhet,Electronics,4733.27,5,0.0,Nagad,13/12/2024,12-21-2024,Delivered,?,Yes,23666.35
+ORD10179,C482,Rahim Uddin,29,M,Khulna,Books,132.56,5,0.0,Nagad,20 May 2024,23 May 2024,Returned,3,No,662.8
+ORD10922,C522,Tania Akter,18,Male,Rajshahi,Sports,3556.4,1,0.0,Cash on Delivery,"March 26, 2025",29 Mar 2025,Delivered,-,true,3556.4
+ORD10877,C289,Imran Khan,24, Female,khulna, Clothing,957.11,2,15.0,Debit Card,"May 23, 2024","May 25, 2024",Delivered,,True,1627.09
+ORD10131,C248,Sabbir Ahmed,52,Male,Sylhet,Clothing,1815.06,2,20.0,Nagad,"September 11, 2024",18/09/2024,Cancelled,5,True,2904.1
+ORD10993,C202,Mim Chowdhury,37,Female,Khulna,Books,1072.63,4,5.0,Credit Card,01/05/2024,2024-05-03,Delivered,1,True,4075.99
+ORD10296,C415,Farhana Rahman,54,Male,Rajshai,beauty,828.32,5,5.0,nagad,30 Sep 2024,06 Oct 2024,Returned,,True,$3934.52
+ORD10283,C117,Sabbir Ahmed,46, Female,Dhaka,Books,505 Tk,3,10.0,Credit Card,2024-04-26,"May 04, 2024",in transit,missing,False,1362.85
+ORD10901,C237,  Farhana Rahman  ,22,Female,NA,Beauty,814.68,2,25.0,bKash,14/02/2025,02-18-2025,Delivered,4,False,1222.02
+ORD10417,C455,Farhana Rahman,18,Female,barisal,Books,426.03,1,20.0,Nagad,,07-05-2025,Cancelled,2,True,340.82
+ORD10781,C192,nusrat jahan,150,Female,Dhaka,Beauty,৳992.43,2,10.0,cod,23 Apr 2025,24 Apr 2025,Delivered,NA,True,1786.37
+ORD10130,C142,tania akter,20,Female,Rajshahi,Electronics,8715.34,1,0.0,Nagad,25 Nov 2024,2024-12-03,Cancelled,5,True,$8715.34
+ORD10729,C126,Nusrat Jahan,36,Male,Dhaka, Books,৳400.41,1,5.0,bKash,09 Jul 2025,14 Jul 2025,Delivered,NULL,False,380.39
+ORD10899,C145,farhana rahman,31,Female,CTG,null,nan,2,15.0,Credit card,"May 29, 2025",06-02-2025,Delivered,1,False,1734.53
+ORD10114,C299,shirin sultana,23,Male,rajshahi,Beauty,668.09,1,20.0,Nagad,18/08/2024,21 Aug 2024,Cancelled,1,No,534.47
+ORD10736,C526,Shirin Sultana,32,male,Rajshahi,Sports,4417.88,1,20.0,Debit Card,28/07/2025,05/08/2025,Delivered,nan,False,$3534.3
+ORD10984,C259,Karim Hossain,40,Female,Sylhet,Electronics,4177.55,1,0.0,Nagad,24 Jul 2024,2023-01-01,Delivered,1,False,4177.55
+ORD10958,C513,Rahim Uddin,40,Male,Chittagong,Books,242.87,1,15.0,Credit Card,30/12/2024,05/01/2025,In Transit,5,No,206.44
+ORD10886,C552,Mim Chowdhury,41,Male,CTG,Beauty,841.11,1,15.0,?,22/08/2025,"August 30, 2025",Cancelled,1,No,714.94
+ORD10427,C148,  Nusrat Jahan  ,unknown,Male,chittagong, Sports,1986.97,3,20.0,Cash on Delivery,"April 26, 2025",2025-05-01,Delivered,3,False,4768.73
+ORD10271,C302,  Nusrat Jahan  ,40,Female,Barisal,Clothing,2068.1,2,5.0,bKash,21 Apr 2024,"April 22, 2024",canceled,2,False,3929.39
+ORD10242,C338,Karim Hossain,47,Female,Dhaka,Sports,"৳2,925.99",4,0.0,Debit Card,18/05/2025,26 May 2025,In Transit,5,True,11703.96
+ORD10313,C300,  Sabbir Ahmed  ,40,Male,Sylhet,Electronics,"6,009 Tk",3,25.0,nan,12 Mar 2024,2023-01-01,Cancelled,2,1,13519.69
+ORD10377,C403,KARIM HOSSAIN,35,Male,Sylhet,Sports ,1551.55,4,0.0,bKash,"January 14, 2024",01-21-2024,Returned,4,0,6206.2
+ORD10521,C141,Imran Khan,54,Female,CTG,Sports,3059.11,1,5.0,Cash on Delivery,02-05-2024,2024-02-08,in transit,NA,False,2906.15
+ORD10284,C357,Tania Akter,38,Female,Dhaka, Clothing,1748.47,4,0.0,Credit Card,18 Jun 2024,"June 26, 2024",Delivered,4,False,6993.88
+ORD10129,C395,Arif Islam,27,Male,N/A,Electronics,2468.74,2,5.0,Debit Card,12/04/2025,"April 19, 2025",Cancelled,5,False,
+ORD10395,C337,Shirin Sultana,23,Female,Rajshahi,Books,139.84,3,15.0,Nagad,29/05/2025,"June 01, 2025",In Transit,4,False,356.59
+ORD10326,C498,Imran Khan,37,female,Chittagong,Beauty,447.42,1,0.0,Cash on Delivery,30/08/2024,03/09/2024,In Transit,2,False,447.42
+ORD10705,C562,Mim Chowdhury,18,Male,-,Home & Kitchen,2605.21,1,5.0,Cash on Delivery,24 Jan 2024,31 Jan 2024,Delivered,null,True,2474.95
+ORD10682,C232,Rahim Uddin,18,Female,nan,Beauty,569.52,2,5.0,bKash,21 Sep 2024,09-22-2024,Delivered,3,False,1082.09
+ORD10774,C506,  Tania Akter  ,27,-,Dhaka,Electronics,7654.27,1,10.0,BKASH,03 Mar 2024,2024-03-06,In Transit,1,False,6888.84
+ORD10040,C106,SHIRIN SULTANA,30,Male,Barisal, Electronics,15446.33,1,25.0,Credit card,2024-10-26,"October 31, 2024",Returned,5,True,11584.75
+ORD10306,NA,  Tania Akter  ,18,Female,Rajshai,Clothing,1615.41,1,10.0,Cash on Delivery,25 Jul 2024,29/07/2024,DELIVERED,5,True,1453.87
+ORD10373,C266,Nusrat Jahan,46,Male,Rajshahi,NULL,434.86,2,15.0,BKASH,04 Sep 2024,08 Sep 2024,delivered,5,True,739.26
+ORD10629,C120,Tania Akter,21,Male,,Books,278.2,1,15.0,BKASH,01/12/2024,2024-12-09,Returned,3,False,236.47
+ORD10955,C457,SHIRIN SULTANA,27,Female,Khulna,Sports,4490.17,3,10.0,bkash,22/08/2025,27/08/2025,Delivered,3,True,NULL
+ORD10272,C535,  Sabbir Ahmed  ,38,M,Barisal,Electronics,13444.34,2,25.0,Debit Card,2024-05-27,28/05/2024,Delivered,5,True,20166.51
+ORD10008,C516,Tania Akter,37,Female,Dhaka,Sports,"3,671 Tk",1,20.0,bKash,01-12-2025,01-18-2025,Delivered,5,False,2936.52
+ORD10660,C572,tania akter,18,Male,Barisal,home & kitchen,3493.61,1,20.0,BKASH,2025-06-16,06-21-2025,In Transit,1,False,2794.89
+ORD10563,C222,nusrat jahan,21, Female,Barisal,Home & Kitchen,4362.22,1,20.0,Credit Card,16/08/2024,"August 20, 2024",Delivered,5,False,3489.78
+ORD10397,C157,Mim Chowdhury,29,Male,Barishal,Clothing,716.55,1,10.0,Debit Card,25 Apr 2025,03 May 2025,Delivered,2,False,$644.9
+ORD10987,C255,Mim Chowdhury,18,Female,missing,Home & Kitchen,2123.76,1,25.0,Nagad,05 Mar 2024,03-13-2024,Delivered,5,Y,1592.82
+ORD10700,C336,shirin sultana,31,Female,Barisal,Beauty,815.45,5,10.0,Nagad,17/10/2024,18 Oct 2024,Deliverd,1,False,3669.52
+ORD10963,C352,  Rahim Uddin  ,?,Male,CTG,Sports,BDT 3828.11,3,15.0,credit card,"January 03, 2025",04/01/2025,in transit,5,1,9761.68
+ORD10532,C469,Mim Chowdhury,30,Female,sylhet,Beauty,2641.12,1,0.0,Nagad,21 Feb 2024,26 Feb 2024,Cancelled,missing,False,2641.12
+ORD10108,C175,Tania Akter,47,Female,Chittagong,Electronics,25138.55,4,20.0,Cash on Delivery,"January 25, 2024",29/01/2024,Delivered,5,False,80443.36
+ORD10937,C258,Arif Islam,27,Female,Dhaka,Electronics,"৳8,101.98",1,0.0,Debit Card,05/02/2024,2024-02-10,Deliverd,2,False,8101.98
+ORD10733,C315,Sabbir Ahmed,27,Female,Barisal,Clothing,-,1,5.0,bKash,2024-12-21,22 Dec 2024,Deliverd,1,True,1853.71
+ORD10491,C352,  Mim Chowdhury  ,26,Female,Rajshahi,Books,438.25,-1,0.0,Nagad,06/04/2024,09/04/2024,Deliverd,4,False,876.5
+ORD10079,C155,arif islam,34,Male,-,Clothing,822.78,1,5.0,bKash,11-05-2024,13 Nov 2024,Delivered,4,False,781.64
+ORD10760,C245,TANIA AKTER,18,N/A,Rajshahi,Books,602.64,2,15.0,cod,2025-04-15,19/04/2025,Cancelled,3,True,1024.49
+ORD10342,C532,Sabbir Ahmed,38,Male,Rajshai,Home & Kitchen,2263.13,2,10.0,Debit Card,11 Oct 2024,12 Oct 2024,Delivered,5,N,4073.63
+ORD10404,C481,karim hossain,41,Male,sylhet,SPORTS,2970.86,4,25.0,Credit Card,07-13-2024,2024-07-14,Delivered,NULL,N,8912.58
+ORD10049,C533,Farhana Rahman,31,male,Dhaka,Beauty,764.24,1,5.0,Credit card,"July 09, 2025",2025-07-13,Returned,5,1,726.03
+ORD10250,C589,karim hossain,26,Female,Khulna,Home & Kitchen,2211.0,1,15.0,nagad,2025-07-03,10 Jul 2025,Cancelled,N/A,False,1879.35
+ORD10020,C489,  Sabbir Ahmed  ,44,Male,Rajshahi,Electronics,,2,15.0,Credit Card,2024-10-01,04/10/2024,Deliverd,3,True,22688.73
+ORD10623,C419,Sabbir Ahmed,40,Male,Sylhet,Beauty,1363.35,2,25.0,BKASH,missing,2023-01-01,DELIVERED,4,True,2045.02
+ORD10135,C242,FARHANA RAHMAN,22,Female,Chittagong,BOOKS,339.67,5,25.0,Nagad,2025-07-31,07 Aug 2025,In Transit,5,True,1273.76
+ORD10536,C214,Nusrat Jahan,30,female,Barisal,Clothing,740.65,2,15.0,Nagad,missing,18/01/2024,Delivered,3,False,1259.1
+ORD10920,C200,Imran Khan,49,Female,Khulna,Electronics ,24785.57,1,15.0,Debit Card,2024-04-13,15/04/2024,Delivered,4,False,21067.73
+ORD10956,C301,sabbir ahmed,36,Female,KHULNA,Clothing,"1,556 Tk",2,15.0,bKash,13/08/2024,2024-08-19,Delivered,3,Y,2646.02
+ORD10844,C332,Shirin Sultana,36,Male,Khulna,Beauty,1304.09,1,20.0,Debit Card,"February 09, 2025",10/02/2025,Delivered,4,0,1043.27
+ORD10382,C319,Rahim Uddin,33,Female,Khulna,Books,637.24,0,5.0,?,16 Oct 2024,2023-01-01,Delivered,3,True,605.38
+ORD10025,C393,Tania Akter,NA,Female,Khulna,Beauty,2373.35,1,5.0,Cash on Delivery,2025-01-31,02-02-2025,Cancelled,2,False,2254.68
+ORD10047,C154,Karim Hossain,35,Male,Sylhet,Sports,1977.8,2,10.0,Credit Card,15 Jan 2025,22 Jan 2025,Delivered,5,True,
+ORD10783,C579,Rahim Uddin,35, Female,Sylet,Electronics,5269.21,4,25.0,cod,28 May 2025,"May 31, 2025",Delivered,3,False,$15807.63
+ORD10174,C288,Nusrat Jahan,41,Female,CTG,Clothing,BDT 2369.81,2,25.0,Credit card,29/10/2024,2024-11-02,Delivered,-1,True,$3554.72
+ORD10029,C110,imran khan,25,Male,Barisal,Clothing,1555.88,5,5.0,,2024-11-23,28 Nov 2024,Cancelled,3,True,7390.43
+ORD10153,C227,Tania Akter,23,Female,Khulna,Home & Kitchen,9188.85,2,0.0,nagad,22 Jun 2025,29/06/2025,Delivered,3,False,null
+ORD10566,C473,Arif Islam,43,Male,Dhaka,Books,386.49,1,25.0,Debit Card,10-05-2024,"October 11, 2024",Delivered,2,False,289.87
+ORD10821,C116,arif islam,thirty,Female,Khulna,Clothing,9999999,1,20.0,bKash,01-15-2025,19/01/2025,Delivered,nan,0,594.93
+ORD10770,C593,Rahim Uddin,38,Female,Barisal,Electronics,16194.9,5,10.0,Nagad,06-19-2024,2024-06-27,In Transit,4,No,72877.05
+ORD10161,C125,NUSRAT JAHAN,30,Male,Barishal,Electronics,10782.27,2,10.0,Nagad,04-09-2024,14 Apr 2024,In Transit,5,False,$19408.09
+ORD10244,C311,RAHIM UDDIN,18,Female,Dhaka,Sports,1347.83,1,0.0,Cash on Delivery,2025-06-19,20/06/2025,Delivered,1,true,1347.83
+ORD10891,C278,Tania Akter,33,Female,Sylhet,Clothing,1911.74,1,25.0,Debit Card,2025-03-23,24/03/2025,Delivered,1,true,$1433.8
+ORD10158,C171,  Nusrat Jahan  ,32,Male,Sylhet,Sports,"5,312 Tk",1,25.0,Cash on Delivery,2024-03-29,"April 03, 2024",Returned,5,True,$3983.92
+ORD10530,C350,Shirin Sultana,25,Female,Dhaka,Sports,1636.61,1,5.0,Nagad,"October 25, 2024",29/10/2024,Delivered,2,True,1554.78
+ORD10501,C410,Mim Chowdhury,32,Female,Rajshahi,Electronics,12781.81,1,25.0,Credit Card,"July 22, 2025","July 29, 2025",Delivered,NULL,False,9586.36
+ORD10432,C583,Mim Chowdhury,28,Female,Sylhet,Home & Kitchen,5932.89,5,0.0,Debit Card,05/02/2025,13 Feb 2025,canceled,4,False,29664.45
+ORD10507,C408,Karim Hossain,null,Female,KHULNA,Sports,nan,1,0.0,Credit Card,02/06/2024,2024-06-06,in transit,5,Yes,$3274.82
+ORD10890,C362,Nusrat Jahan,28,Female,Rajshahi,Clothing,1761.74,1,0.0,Cash on Delivery,04-04-2025,07 Apr 2025,Returned,5,False,1761.74
+ORD10806,C447,arif islam,34,Male,Sylet, Clothing,712 Tk,1,0.0,nagad,22/03/2024,2024-03-29,Deliverd,,True,712.18
+ORD10366,C479,TANIA AKTER,27,Male,sylhet,Beauty,1025.28,1,5.0,Credit Card,08-25-2024,31/08/2024,Delivered,3,False,-
+ORD10932,C271,Arif Islam,47,Male,Rajshahi,Beauty,879.55,0,20.0,Credit Card,2024-10-13,2023-01-01,Cancelled,5,Yes,$3518.2
+ORD10054,C258,Arif Islam,33,F,Chittagong,Beauty,752.46,2,15.0,bKash,11-05-2024,2023-01-01,Delivered,5,False,1279.18
+ORD10683,C268,Karim Hossain,32,Male,Khulna,Home & Kitchen,1790.4,1,0.0,Debit Card,2025-06-13,"June 16, 2025",DELIVERED,,False,1790.4
+ORD10024,C120,FARHANA RAHMAN,33,Male,null,Clothing,3464.19,1,15.0,Debit Card,12/01/2025,"January 13, 2025",Returned,NA,True,$2944.56
+ORD10298,C329,Mim Chowdhury,19,Female,CTG,Books,543.52,3,20.0,Nagad,"August 09, 2024","August 14, 2024",in transit,4,False,1304.45
+ORD10556,C465,Farhana Rahman,42,Male,Barisal,Electronics,15485.74,2,0.0,Cash on Delivery,15/06/2024,17/06/2024,In Transit,NA,True,30971.48
+ORD10575,C598,Nusrat Jahan,34,Male,Barisal,Books,554.57,1,5.0,Credit Card,2024-09-19,27/09/2024,Delivered,4,1,526.84
+ORD10018,C250,Farhana Rahman,31,Female,Rajshahi,Beauty,1401.07,2,15.0,Credit Card,24/10/2024,28 Oct 2024,Delivered,2,False,2381.82
+ORD10756,C315,  Nusrat Jahan  ,34,MALE,Rajshahi,Electronics,18139.87,4,0.0,COD,11/06/2025,2023-01-01,in transit,5,True,72559.48
+ORD10254,C264,Arif Islam,30,null,Barisal, Beauty,1093.72,2,25.0,Nagad,26 Apr 2025,"May 04, 2025",Delivered,5,False,$1640.58
+ORD10225,C516,Karim Hossain,?,Male,Barishal,Home & Kitchen,4474.71,1,15.0,Cash on Delivery,04-02-2025,"April 05, 2025",Delivered,5,N,3803.5
+ORD10419,C563,Imran Khan,31,Female,Chittagong,Clothing,1100.76,4,0.0,Nagad,NA,"October 01, 2024",Cancelled,1,True,4403.04
+ORD10643,C378,Tania Akter,20,Female,Chattogram,Home & Kitchen,1847.44,3,25.0,Nagad,17 Apr 2025,20 Apr 2025,In Transit,5,True,4156.74
+ORD10793,C278,Imran Khan,21,Female,Barisal,Books,1790.1,3,5.0,bKash,"March 20, 2024",22/03/2024,Delivered,?,False,5101.78
+ORD10222,C443,Mim Chowdhury,32,Male,nan,Sports,3477.67,1,5.0,Debit Card,"October 30, 2024",04 Nov 2024,Delivered,3,False,3303.79
+ORD10712,C502,Nusrat Jahan,21,Female,Dhaka,Books,370.0,2,5.0,Debit Card,24 Sep 2024,2024-10-01,Cancelled,2,False,$703.0
+ORD10424,C317,Nusrat Jahan,33,Male,Chittagong,Beauty,"৳1,390.25",1,20.0,Credit Card,03-16-2025,03-23-2025,Delivered,null,False,1112.2
+ORD10218,C295,Mim Chowdhury,twenty five,F,Khulna,Home & Kitchen,,1,0.0,credit card,23 Feb 2025,"March 02, 2025",Delivered,1,True,nan
+ORD10865,C589,Mim Chowdhury,NA,Female,Barisal, Clothing,BDT 2590.77,3,0.0,Debit Card,03-29-2025,"April 03, 2025",in transit,?,No,7772.31
+ORD10133,C133,Arif Islam,48,MALE,Chittagong,Beauty,BDT 830.7,1,10.0,COD,2024-07-25,07-27-2024,Cancelled,1,N,747.63
+ORD10171,C471,Farhana Rahman,46,Male,Barisal,Electronics,6683.49,4,20.0,bKash,"October 28, 2024",29 Oct 2024,Delivered,-,True,21387.17
+ORD10442,C574,Shirin Sultana,18,F,Rajshahi,Beauty,839.24,1,5.0,bKash,19 Dec 2024,"December 25, 2024",Cancelled,?,False,797.28
+ORD10807,C309,Tania Akter,29,Female,Rajshahi,Clothing,BDT 887.28,5,0.0,Credit Card,06 Apr 2025,04-10-2025,Delivered,4,False,4436.4
+ORD10286,C368,SABBIR AHMED,34,Female,NA,Clothing,BDT 986.51,1,0.0,Cash on Delivery,03-30-2024,04 Apr 2024,Deliverd,,False,986.51
+ORD10066,C142,Shirin Sultana,50,Female,Khulna,BEAUTY,"৳1,095.30",5,15.0,BKASH,"January 16, 2025","January 17, 2025",Delivered,4,False,4655.02
+ORD10453,C199,Karim Hossain,31,Female,DHAKA,Home & Kitchen,1795.61,3,0.0,Debit Card,23/10/2024,2024-10-31,Delivered,1,True,5386.83
+ORD10446,C393,Shirin Sultana,32,Female,Barisal,Beauty,644.52,3,10.0,Credit Card,21/08/2025,28/08/2025,Delivered,3,No,1740.2
+ORD10071,C143,Arif Islam,18,Male,Barisal,Books,119.62,1,25.0,Nagad,05-22-2025,23 May 2025,Cancelled,5,False,89.72
+ORD10669,C312,Tania Akter,31,male,Chittagong, Electronics,BDT 7400.73,4,20.0,BKASH,2024-01-08,10/01/2024,Delivered,5,True,23682.34
+ORD10412,C295,KARIM HOSSAIN,28,Male,Sylhet,Home & Kitchen,6850.92,1,0.0,Credit Card,02-28-2025,2025-03-03,Delivered,4,False,N/A
+ORD10082,C428,Sabbir Ahmed,missing,male,Khulna,Home & Kitchen,2805.74,4,20.0,bkash,30/04/2025,"May 02, 2025",In Transit,3,True,$8978.37
+ORD10978,C462,Sabbir Ahmed,18,Male,Barisal,home & kitchen,3092.48,2,15.0,Credit Card,22 Jan 2025,24/01/2025,Delivered,5,0,5257.22
+ORD10368,C231,NUSRAT JAHAN,,male,Khulna,Sports,728.13,4,0.0,Nagad,11/03/2025,03-14-2025,Delivered,5,True,2912.52
+ORD10015,C491,Shirin Sultana,27,female,Rajshahi,Sports,3166.77,5,5.0,Nagad,17/09/2024,2024-09-23,Delivered,4,True,15042.16
+ord10642,C549,Rahim Uddin,25,Male,Rajshahi,Electronics,14575.99,1,0.0,N/A,25/05/2024,2024-05-28,Returned,,True,14575.99
+ORD10535,C293,Mim Chowdhury,37,Female,sylhet,Electronics,9235.03,5,25.0,Cash on Delivery,25 May 2025,"May 31, 2025",canceled,,True,
+ORD10769,C557,Nusrat Jahan,47,MALE,,Clothing,"৳3,858.00",1,0.0,Credit Card,2025-05-04,08/05/2025,Cancelled,4,True,3858.0
+ORD10451,C530,SABBIR AHMED,37,Male,Dhaka,Electronics,5428.05,1,0.0,Credit Card,2024-02-29,05 Mar 2024,DELIVERED,2,False,5428.05
+ORD10620,C313,Mim Chowdhury,-,Male,Barisal,Clothing ,771 Tk,1,0.0,bKash,09 Jan 2025,15/01/2025,Delivered,1,False,770.51
+ORD10404,C481,karim hossain,41,Male,sylhet,SPORTS,2970.86,4,25.0,Credit Card,07-13-2024,2024-07-14,Delivered,NULL,N,8912.58
+ORD10490,C125,Arif Islam,N/A,female,Barisal,Clothing,327.97,1,20.0,Credit card,09 Aug 2024,2024-08-14,Delivered,3,True,262.38
+ORD10868,C113,Farhana Rahman,28,Male,Dhaka,Home & Kitchen,3959.8,2,20.0,Debit Card,2025-03-14,03-16-2025,Delivered,2,Yes,6335.68
+ORD10811,C517,mim chowdhury,29,Female,Barisal,Clothing,"৳1,901.32",3,0.0,bKash,13 Oct 2024,2024-10-14,canceled,4,False,5703.96
+ORD10364,C466,  Imran Khan  ,28,Male,Chittagong,Electronics,3882.09,2,0.0,bKash,2025-01-22,26/01/2025,In Transit,4,False,7764.18
+ORD10459,C348,Arif Islam,999,F,Rajshai,Home & Kitchen,4162.02,1,5.0,Credit Card,06-13-2024,2024-06-15,Delivered,5,True,3953.92
+ORD10104,C452,Imran Khan,36,female,khulna,Beauty,4486.35,2,20.0,Debit Card,09-11-2024,"September 14, 2024",Delivered,2,N,7178.16
+ORD10268,C331,Shirin Sultana,35,Male,Chittagong,Books,579.12,-2,25.0,Cash on Delivery,2024-02-09,2024-02-10,Delivered,4,1,1303.02
+ORD10997,C123,Mim Chowdhury,24,Female,Dhaka,Books,BDT 231.59,2,0.0,bKash,07 Mar 2024,"March 08, 2024",canceled,1,False,$463.18
+ORD10927,C171,shirin sultana,37,Male,Dhaka,Sports,1512.81,5,0.0,bKash,05-29-2025,01 Jun 2025,Delivered,5,False,7564.05
+ORD10730,C192,Karim Hossain,18,male,chittagong,Sports,10486.18,1,0.0,Nagad,17 Aug 2025,21/08/2025,Delivered,1,True,10486.18
+ORD10241,C547,Shirin Sultana,18,missing,Chittagong,Electronics ,6496.4,4,0.0,Debit Card,2024-08-05,08-06-2024,Returned,4,True,25985.6
+ORD10430,C228,  Mim Chowdhury  ,23,MALE,Barishal,Books,655.74,4,5.0,Credit Card,20/03/2025,"March 25, 2025",Cancelled,4,False,2491.81
+ORD10735,C467,Farhana Rahman,,Male,barisal, Beauty,1293.97,3,5.0,Debit Card,2024-05-24,05-30-2024,Delivered,5,False,3687.81
+ORD10203,C354,  Farhana Rahman  ,39,Male,Sylhet,Electronics,23109.87,2,5.0,Debit Card,"June 20, 2025","June 25, 2025",Returned,4,False,43908.75
+ORD10142,C120,Farhana Rahman,23,Male,Rajshahi,Electronics,9060.45,1,0.0,Nagad,"July 16, 2025",24/07/2025,Delivered,3,False,9060.45
+ORD10595,C472,Tania Akter,18,Female,Sylhet,Home & Kitchen,6336.62,100,20.0,Credit Card,19 Jan 2025,01-24-2025,In Transit,3,True,10138.59
+ORD10096,C423,Imran Khan,27,Female,Rajshai,Clothing,2572.84,1,15.0,Credit card,07-29-2024,08-03-2024,Cancelled,4,False,2186.91
+ORD10467,C594,  Mim Chowdhury  ,nan,Male,missing,Electronics,13104.95,1,20.0,?,"June 15, 2025",06-19-2025,Delivered,5,True,10483.96
+ORD10841,C338,Sabbir Ahmed,46,Male,Dhaka,Beauty,925.08,3,15.0,COD,01-16-2025,2025-01-23,Delivered,2,Yes,2358.95
+ORD10492,C291,sabbir ahmed,21,Male,dhaka,,1230.86,5,0.0,Cash on Delivery,05-15-2024,2024-05-18,Delivered,5,True,$6154.3
+ORD10166,C544,Farhana Rahman,25,Male,DHAKA,null,2209.35,1,10.0,bKash,2024-09-13,09-17-2024,In Transit,5,True,1988.42
+ORD10692,C527,  Farhana Rahman  ,31,Female,Dhaka,Sports,1885.9,1,20.0,bKash,"April 19, 2025",21 Apr 2025,In Transit,5,1,1508.72
+ORD10894,C394,IMRAN KHAN,44,Female,Dhaka,Sports,1557.45,4,0.0,Cash on Delivery,18 Aug 2024,2024-08-25,Delivered,5,True,
+ord10959,C539,mim chowdhury,22, Female,Khulna,beauty,1247.6,2,0.0,bKash,"May 06, 2025",05-07-2025,Delivered,1,True,$2495.2
+ORD10315,C574,Farhana Rahman,24,male,Barishal,Clothing,,1,0.0,bKash,05-14-2024,2024-05-16,Delivered,5,False,$1844.35
+ORD10361,C468,Shirin Sultana,20,Female,Barisal,Electronics,12547.54,5,10.0,Nagad,29/07/2025,03 Aug 2025,Delivered,5,False,$56463.93
+ORD10138,C380,Imran Khan,35,male,Sylhet,Books,681.11,1,0.0,Cash on Delivery,2024-07-27,2024-08-03,In Transit,?,False,681.11
+ORD10276,C557,Imran Khan,28,Female,Barisal,Books,636.1,1,20.0,Cash on Delivery,2025-07-16,18/07/2025,Cancelled,1,0,508.88
+ORD10384,C121,Sabbir Ahmed,18,female,Khulna,Home & Kitchen,5778.49,4,10.0,bKash,07/01/2025,"January 12, 2025",Delivered,2,True,20802.56
+ORD10568,C565,Mim Chowdhury,22,Female,Chittagong,Sports,2011.03,4,0.0,Credit Card,05-20-2025,"May 24, 2025",Returned,3,False,8044.12
+ORD10647,C214,Nusrat Jahan,18,Male,Dhaka,Home & Kitchen,1734.6,1,0.0,Cash on Delivery,09 Jan 2024,"January 13, 2024",Delivered,1,True,1734.6
+ORD10088,C542,rahim uddin,-5,Male,Sylhet,Books,179.99,2,0.0,bKash,2024-02-12,2024-02-17,Delivered,2,True,$359.98
+ORD10991,C483,Karim Hossain,26,Male,Sylhet,Electronics,14856.15,2,15.0,Credit Card,"July 22, 2024","July 24, 2024",Delivered,missing,0,25255.46
+ORD10280,C371,Tania Akter,37,missing,Dhaka,Home & Kitchen,1192.76,3,0.0,Cash on Delivery,07-07-2025,2025-07-14,Cancelled,4,True,3578.28
+ORD10460,C140,Farhana Rahman,38,Female,Dhaka,books,313.86,4,0.0,Nagad,"July 25, 2025","July 26, 2025",Delivered,null,Yes,1255.44
+ORD10674,C134,Mim Chowdhury,33,Female,Rajshai,CLOTHING,2108.02,3,0.0,BKASH,02-15-2024,21 Feb 2024,Delivered,nan,Y,6324.06
+ORD10943,C350,Imran Khan,40,Female,Dhaka, Books,286.85,3,25.0,missing,31 Aug 2024,"September 01, 2024",Delivered,3,True,645.41
+ORD10794,C347,Tania Akter,18,Female,Khulna,Beauty,BDT 2363.98,2,0.0,Debit Card,29 Jun 2024,04 Jul 2024,Delivered,1,True,4727.96
+ORD10202,C283,Imran Khan,46,Female,Dhaka,Beauty,875.66,4,15.0,Nagad,04-13-2024,16/04/2024,Delivered,5,False,2977.24
+ORD10402,C396,  Farhana Rahman  ,29,Male,Rajshahi,Home & Kitchen,"3,462 Tk",4,20.0,COD,04/01/2024,08 Jan 2024,Delivered,2,False,11077.98
+ORD10340,C403,  Sabbir Ahmed  ,18,Male,Barisal,Beauty,1138.67,4,5.0,Debit Card,05-29-2024,06-05-2024,Delivered,2,False,4326.95
+ORD10365,C183,sabbir ahmed,26,Female,DHAKA,Home & Kitchen,2570.28,1,10.0,credit card,08 Aug 2025,10/08/2025,DELIVERED,5,1,N/A
+ORD10023,C413,Shirin Sultana,34,Male,Dhaka,Clothing,556 Tk,1,20.0,Nagad,22 Oct 2024,2024-10-28,Delivered,3,True,445.14
+ORD10345,C113,Farhana Rahman,18,Male,Chattogram,Beauty,1343.02,2,20.0,Cash on Delivery,N/A,04-26-2025,Delivered,?,False,2148.83
+ORD10971,C244,Sabbir Ahmed,44,,Barisal,Clothing,1269.4,2,25.0,Debit Card,04 Mar 2025,03-11-2025,DELIVERED,5,True,1904.1
+ORD10334,C352,Arif Islam,32,Male,Barisal,BEAUTY,796.34,2,0.0,bKash,15/08/2025,2025-08-17,canceled,5,True,1592.68
+ORD10310,C107,Tania Akter,43,Female,sylhet,Books,?,2,20.0,Cash on Delivery,2024-08-03,2024-08-07,Delivered,5,True,$589.46
+ORD10977,C493,  Karim Hossain  ,32,Male,Barishal,Clothing,921.85,1,5.0,Nagad,"November 13, 2024",11-20-2024,canceled,5,False,875.76
+ORD10640,C319,Nusrat Jahan,25,Male,Chittagong,books,BDT 239.09,2,0.0,Nagad,"June 26, 2024","July 02, 2024",In Transit,2,No,478.18
+ORD10353,C230,Imran Khan,23,Female,Khulna,Home & Kitchen,BDT 5409.78,1,10.0,Credit Card,02-10-2024,"February 12, 2024",Cancelled,5,N,$4868.8
+ORD10374,C323,Tania Akter,N/A,Male,Sylhet,Books,289.99,2,0.0,Debit Card,?,17/09/2024,Returned,5,False,579.98
+ORD10240,C382,imran khan,18,Male,N/A,Sports,2569.19,4,0.0,bKash,"March 20, 2024",25/03/2024,Delivered,4,1,10276.76
+ORD10318,C232,Mim Chowdhury,20,null,Dhaka,BOOKS,207.29,2,0.0,Cash on Delivery,2025-07-30,02 Aug 2025,Returned,4,True,414.58
+ORD10799,C277,Karim Hossain,32,Male,Barisal,Clothing,"1,502 Tk",2,10.0,Credit Card,23/01/2025,31/01/2025,DELIVERED,2,1,2703.08
+ORD10262,C382,SABBIR AHMED,-,,Chittagong,,1220.25,5,5.0,Credit Card,12/06/2025,20/06/2025,canceled,5,True,5796.19
+ORD10098,C543,  Tania Akter  ,46,Female,rajshahi,Books,৳414.07,2,5.0,credit card,07-31-2025,05/08/2025,Returned,-,Yes,$786.73
+ORD10804,C576,shirin sultana,37,Female,Dhaka,CLOTHING,805.81,3,20.0,Nagad,2024-07-09,16/07/2024,Delivered,3,True,1933.94
+ORD10969,C240,Tania Akter,18,Female,Chittagong,Home & Kitchen,1271.97,1,15.0,Credit Card,20/05/2025,2025-05-24,Delivered,5,False,1081.17
+ORD10941,C198,Karim Hossain,23,Female,Barisal,Books,221.9,2,15.0,COD,25/08/2024,"September 01, 2024",Delivered,5,True,377.23
+ORD10089,C590,Tania Akter,26,F,Dhaka,Electronics,3500.24,2,0.0,nagad,10 Aug 2024,2024-08-11,Delivered,missing,True,7000.48
+ORD10515,C305,Tania Akter,150,Female,Barishal,clothing,501 Tk,1,5.0,Debit Card,07-16-2025,2025-07-24,In Transit,4,1,475.66
+ORD10331,C479,Farhana Rahman,-5,NULL,,Electronics,13149.88,4,25.0,Nagad,20 Nov 2024,23 Nov 2024,Delivered,4,True,39449.64
+ORD10782,C204,RAHIM UDDIN,,Female,Rajshai,NA,"2,002 Tk",1,15.0,Debit Card,13/05/2025,15/05/2025,In Transit,3,False,1701.84
+ORD10433,C509,Rahim Uddin,40,Male,Dhaka ,Home & Kitchen,1935.08,1,0.0,Nagad,07-09-2025,2025-07-14,Delivered,2,True,1935.08
+ORD10992,C425,Tania Akter,28,Male,Sylhet,Clothing,৳908.85,5,0.0,cod,27 Jan 2025,"January 31, 2025",delivered,5,True,4544.25
+ORD10787,C172,Rahim Uddin,18,Female,Sylhet,Electronics,8240.78,1,10.0,Nagad,nan,13/02/2024,Returned,4,True,7416.7
+ORD10486,C495,RAHIM UDDIN,34,Male,Rajshahi,Books,587 Tk,1,15.0,?,"January 07, 2025","January 13, 2025",Returned,3,true,$499.16
+ORD10658,C106,Nusrat Jahan,34,Male,Rajshahi,Books,206.7,4,0.0,Debit Card,28/02/2024,29/02/2024,Deliverd,3,False,826.8
+ORD10694,C100,Rahim Uddin,44,null,dhaka,Clothing,1419.76,2,20.0,Cash on Delivery,06-24-2025,06-28-2025,Returned,4,N,2271.62
+ORD10948,null,  Shirin Sultana  ,39,Male,Rajshahi, Books,1871.81,5,25.0,Credit Card,2024-05-11,05-16-2024,Delivered,5,True,7019.29
+ORD10815,C485,Nusrat Jahan,41,Male,Sylhet,Books,৳457.06,2,10.0,Credit Card,"July 07, 2024",2024-07-10,In Transit,null,True,822.71
+ORD10260,C113,  Sabbir Ahmed  ,,Male,Dhaka,Sports,2383.16,2,0.0,Credit Card,2025-07-15,"July 21, 2025",DELIVERED,1,False,4766.32
+ORD10305,C280,Sabbir Ahmed,25,Male,Sylhet,Electronics,16095.85,1,10.0,,20 Sep 2024,27 Sep 2024,Delivered,nan,False,14486.27
+ORD10964,C157,Tania Akter,39,Female,rajshahi,Electronics,10017.68,1,0.0,Debit Card,2025-07-15,07-22-2025,Delivered,5,False,$10017.68
+ORD10196,C318,Karim Hossain,33,M,khulna,Sports ,2347.29,3,20.0,Nagad,11/05/2025,05-13-2025,Cancelled,4,False,5633.5
+ORD10140,C192,Rahim Uddin,27,Female,barisal,BOOKS,BDT 301.7,1,20.0,Nagad,06/02/2025,2025-02-14,Returned,4,False,241.36
+ORD10594,C589,Nusrat Jahan,24,Female,KHULNA,Sports,2774.6,1,10.0,bKash,"May 09, 2025","May 15, 2025",Deliverd,missing,False,2497.14
+ORD10122,C332,Farhana Rahman,NULL,Female,Barishal, Electronics,4868.25,2,20.0,Nagad,07-31-2025,04/08/2025,Delivered,5,1,7789.2
+ORD10494,C361,tania akter,32,Male,Sylhet,Electronics,12394.14,1,0.0,Debit Card,"August 02, 2025",10/08/2025,Delivered,5,True,12394.14
+ORD10110,C221,Nusrat Jahan,24,Female,Dhaka,Sports,1700.89,5,15.0,Credit Card,03-09-2025,03-13-2025,Delivered,3,False,7228.78
+ORD10084,C563,Arif Islam,39, Female,Khulna,Home & Kitchen,1284.18,1,20.0,bKash,26 May 2024,27 May 2024,In Transit,5,0,1027.34
+ORD10722,C125,Mim Chowdhury,23,-,sylhet,Books,363.33,3,0.0,Cash on Delivery,"March 09, 2024",03-16-2024,canceled,N/A,False,1089.99
+ORD10513,C483,Karim Hossain,37,Female,Rajshahi,Beauty,2010.13,1,0.0,Debit Card,"April 30, 2024",04 May 2024,Cancelled,5,True,2010.13
+ORD10691,C474,SHIRIN SULTANA,39,Female,Barisal,Books,775.38,1,20.0,Debit Card,26/06/2025,"July 01, 2025",Delivered,2,True,$620.3
+ORD10482,C261,Imran Khan,18,Male,Dhaka,Books,391.59,1,20.0,cod,2025-06-19,06-25-2025,Delivered,-,True,313.27
+ORD10740,C183,  Rahim Uddin  ,-5,Female,NULL,Home & Kitchen,"৳2,119.09",1,25.0,Debit Card,09-25-2024,2024-09-30,Delivered,5,True,1589.32
+ORD10598,C263,Rahim Uddin,NULL,male,Khulna,Books,৳531.51,5,15.0,Nagad,2025-04-06,14/04/2025,Delivered,4,True,$2258.92
+ORD10074,C291,Nusrat Jahan,21,Female,Barishal,Books,376.43,5,0.0,Debit Card,21 Feb 2024,2024-02-29,In Transit,5,False,$1882.15
+ORD10718,C434,Imran Khan,23,Female,Khulna,Clothing,2325.48,1,0.0,credit card,13 Mar 2025,17 Mar 2025,Delivered,4,True,2325.48
+ORD10792,C147,Farhana Rahman,29,Male,Rajshahi,Electronics,15436.97,4,5.0,Nagad,2024-01-05,07 Jan 2024,Delivered,5,1,58660.49
+ORD10273,C367,Sabbir Ahmed,36,Male,Rajshahi,Sports ,2067.07,1,10.0,bKash,21 Mar 2024,2024-03-25,Delivered,2,N,$1860.36
+ORD10396,C360,Rahim Uddin,25,Female,Barisal,Beauty,1086.15,1,0.0,Debit Card,02/11/2024,05/11/2024,DELIVERED,5,Yes,1086.15
+ORD10154,C280,Mim Chowdhury,49,Female,Barisal,Beauty,BDT 877.42,2,10.0,Cash on Delivery,"August 03, 2025","August 08, 2025",Delivered,NULL,False,1579.36
+ORD10191,C226,Sabbir Ahmed,20,Male,CTG,Beauty,2821.38,1,0.0,Cash on Delivery,"August 11, 2024",16 Aug 2024,Delivered,2,0,2821.38
+ORD10994,C343,Rahim Uddin,31,Male,Rajshahi,missing,BDT 5419.98,4,0.0,nagad,08 Feb 2024,11 Feb 2024,Deliverd,5,Y,21679.92
+ORD10187,C365,Karim Hossain,22,Female,Sylhet,Sports,4249.74,1,20.0,Nagad,"December 10, 2024",17/12/2024,Delivered,4,False,3399.79
+ORD10050,C508,RAHIM UDDIN,NA, Female,Chittagong,Electronics,4354.23,2,0.0,Cash on Delivery,10 Jun 2024,12 Jun 2024,Delivered,?,true,8708.46
+ORD10038,C176,Shirin Sultana,49,Male,Barishal,NA,"৳5,036.41",5,0.0,nagad,01-20-2024,2024-01-21,in transit,5,True,25182.05
+ORD10418,C359,Shirin Sultana,34,Male,Chittagong,Electronics,5450.12,3,25.0,Cash on Delivery,N/A,2024-10-23,delivered,1,False,12262.77
+ORD10953,C358,tania akter,34,Male,Chittagong,Books,366.95,3,15.0,Credit Card,2024-10-01,2024-10-05,Returned,2,True,935.72
+ORD10208,C201,Karim Hossain,35,Male,Sylhet,Beauty,857.86,1,0.0,Cash on Delivery,2024-06-17,06-23-2024,canceled,?,True,857.86
+ORD10375,C258,Sabbir Ahmed,28,Female,?,Electronics,3091.75,1,20.0,bKash,"August 13, 2025",2025-08-18,Delivered,5,False,2473.4
+ORD10463,C383,Nusrat Jahan,N/A,Male,Rajshahi,Clothing,1744.64,1,15.0,Nagad,2024-05-06,2024-05-13,Delivered,4,False,1482.94
+ORD10470,C225,Rahim Uddin,43,Female,Barisal,Home & Kitchen,2657.0,1,10.0,Credit card,09-13-2024,16 Sep 2024,Delivered,5,True,?
+ORD10517,C543,Imran Khan,18,Female,Chittagong,N/A,3529.56,4,0.0,Credit Card,"April 16, 2025",22 Apr 2025,Delivered,3,true,14118.24
+ORD10075,C339,  Shirin Sultana  ,34,Female,Rajshahi,Books,1003.36,1,10.0,Nagad,2025-07-23,"July 31, 2025",Delivered,4,False,903.02
+ORD10248,C509,Mim Chowdhury,31,Female,Rajshahi,Electronics,"৳2,722.38",2,0.0,Nagad,04-29-2024,06/05/2024,In Transit,1,False,5444.76
+ORD10559,C577,  Farhana Rahman  ,40,N/A,Barisal,Electronics,15404.06,4,5.0,Debit Card,2025-02-08,2025-02-14,Delivered,5,N,58535.43
+ORD10302,C339,TANIA AKTER,40,Female,Rajshai,Clothing,1615.07,1,15.0,credit card,"May 16, 2025",05-18-2025,Delivered,5,False,1372.81
+ORD10582,C222,Karim Hossain,21,Female,Barisal,Sports,3312.69,4,10.0,bKash,2025-03-18,"March 21, 2025",Cancelled,5,No,11925.68
+ORD10803,C373,Shirin Sultana,41,,Sylhet,Books,418.98,1,20.0,bKash,21/09/2024,2024-09-29,Delivered,2,False,nan
+ORD10335,C223,farhana rahman,26,F,Rajshai,home & kitchen,6303.83,4,5.0,Nagad,14/05/2025,"May 21, 2025",Delivered,,True,23954.55
+ORD10011,C157,FARHANA RAHMAN,29,Female,Sylhet,Clothing,1093.75,2,10.0,Debit Card,2024-10-30,04 Nov 2024,Delivered,2,False,1968.75
+ord10549,C543,karim hossain,30,female,-,Beauty,1335.06,4,25.0,Cash on Delivery,2024-06-19,06-21-2024,in transit,2,False,4005.18
+ORD10485,C391,Farhana Rahman,30,nan,dhaka,sports,1379.8,4,15.0,Cash on Delivery,04 Feb 2024,"February 05, 2024",Deliverd,5,True,4691.32
+ORD10462,C169,Rahim Uddin,43,Male,Dhaka,Electronics,3192.77,4,15.0,Nagad,03/04/2024,2024-04-07,Delivered,3,Yes,?
+ORD10538,C595,  Farhana Rahman  ,NULL,Female,Dhaka,Sports,"৳2,590.69",1,25.0,Debit Card,30 Jul 2025,08-01-2025,Delivered,4,True,1943.02
+ORD10627,C445,  Mim Chowdhury  ,44,Male,Chittagong,Electronics,6099.19,5,0.0,Cash on Delivery,2024-02-02,"February 08, 2024",Delivered,1,False,30495.95
+ORD10281,C328,Karim Hossain,18,Male,Sylhet,Clothing,1577.99,1,25.0,Nagad,2024-09-19,09-25-2024,Returned,4,True,1183.49
+ORD10253,C315,Karim Hossain,26,Male,sylhet, Home & Kitchen,6723.59,1,15.0,Cash on Delivery,12 Dec 2024,15/12/2024,Delivered,4,False,5715.05
+ORD10707,C341,Tania Akter,40,Male,Rajshahi,Clothing,2259.22,1,25.0,NA,11/07/2024,2024-07-18,Delivered,1,True,?
+ord10740,C183,  Rahim Uddin  ,-5,Female,NULL,Home & Kitchen,"৳2,119.09",1,25.0,Debit Card,09-25-2024,2024-09-30,Delivered,5,True,1589.32
+ORD10777,C533,Nusrat Jahan,20,Female,Rajshahi,Clothing,2212.13,2,15.0,Cash on Delivery,2025-04-08,04-12-2025,Delivered,5,N,3760.62
+ORD10990,C335,Farhana Rahman,27,Male,DHAKA,Clothing,588.8,3,15.0,Nagad,"July 09, 2024",2024-07-11,Delivered,5,False,1501.44
+ORD10577,null,Imran Khan,twenty five,Male,sylhet,Electronics,7047.15,2,15.0,COD,06-07-2025,09 Jun 2025,canceled,2,False,11980.16
+ORD10452,C451,  Imran Khan  ,19,Female,Khulna,Sports,"2,775 Tk",2,5.0,Nagad,13/01/2024,01-15-2024,Delivered,5,true,5273.22
+ORD10219,C409,Mim Chowdhury,45,Male,Sylet,Sports,903.7,1,0.0,Credit Card,21 Jul 2025,"July 23, 2025",In Transit,NA,False,903.7
+ORD10425,C147,Imran Khan,23,female,, Beauty,1111.32,3,20.0,Cash on Delivery,03/04/2025,"April 06, 2025",Delivered,4,1,2667.17
+ORD10369,C419,Rahim Uddin,36,Male,Chittagong,Beauty,795.74,4,25.0,Debit Card,06/01/2024,"January 14, 2024",Cancelled,3,N,2387.22
+ORD10752,C381,  Farhana Rahman  ,30,,Barishal,Books,258.15,3,5.0,Credit Card,06 Jan 2024,07 Jan 2024,Delivered,1,False,735.73
+ORD10069,C386,Imran Khan,nan,Female,Dhaka,Home & Kitchen,2089.14,2,15.0,bKash,"April 10, 2024",2024-04-12,Delivered,1,True,3551.54
+ord10763,C238,Mim Chowdhury,39,Female,Barisal,Beauty,NA,2,0.0,Nagad,13 Feb 2024,2024-02-16,Delivered,null,True,$2664.88
+ORD10580,C282,Farhana Rahman,999,Female,NULL,Clothing,776.89,1,15.0,COD,02 Jun 2024,"June 08, 2024",Delivered,4,True,660.36
+ORD10021,C551,Mim Chowdhury,22,M,Rajshahi,,"৳2,062.51",4,10.0,Debit Card,18/03/2025,21/03/2025,Delivered,4,False,7425.04
+ORD10077,C443,Tania Akter,nan,,Khulna,Sports,9497.3,5,15.0,Credit Card,14/03/2024,15 Mar 2024,Delivered,1,1,40363.52
+ORD10547,C150,Shirin Sultana,23,Female,,Home & Kitchen,4206.36,2,10.0,Cash on Delivery,2024-09-19,09-25-2024,Deliverd,4,No,7571.45
+ord10505,C371,  Shirin Sultana  ,24,male,rajshahi,Clothing,2161.07,2,0.0,COD,04/01/2025,"January 07, 2025",Delivered,4,0,4322.14
+ORD10748,C496,Nusrat Jahan,19,Male,KHULNA,Electronics,8023.71,1,25.0,cod,2024-08-28,03 Sep 2024,Delivered,4,true,6017.78
+ORD10405,C590,  Nusrat Jahan  ,26,Male,Sylhet,Beauty,1328.43,4,20.0,Debit Card,2024-10-28,2024-11-03,Deliverd,5,False,4250.98
+ORD10808,C386,Sabbir Ahmed,28,Female,KHULNA,Beauty,NA,1,0.0,Nagad,2025-05-03,07/05/2025,DELIVERED,4,True,1671.84
+ORD10125,C486,IMRAN KHAN,18,Female,Sylhet,Books,569.67,1,0.0,bKash,07-12-2025,18/07/2025,Returned,5,False,569.67
+ORD10228,C100,Farhana Rahman,36,Male,Rajshahi,Sports,1892.04,1,10.0,nagad,17/06/2024,18 Jun 2024,Delivered,2,False,1702.84
+ORD10042,C457,Tania Akter,28,Female,Chattogram,Home & Kitchen,BDT 1884.19,4,15.0,cod,07/09/2024,2023-01-01,Returned,NA,True,6406.25
+ORD10516,C172,Sabbir Ahmed,thirty,Female,Chittagong,Sports,1938.84,2,10.0,nagad,02-27-2025,03-06-2025,Delivered,1,False,3489.91
+ORD10572,C154,Imran Khan,38,Male,null,Beauty,"৳1,741.41",1,0.0,Cash on Delivery,02/09/2024,"September 03, 2024",Delivered,6,False,missing
+ORD10576,C561,KARIM HOSSAIN,N/A,male,Rajshahi,SPORTS,BDT 2458.75,3,15.0,Debit Card,06-28-2024,07-06-2024,Delivered,4,False,$6269.81
+ORD10873,C334,Sabbir Ahmed,27,Male,Chittagong,Sports,1582.04,4,20.0,Credit Card,"November 01, 2024",02 Nov 2024,Delivered,5,False,5062.53
+ORD10621,C480,karim hossain,43,Male,Chittagong,Clothing,996.71,2,0.0,Credit card,"February 19, 2025",2025-02-20,DELIVERED,4,False,1993.42
+ORD10743,C200,Tania Akter,36,female,sylhet,Books,239.39,1,0.0,Debit Card,31 May 2025,08 Jun 2025,Delivered,4,False,239.39
+ORD10374,C323,Tania Akter,N/A,Male,Sylhet,Books,289.99,2,0.0,Debit Card,?,17/09/2024,Returned,5,False,579.98
+ORD10205,C427,Shirin Sultana,38,missing,Barisal,Clothing,1938.2,1,0.0,Cash on Delivery,"May 11, 2025",12 May 2025,Delivered,2,False,1938.2
+ORD10316,C187,Shirin Sultana,24,Male,chittagong, Home & Kitchen,"2,510 Tk",1,20.0,cod,"January 02, 2024",01-08-2024,Returned,N/A,1,2007.74
+ord10396,C360,Rahim Uddin,25,Female,Barisal,Beauty,1086.15,1,0.0,Debit Card,02/11/2024,05/11/2024,DELIVERED,5,Yes,1086.15
+ORD10006,C334,Farhana Rahman,23,Male,Khulna,Electronics,37953.58,1,25.0,Credit Card,2024-09-03,06 Sep 2024,In Transit,1,False,28465.18
+ORD10493,C579,  Rahim Uddin  ,18,Female,Rajshahi,Home & Kitchen,"2,702 Tk",4,20.0,Cash on Delivery,12-10-2024,11/12/2024,in transit,5,Yes,8645.28
+ORD10773,C505,Rahim Uddin,34,Female,Rajshai,Home & Kitchen,3438.01,4,0.0,Credit Card,11-23-2024,"November 25, 2024",Delivered,0,False,13752.04
+ORD10500,C175,Rahim Uddin,null,female,rajshahi,Electronics ,23216.84,4,5.0,bkash,07 Apr 2025,13/04/2025,Delivered,4,False,88223.99
+ORD10835,?,Imran Khan,25,Female,dhaka,Books,280.5,3,0.0,bKash,02/04/2025,08 Apr 2025,Delivered,-,true,841.5
+ORD10800,C256,Rahim Uddin,33,male,Barisal,Home & Kitchen,3348.6,1,10.0,cod,02 May 2025,"May 03, 2025",Delivered,5,False,3013.74
+ORD10259,C389,Karim Hossain,-5,nan,Rajshahi, Books,1037.34,100,25.0,?,23/05/2025,27 May 2025,Returned,5,False,$2334.01
+ORD10282,C138,mim chowdhury,44,Female,Chittagong, Clothing,1200.36,1,5.0,bKash,26/04/2024,2024-04-30,Cancelled,5,False,1140.34
+ORD10634,C480,Nusrat Jahan,37,Male,Khulna,Sports,"৳3,550.21",2,0.0,Cash on Delivery,"December 05, 2024",07 Dec 2024,Delivered,4,True,$7100.42
+ORD10590,C458,Nusrat Jahan,twenty five,female,N/A,Sports,2378.42,2,20.0,bkash,26 Apr 2024,02/05/2024,Returned,2,False,3805.47
+ORD10496,C126,Mim Chowdhury,,Male,Barisal,Sports,1785.26,4,25.0,Cash on Delivery,25 Oct 2024,01/11/2024,Delivered,5,Y,5355.78
+ORD10474,C105,Shirin Sultana,18,Male,Khulna,Beauty,1742.21,4,15.0,bKash,24/07/2024,2024-07-31,Delivered,null,0,$5923.51
+ORD10455,C102,tania akter,24,Male,Chittagong,Sports,3157.54,3,0.0,Credit Card,13/02/2024,19/02/2024,Returned,5,0,9472.62
+ORD10320,C385,Mim Chowdhury,32,Male,Dhaka,Sports,2331.83,3,20.0,Credit Card,2025-05-19,21 May 2025,Cancelled,4,False,$5596.39
+ORD10434,C381,Farhana Rahman,59, Female,Dhaka,Clothing,2820.41,1,0.0,Nagad,2024-04-09,17 Apr 2024,Delivered,10,true,2820.41
+ORD10663,C435,Arif Islam,31,,Rajshahi,Books,BDT 307.34,1,0.0,bkash,25/04/2024,26 Apr 2024,In Transit,4,Yes,307.34
+ORD10299,C413,Shirin Sultana,43,Female,barisal,Beauty,445.98,2,20.0,Credit Card,28 Jul 2024,30 Jul 2024,Delivered,missing,True,713.57
+ORD10938,C472,sabbir ahmed,21,Female,Dhaka,Home & Kitchen,2245.54,1,5.0,COD,"January 17, 2025",19/01/2025,Delivered,4,False,2133.26
+ORD10436,C568,Mim Chowdhury,23,Male,Dhaka,Electronics,11333.84,1,0.0,Nagad,11/02/2024,"February 17, 2024",Delivered,4,True,11333.84
+ORD10675,C506,Arif Islam,32,Male,Dhaka,Books,712.16,2,10.0,Credit Card,25 Oct 2024,11-02-2024,Delivered,,False,1281.89
+ORD10884,C310,arif islam,24,Male,Rajshai,Beauty,1107.55,3,15.0,bKash,04/07/2024,2024-07-05,In Transit,5,True,2824.25
+ORD10438,C341,Shirin Sultana,45,Male,Rajshai,Clothing,847.98,2,0.0,Nagad,2025-03-03,04 Mar 2025,Delivered,3,True,1695.96
+ORD10325,C334,shirin sultana,NULL,Male,dhaka,Electronics,"27,059 Tk",5,20.0,Debit Card,"February 22, 2024",29/02/2024,In Transit,4,True,108237.8
+ORD10403,C150,Farhana Rahman,23,Female,sylhet,Electronics,8823.78,3,10.0,Credit Card,2025-03-29,04-01-2025,Delivered,5,N,23824.21
+ORD10265,C340,Tania Akter,38,Male,Chittagong,Beauty,1084.24,2,150,bKash,03-11-2024,2024-03-12,Delivered,4,False,2060.06
+ORD10564,C483,Tania Akter,35,Male,Rajshai,Home & Kitchen,2101.8,1,15.0,bKash,06-15-2025,17 Jun 2025,Cancelled,10,0,1786.53
+ORD10602,C417,Mim Chowdhury,42,Female,Rajshahi,Home & Kitchen,"৳2,076.05",3,15.0,cod,30 Jun 2025,01/07/2025,Delivered,4,True,5293.93
+ORD10262,C382,SABBIR AHMED,-,,Chittagong,,1220.25,5,5.0,Credit Card,12/06/2025,20/06/2025,canceled,5,True,5796.19
+ORD10278,C147,Arif Islam,20,Female,KHULNA,Books,691.9,4,0.0,bKash,2024-11-04,07 Nov 2024,Delivered,2,True,2767.6
+ORD10655,C123,  Imran Khan  ,19,Female,Barisal,beauty,606.56,2,0.0,bKash,"June 06, 2025",14/06/2025,Delivered,3,No,1213.12
+ORD10972,C539,Arif Islam,18,F,Chittagong,Electronics,BDT 12670.48,5,25.0,Debit Card,26/03/2024,"April 01, 2024",Cancelled,3,False,47514.3
+ORD10732,C475,SABBIR AHMED,39,Male,Dhaka ,Electronics,17031.0,1,15.0,cod,"January 09, 2025",01-10-2025,Delivered,2,0,14476.35
+ORD10711,C342,Arif Islam,33,Female,Rajshahi,Beauty,2321.17,2,25.0,Credit Card,23 Jun 2025,30 Jun 2025,DELIVERED,1,N,$3481.76
+ORD10553,C469,Farhana Rahman,19,male,sylhet, Sports,1365.51,2,5.0,Nagad,"November 19, 2024",2024-11-26,Returned,4,False,2594.47
+ORD10818,C339,Nusrat Jahan,37,Male,Dhaka,Electronics,11813.13,2,25.0,Debit Card,01 Jan 2025,"January 03, 2025",Delivered,5,True,17719.7
+ORD10965,C316,Mim Chowdhury,34,Male,Dhaka,clothing,705.4,2,0.0,credit card,03 May 2024,2024-05-07,delivered,3,True,1410.8
+ORD10974,C474,Shirin Sultana,35,Male,rajshahi,Books,389.36,5,25.0,nagad,07/06/2025,06-10-2025,Delivered,3,False,1460.1
+ORD10231,C228,Karim Hossain,NULL,Male,Sylhet,Beauty,695.78,1,0.0,Credit Card,11 Sep 2024,"September 15, 2024",DELIVERED,4,False,695.78
+ORD10245,C280,Mim Chowdhury,NULL,Male,Dhaka ,Beauty,1351.11,1,0.0,Credit card,25/01/2025,02-01-2025,in transit,3,False,1351.11
+ORD10167,C189,Farhana Rahman,20,F,barisal,Books,324.1,1,15.0,cod,10-08-2024,10-10-2024,Returned,3,1,275.48
+ORD10502,C392,Nusrat Jahan,N/A,Male,Barisal,Home & Kitchen,"৳3,548.28",2,15.0,Credit card,2024-11-11,11-12-2024,Deliverd,,False,6032.08
+ORD10332,C320,Arif Islam,18,Female,Khulna,Sports,BDT 2326.1,1,20.0,NA,"April 05, 2024",04-13-2024,Returned,5,False,1860.88
+ORD10879,C383,  Tania Akter  ,50,Male,Rajshahi,Clothing,1758.78,4,20.0,Cash on Delivery,03-01-2024,2024-03-04,Delivered,N/A,False,5628.1
+ORD10852,C394,Karim Hossain,18,Male,,Books,887.81,2,20.0,Nagad,2024-09-03,09-07-2024,Returned,2,Yes,1420.5
+ORD10775,C337,Tania Akter,28,Male,Rajshahi,CLOTHING,1276.0,2,10.0,bKash,19 Feb 2025,26 Feb 2025,In Transit,1,False,2296.8
+ORD10426,C117,Karim Hossain,24,Male,Khulna,Beauty,2650.86,2,-10,Credit Card,01-22-2024,23/01/2024,Delivered,2,N,4241.38
+ORD10541,null,Tania Akter,25,F,Sylhet,-,"৳2,458.88",2,25.0,COD,23 Jun 2025,2025-06-24,In Transit,NULL,False,3688.32
+ORD10750,C362,rahim uddin,25,Female,Khulna,Clothing,nan,2,20.0,Credit Card,"June 16, 2024",2024-06-24,In Transit,nan,Y,958.91
+ORD10762,C466,FARHANA RAHMAN,30,Female,Rajshahi,Books,649.95,4,15.0,BKASH,04 Nov 2024,2024-11-10,Deliverd,3,True,2209.83
+ORD10162,C109,Arif Islam,0,,Sylet,electronics,4958.91,1,5.0,Debit Card,25/07/2024,07-31-2024,delivered,2,False,4710.96
+ORD10149,C455,Nusrat Jahan,20,Male,Chittagong,Beauty,1244.01,1,25.0,nagad,2024-10-16,2024-10-17,delivered,5,No,933.01
+ORD10226,C500,nusrat jahan,46,Male,Barisal,Clothing ,822.55,5,5.0,bkash,"August 24, 2024",27 Aug 2024,Delivered,5,Y,3907.11
+ORD10685,C491,Imran Khan,NA,Female,Chittagong,Books,290.59,3,0.0,Cash on Delivery,19/01/2024,20 Jan 2024,In Transit,5,False,871.77
+ORD10094,C208,  Mim Chowdhury  ,23,male,Rajshahi,Sports,"৳2,869.84",2,15.0,Cash on Delivery,2025-08-05,09/08/2025,Delivered,5,False,4878.73
+ORD10768,C100,Mim Chowdhury,28,Male,Dhaka,Books,928.2,4,0.0,nagad,2024-12-14,2024-12-22,Delivered,NULL,True,3712.8
+ORD10221,C516,Arif Islam,-5,Male,rajshahi,Home & Kitchen,3243.28,2,25.0,Credit Card,2024-05-14,20/05/2024,Delivered,,No,4864.92
+ORD10597,nan,Farhana Rahman,5,Male,Khulna,Beauty,1065.52,1,5.0,Nagad,07-09-2024,07-17-2024,Delivered,4,Y,1012.24
+ORD10699,C176,Karim Hossain,43,Female,Sylet,Beauty,1079.72,4,10.0,Credit Card,08-17-2025,21/08/2025,In Transit,5,False,3886.99
+ORD10473,C474,Karim Hossain,40,Male,Rajshahi,Sports,1749.78,1,20.0,bKash,04-16-2024,04-24-2024,Returned,3,True,1399.82
+ORD10504,C287,Sabbir Ahmed,-5,M,Chittagong,Home & Kitchen,5197.67,0,5.0,Credit card,13/05/2025,15/05/2025,Returned,5,True,9875.57
+ORD10601,C592,Mim Chowdhury,18,MALE,Dhaka,Sports,2820.96,2,0.0,Credit Card,11 Aug 2024,14 Aug 2024,Delivered,null,True,$5641.92
+ORD10950,C190,arif islam,35,Female,Dhaka,Sports,2573.65,4,0.0,cod,12 Jul 2025,2023-01-01,In Transit,2,True,10294.6
+ORD10034,C182,Imran Khan,25,-,Dhaka,Books,519.68,2,10.0,Debit Card,06-27-2025,"June 30, 2025",Delivered,2,True,935.42
+ORD10217,C498,TANIA AKTER,21,Female,Khulna,Electronics,20712.06,2,0.0,COD,08-07-2024,"August 08, 2024",In Transit,4,True,$41424.12
+ORD10072,C266,Nusrat Jahan,40,Male,Dhaka,Clothing,"৳1,652.73",3,5.0,Nagad,"July 06, 2025",13 Jul 2025,Delivered,5,True,4710.28
+ORD10817,C543,Sabbir Ahmed,38,missing,Barisal,Books,242.21,2,10.0,Cash on Delivery,2025-02-24,04 Mar 2025,Delivered,4,True,435.98
+ORD10220,C495,  Sabbir Ahmed  ,,Male,Sylhet,Home & Kitchen,"৳2,197.86",1,25.0,Credit Card,01-14-2025,2025-01-15,Deliverd,4,False,1648.4
+ORD10213,C561,Farhana Rahman,26,M,Dhaka ,Home & Kitchen,3322.08,4,5.0,bkash,30 Apr 2025,05-02-2025,Delivered,5,Yes,12623.9
+ORD10935,C323,Nusrat Jahan,31,Female,khulna,Home & Kitchen,9715.37,2,15.0,Debit Card,02-04-2024,09/02/2024,Delivered,4,False,16516.13
+ORD10394,C175,Sabbir Ahmed,18, Female,Barishal,Clothing,৳616.71,1,0.0,Nagad,"February 27, 2024",03-04-2024,Deliverd,-1,Y,616.71
+ORD10274,C250,Shirin Sultana,24,MALE,Rajshahi,Sports,"৳1,264.88",2,25.0,Credit Card,"January 31, 2025","February 01, 2025",Delivered,4,True,1897.32
+ORD10367,C524,Arif Islam,32,F,rajshahi,BOOKS,130.28,1,25.0,Nagad,20/07/2025,2025-07-25,Delivered,4,True,97.71
+ORD10012,C417,Tania Akter,28,Male,Sylet,Electronics,"৳6,245.60",3,10.0,BKASH,2025-05-28,"June 02, 2025",Delivered,4,True,16863.12
+ORD10923,C535,Rahim Uddin,28,Male,Dhaka,Beauty,"৳1,473.46",2,0.0,Credit Card,12 Feb 2025,"February 13, 2025",Returned,5,True,2946.92
+ORD10343,C474,Farhana Rahman,26,Male,sylhet,Beauty,1218.42,4,5.0,Nagad,"September 06, 2024",2024-09-14,In Transit,3,False,4630.0
+ORD10198,C296,  Sabbir Ahmed  ,30,Female,Rajshahi,Electronics,18283.33,4,0.0,COD,"September 17, 2024",09-19-2024,Delivered,4,True,73133.32
+ORD10725,C128,ARIF ISLAM,31,Female,Khulna,Electronics,16816.29,2,0.0,bkash,17/06/2025,"June 21, 2025",Delivered,4,False,33632.58
+ORD10696,N/A,Karim Hossain,39,Male,Rajshahi,Sports,2953.27,2,0.0,Cash on Delivery,07/11/2024,2024-11-15,In Transit,1,False,5906.54
+ORD10234,C595,Arif Islam,33,Male,Sylhet,Clothing,"৳1,052.18",1,0.0,bKash,01-27-2024,03/02/2024,Delivered,5,False,$1052.18
+ORD10695,,Arif Islam,thirty,Female,Rajshahi,Sports,2192.88,5,20.0,bKash,"January 18, 2024",01-23-2024,In Transit,4,True,8771.52
+ORD10420,C236,Karim Hossain,18,Female,Rajshahi,Beauty,৳933.50,1,0.0,Cash on Delivery,20/07/2025,21/07/2025,In Transit,3,Y,
+ORD10902,C135,  Rahim Uddin  ,33, Female,Barishal,Beauty,287.61,1,0.0,bKash,2024-03-16,03-22-2024,In Transit,2,False,287.61
+ORD10910,C217,Farhana Rahman,32,Male,Chittagong,Home & Kitchen,BDT 3047.38,2,25.0,Debit Card,2024-02-13,"February 19, 2024",Delivered,5,False,4571.07
+ORD10608,C108,Arif Islam,40,Female,Rajshai, Electronics,"৳6,629.29",3,0.0,Nagad,?,04-01-2024,Returned,NULL,False,19887.87
+ORD10854,C272,Sabbir Ahmed,40,MALE,rajshahi,Electronics,24169.98,3,0.0,cod,05-01-2024,05-03-2024,Delivered,2,False,72509.94
+ORD10297,C285,Tania Akter,24,male,rajshahi,Sports,6859.31,2,15.0,Credit card,2025-04-11,2025-04-17,Delivered,5,True,11660.83
+ORD10063,C367,Arif Islam,43,Male,Barisal,HOME & KITCHEN,6817.28,3,25.0,Cash on Delivery,2025-05-27,05-31-2025,Delivered,4,True,15338.88
+ORD10734,C130,Rahim Uddin,43,female,Sylhet,Electronics ,"11,371 Tk",1,0.0,Nagad,09 Sep 2024,2024-09-14,Cancelled,4,Yes,11370.85
+ORD10607,C323,Arif Islam,55,nan,Rajshahi,Beauty,1542.23,1,0.0,bkash,2024-04-08,04-16-2024,Delivered,1,True,$1542.23
+ORD10013,C318,Shirin Sultana,N/A,Female,Chittagong,Clothing,,1,10.0,Credit card,2025-04-21,"April 24, 2025",Returned,3,False,1695.18
+ORD10839,C466,rahim uddin,thirty,Female,Chittagong,beauty,1295.18,2,0.0,bKash,2025-03-22,30/03/2025,Cancelled,4,False,2590.36
+ORD10435,C133,Sabbir Ahmed,41,Male,Sylhet,Sports,1526.12,1,0.0,Credit Card,2024-07-21,"July 26, 2024",Delivered,1,False,1526.12
+ORD10017,C350,Nusrat Jahan,27,Female,Rajshahi,Sports,1868.94,4,20.0,missing,22/02/2025,26/02/2025,Returned,5,False,5980.61
+ORD10764,C502,Imran Khan,41,Male,khulna,Electronics,14962.81,4,5.0,Cash on Delivery,09-23-2024,28/09/2024,delivered,4,False,56858.68
+ORD10897,C378,Imran Khan,43,Female,Sylhet,Clothing,"৳1,597.21",5,20.0,Nagad,10/07/2025,17 Jul 2025,Delivered,1,N,6388.84
+ORD10758,C461,TANIA AKTER,,Male,Khulna,null,8385.45,2,15.0,Credit Card,2024-03-05,"March 10, 2024",Delivered,4,True,14255.27
+ORD10779,-,TANIA AKTER,N/A,female,Khulna,Beauty,1485.4,1,0.0,Debit Card,"February 27, 2024",06 Mar 2024,Delivered,5,False,1485.4
+ORD10348,C586,Karim Hossain,30,F,Dahka,Home & Kitchen,NA,1,5.0,Cash on Delivery,05/08/2025,"August 10, 2025",Returned,3,True,NULL
+ORD10207,C237,Sabbir Ahmed,32, Female,Chittagong, Books,152.81,4,0.0,Cash on Delivery,01/07/2025,2025-07-07,Delivered,5,True,611.24
+ORD10090,C172,FARHANA RAHMAN,35,Male,Rajshahi,Clothing,894.8,2,20.0,bKash,"June 01, 2024","June 07, 2024",canceled,4,False,1431.68
+ORD10307,C251,Shirin Sultana,37,Male,chittagong,Beauty,3480.93,1,0.0,Credit Card,07 Aug 2024,"August 09, 2024",In Transit,5,True,3480.93
+ORD10341,C455,sabbir ahmed,18,F,NULL,Clothing,1648.93,5,20.0,Debit Card,"July 22, 2025",23 Jul 2025,Delivered,5,Yes,6595.72
+ORD10380,C576,Arif Islam,20,Female,Rajshahi,Clothing,2235.74,4,15.0,nagad,"March 25, 2024",2024-03-31,In Transit,5,Y,7601.52
+ORD10344,C207,arif islam,33,Female,N/A,Sports,2140.98,2,25.0,Cash on Delivery,05-13-2024,"May 19, 2024",Returned,3,True,3211.47
+ORD10471,C166,Tania Akter,46,-,khulna,Beauty,251.27,1,0.0,Credit Card,28/04/2025,2025-05-05,Delivered,N/A,False,251.27
+ORD10876,C252,Shirin Sultana,31,Female,Rajshahi,SPORTS,2412.07,5,0.0,Cash on Delivery,"June 22, 2024",23/06/2024,Delivered,3,Y,$12060.35
+ORD10898,C485,Nusrat Jahan,39,Male,Dhaka,Sports,BDT 1001.38,5,15.0,Credit Card,"May 18, 2025","May 20, 2025",canceled,?,0,4255.86
+ORD10916,C207,  Sabbir Ahmed  ,32,Male,dhaka,Sports,2122.96,2,10.0,bKash,29/11/2024,12-03-2024,Cancelled,3,False,3821.33
+ORD10551,C418,Sabbir Ahmed,21,Female,Chittagong,Home & Kitchen,3348.11,2,0.0,bKash,"October 12, 2024",13/10/2024,in transit,1,True,
+ORD10598,C263,Rahim Uddin,NULL,male,Khulna,Books,৳531.51,5,15.0,Nagad,2025-04-06,14/04/2025,Delivered,4,True,$2258.92
+ORD10693,C479,rahim uddin,20,Male,Rajshahi, Clothing,393.74,1,0.0,bKash,"December 08, 2024",12-15-2024,Delivered,5,False,393.74
+ORD10032,C377,Mim Chowdhury,22, Female,Chittagong,Books ,743.88,2,150,bKash,08 Aug 2025,10 Aug 2025,Delivered,2,False,$1115.82
+ORD10702,C542,Sabbir Ahmed,39,Male,Khulna,Electronics,12099.57,250,5.0,bKash,23/07/2024,2024-07-31,Delivered,4,False,11494.59
+ORD10657,C131,mim chowdhury,39,Male,Barisal,Books,308.4,2,10.0,bKash,2025-04-16,04-21-2025,Delivered,NA,True,555.12
+ORD10670,C243,Imran Khan,41,Male,rajshahi,Sports,2573.69,3,25.0,bKash,11-11-2024,"November 15, 2024",in transit,1,0,5790.8
+ORD10172,C543,Tania Akter,49,Male,rajshahi,Home & Kitchen,2554.54,1,25.0,bKash,08-15-2025,19 Aug 2025,Delivered,5,True,1915.9
+ORD10925,C304,rahim uddin,35,M,Rajshai,Clothing,1642.84,2,10.0,Credit Card,07/04/2024,2024-04-08,Delivered,1,True,2957.11
+ORD10926,C178,karim hossain,NA,Male,Dhaka,beauty,1688.24,5,5.0,cod,08-23-2024,30/08/2024,Delivered,5,False,8019.14
+ORD10408,C572,Tania Akter,31,Male,sylhet, Electronics,4916.76,1,25.0,Credit Card,2024-06-23,2024-06-27,Delivered,5,True,3687.57
+ORD10904,C595,Shirin Sultana,37,Female,Barisal,Electronics,9054.34,2,20.0,Credit Card,2024-08-26,2024-08-27,Delivered,5,False,$14486.94
+ORD10981,C218,Karim Hossain,18,female,Barisal,Sports,"৳2,028.07",3,15.0,Cash on Delivery,14 Dec 2024,12-16-2024,In Transit,4,True,5171.58
+ORD10200,C188,Sabbir Ahmed,18,Female,sylhet,Clothing,566.27,1,10.0,Credit Card,2025-01-03,01-11-2025,Delivered,4,0,509.64
+ORD10292,C597,Shirin Sultana,27,M,Chattogram, Home & Kitchen,1171.35,2,10.0,Nagad,"January 19, 2024","January 24, 2024",Delivered,3,False,2108.43
+ORD10860,C355,Mim Chowdhury,34,Female,barisal,Electronics,21954.46,3,0.0,Debit Card,04 Jun 2024,"June 05, 2024",Delivered,5,False,65863.38
+ORD10583,C184,  Farhana Rahman  ,26,female,Dhaka,Home & Kitchen ,"৳3,352.22",1,25.0,bKash,15 May 2025,17 May 2025,delivered,5,False,2514.16
+ORD10942,C372,Rahim Uddin,21,Male,Khulna,Clothing,"1,599 Tk",1,5.0,Nagad,"April 26, 2024",2024-04-30,Delivered,2,False,1519.01
+ORD10510,C409,Imran Khan,37,Female,Dhaka,Home & Kitchen,2197.95,3,20.0,bkash,10-12-2024,10-19-2024,Delivered,2,True,5275.08
+ORD10989,C451,Imran Khan,20,Female,Khulna,Books,338 Tk,1,0.0,Debit Card,29 Sep 2024,09-30-2024,in transit,3,False,337.88
+ORD10919,C126,Sabbir Ahmed,33,Female,?,Electronics,19588.2,2,5.0,Cash on Delivery,16/11/2024,2024-11-19,In Transit,5,Yes,37217.58
+ORD10985,C258,Nusrat Jahan,,Male,Rajshahi,Home & Kitchen,4562.19,2,15.0,bKash,10 Dec 2024,12-16-2024,Delivered,2,False,7755.72
+ord10295,C424,Rahim Uddin,37,Female,Sylhet,Sports,N/A,1,10.0,Debit Card,06 Mar 2025,2025-03-07,Delivered,5,True,NULL
+ORD10618,C181,Sabbir Ahmed,28,Male,Khulna,Beauty,615.64,4,15.0,Nagad,01 May 2025,2025-05-04,Returned,5,False,2093.18
+ORD10489,C323,Arif Islam,25,Female,Dhaka,Books,802.89,2,15.0,nagad,"July 30, 2025",2025-08-04,Delivered,5,False,1364.91
+ORD10863,C125,Imran Khan,29,Female,Chittagong,Clothing,1789.44,2,0.0,Credit Card,22/08/2025,08-23-2025,DELIVERED,4,True,3578.88
+ORD10954,C107,Farhana Rahman,N/A,Male,Dhaka,Electronics,6722.79,4,10.0,credit card,20/08/2024,28/08/2024,Delivered,1,True,24202.04
+ORD10949,C345,SHIRIN SULTANA,,?,Dahka,Books,null,3,20.0,cod,2024-07-29,2023-01-01,Returned,4,False,617.4
+ORD10133,C133,Arif Islam,48,MALE,Chittagong,Beauty,BDT 830.7,1,10.0,COD,2024-07-25,07-27-2024,Cancelled,1,N,747.63
+ORD10060,C233,SABBIR AHMED,33,Male,Dhaka,Beauty,2538.78,4,10.0,Debit Card,2025-04-15,"April 19, 2025",Returned,2,0,9139.61
+ORD10690,C321,Sabbir Ahmed,5,Male,sylhet, Electronics,3443.3,2,25.0,NA,13 Apr 2024,2024-04-21,Delivered,3,False,5164.95
+ORD10026,C395,Tania Akter,NA,Male,Dhaka,Electronics,"7,153 Tk",1,25.0,Cash on Delivery,"August 16, 2025",21 Aug 2025,canceled,4,true,5364.71
+ORD10100,C520,mim chowdhury,thirty,Female,Rajshahi,Home & Kitchen,1874.82,2,10.0,Cash on Delivery,01-25-2024,2024-01-26,In Transit,5,True,$3374.68
+ORD10531,C500,Shirin Sultana,,Male,Dhaka,Beauty,1834.95,4,20.0,Debit Card,02-20-2025,02-26-2025,Delivered,5,False,5871.84
+ORD10588,C386,NUSRAT JAHAN,26,Male,Chittagong,Electronics,11007.16,5,10.0,Credit Card,22/07/2024,2024-07-25,Returned,2,No,49532.22
+ORD10664,?,Tania Akter,30,Female,Sylhet,Books,252.43,1,15.0,Cash on Delivery,13/06/2025,20 Jun 2025,Cancelled,6,False,214.57
+ORD10776,C359,Karim Hossain,twenty five,Female,Barisal,Sports,4921.45,1,5.0,Nagad,N/A,30 Nov 2024,Returned,4,True,4675.38
+ORD10788,C127,Shirin Sultana,44,Male,Barisal,Clothing,988.27,3,0.0,Nagad,"December 13, 2024",12-14-2024,Delivered,null,N,2964.81
+ORD10520,C311,Sabbir Ahmed,22,M,Khulna,Electronics,23295.71,1,0.0,Nagad,2024-12-16,24/12/2024,Delivered,2,True,23295.71
+ORD10363,C208,sabbir ahmed,-,female,Rajshahi,Beauty,2173.89,5,25.0,Nagad,"November 03, 2024",07/11/2024,Delivered,4,True,8152.09
+ORD10309,C544,Nusrat Jahan,18,male,Rajshai,electronics,"৳8,690.85",1,25.0,bKash,"January 09, 2025",17/01/2025,Returned,4,False,6518.14
+ORD10795,C186,KARIM HOSSAIN,,Female,khulna,Clothing,1144.48,2,0.0,nagad,25/05/2024,2024-05-30,Delivered,5,True,2288.96
+ORD10940,C118,Tania Akter,N/A,F,Barisal,Books,1243.81,2,20.0,Nagad,07/08/2024,10/08/2024,Delivered,2,No,1990.1
+ORD10828,C592,Arif Islam,43,Female,-,Books,309.11,3,20.0,Nagad,2024-03-18,2024-03-23,Delivered,4,False,741.86
+ORD10604,C224,Tania Akter,25,Male,Dhaka,Beauty,468.63,1,10.0,Nagad,07 Jul 2024,07-13-2024,Deliverd,NA,False,421.77
+ORD10252,C151,Arif Islam,38,Male,Khulna,Electronics,6526.43,2,0.0,Debit Card,2025-01-27,01-30-2025,Delivered,5,False,13052.86
+ORD10544,C193,  Rahim Uddin  ,18,Female,Dhaka,Home & Kitchen,2735.94,4,5.0,cod,11 Oct 2024,2024-10-18,Delivered,5,True,10396.57
+ORD10481,C415,  Rahim Uddin  ,25,Female,Sylet,Beauty,848.72,5,20.0,bKash,"March 04, 2024",05 Mar 2024,Delivered,null,False,3394.88
+ORD10441,C119,Sabbir Ahmed,37,Male,Khulna,Home & Kitchen,3820.8,4,0.0,bKash,10-13-2024,"October 19, 2024",Delivered,4,True,15283.2
+ORD10647,C214,Nusrat Jahan,18,Male,Dhaka,Home & Kitchen,1734.6,1,0.0,Cash on Delivery,09 Jan 2024,"January 13, 2024",Delivered,1,True,1734.6
+ORD10476,NA,TANIA AKTER,, Female,Chittagong,Home & Kitchen,4899.38,2,999,bKash,"May 12, 2024",05-19-2024,Delivered,4,1,8328.95
+ORD10022,C188,  Rahim Uddin  ,34,M,sylhet,NULL,682.95,3,0.0,Cash on Delivery,03-08-2025,2025-03-11,Delivered,4,True,2048.85
+ORD10062,C248,Tania Akter,thirty,NULL,Dhaka,Beauty,1763.12,3,5.0,COD,?,21/09/2024,Delivered,2,No,5024.89
+ORD10148,C214,Mim Chowdhury,22,male,Chittagong,Home & Kitchen,6148.73,2,0.0,credit card,"July 02, 2025",07-06-2025,In Transit,3,0,12297.46
+ORD10483,C318,  Rahim Uddin  ,38,Male,Chittagong,Electronics,15828.28,1,25.0,credit card,05/02/2024,"February 10, 2024",Delivered,4,False,11871.21
+ORD10727,C387,Mim Chowdhury,31,Female,Barishal,Clothing,1951.16,1,0.0,Cash on Delivery,"July 19, 2024",2024-07-21,Delivered,1,False,1951.16
+ORD10979,C397,Sabbir Ahmed,27,female,Barisal,sports,2151.24,2,0.0,Nagad,27/08/2024,03 Sep 2024,Delivered,2,False,4302.48
+ORD10786,C348,Farhana Rahman,19,Male,Rajshahi,CLOTHING,715.75,5,0.0,Cash on Delivery,13/07/2025,16/07/2025,Delivered,4,true,3578.75
+ORD10257,C477,Karim Hossain,27,Male,Barisal,N/A,"৳2,413.35",5,5.0,Cash on Delivery,06-01-2025,06-03-2025,Delivered,5,0,11463.41
+ORD10052,C242,SHIRIN SULTANA,36,F,Khulna,Home & Kitchen,1728.61,5,0.0,nan,07-03-2025,11/07/2025,Delivered,2,False,8643.05
+ORD10242,C338,Karim Hossain,47,Female,Dhaka,Sports,"৳2,925.99",4,0.0,Debit Card,18/05/2025,26 May 2025,In Transit,5,True,11703.96
+ORD10173,C304,Tania Akter,40,Male,Sylhet,Beauty,1135.9,3,5.0,bKash,27/07/2024,"August 01, 2024",Delivered,4,False,3237.32
+ORD10035,C474,Nusrat Jahan,33,Female,Khulna,clothing,BDT 1008.46,1,10.0,Nagad,04/08/2025,2025-08-12,Delivered,1,False,907.61
+ORD10178,C426,Imran Khan,nan,Male,Rajshahi,Books,401.13,1,0.0,Credit Card,01-06-2024,2024-01-10,In Transit,,No,401.13
+ORD10679,C364,  Arif Islam  ,33,Female,Rajshahi,Books,170.93,1,15.0,Credit card,06/03/2024,"March 10, 2024",Delivered,?,False,145.29
+ORD10738,N/A,Sabbir Ahmed,29,Male,Sylhet,Books,382.18,2,10.0,nagad,02-09-2025,16/02/2025,Delivered,missing,Yes,687.92
+ORD10120,C592,KARIM HOSSAIN,48,F,Barisal, Books,203.62,3,10.0,bKash,"July 30, 2025",05/08/2025,Delivered,1,Y,549.77
+ORD10995,C539,Mim Chowdhury,18,M,rajshahi,Sports,BDT 4990.37,5,10.0,Debit Card,2024-12-23,12-31-2024,In Transit,4,true,22456.66
+ORD10275,C158,Shirin Sultana,-5,Female,Barisal,Electronics,9834.42,2,0.0,null,2024-07-05,07-13-2024,Returned,5,True,19668.84
+ORD10044,C243,SHIRIN SULTANA,45,Male,Dhaka,Beauty,862.59,1,10.0,Debit Card,"November 01, 2024",11-07-2024,Delivered,4,N,776.33
+ORD10300,C578,Mim Chowdhury,52,Female,Rajshahi,Beauty,270.51,1,25.0,BKASH,15/03/2025,03-18-2025,Delivered,1,true,202.88
+ORD10836,C135,NUSRAT JAHAN,25,Male,Barisal,Clothing,2377.87,2,10.0,nagad,2024-02-21,23/02/2024,Returned,3,False,4280.17
+ORD10076,C159,Sabbir Ahmed,40,Male,Barishal,Books ,৳415.34,3,25.0,bkash,"January 03, 2024",09/01/2024,In Transit,4,Yes,934.52
+ORD10720,C394,  Sabbir Ahmed  ,37,Female,Rajshahi,BOOKS,1080.88,4,25.0,Debit Card,11-06-2024,11-11-2024,Delivered,4,False,3242.64
+ORD10368,C231,NUSRAT JAHAN,,male,Khulna,Sports,728.13,4,0.0,Nagad,11/03/2025,03-14-2025,Delivered,5,True,2912.52
+ORD10906,C251,Karim Hossain,41,Female,Rajshai,books,399.5,1,0.0,Credit Card,15/01/2025,2025-01-20,Delivered,4,True,399.5
+ORD10212,C344,Sabbir Ahmed,41,Female,Rajshahi,Sports,3810.74,4,20.0,Credit Card,"July 15, 2024",18 Jul 2024,Delivered,5,True,12194.37
+ORD10267,C242,SABBIR AHMED,25,Female,Barisal,nan,8523.79,1,0.0,Nagad,12/06/2025,2025-06-19,In Transit,1,False,$8523.79
+ORD10311,C376,Shirin Sultana,35,Male,Rajshahi,sports,652.85,2,10.0,Credit Card,10-22-2024,"October 26, 2024",Delivered,NULL,Yes,1175.13
+ORD10728,C495,Farhana Rahman,24,NULL,Barisal,Home & Kitchen,10578.64,4,15.0,Debit Card,19 Mar 2025,22 Mar 2025,In Transit,5,0,-
+ORD10444,C227,KARIM HOSSAIN,22,Male,Dhaka,Electronics,14596.25,2,5.0,Debit Card,05-16-2025,17/05/2025,Returned,4,False,27732.88
+ORD10503,C353,Imran Khan,30,Female,Chittagong,Clothing,1509.65,1,5.0,Debit Card,16/07/2024,07-17-2024,Delivered,3,N,1434.17
+ORD10495,C116,Arif Islam,,Female,chittagong,Beauty,586.15,3,0.0,bKash,24 Mar 2025,03-31-2025,Delivered,2,No,1758.45
+ORD10033,C576,Arif Islam,null,Male,Sylet,Clothing ,4751.66,1,20.0,Nagad,2024-10-03,10-10-2024,Delivered,2,True,3801.33
+ORD10009,C169,Farhana Rahman,40,Female,Chittagong,Home & Kitchen,3592.08,4,5.0,Cash on Delivery,22 Jun 2025,25 Jun 2025,Delivered,5,True,nan
+ORD10688,C319,  Arif Islam  ,18,female,?,Beauty,414.47,2,5.0,Credit card,10-16-2024,2024-10-19,Delivered,5,True,787.49
+ORD10160,C548,  Farhana Rahman  ,32,MALE,Barisal,,2979.03,2,25.0,Cash on Delivery,12 Dec 2024,17 Dec 2024,Delivered,4,False,4468.54
+ORD10285,C176,Farhana Rahman,28, Female,rajshahi,Beauty,1483.08,4,25.0,Credit Card,2024-01-25,27/01/2024,Delivered,3,False,4449.24
+ORD10295,C424,Rahim Uddin,37,Female,Sylhet,Sports,N/A,1,10.0,Debit Card,06 Mar 2025,2025-03-07,Delivered,5,True,NULL
+ORD10616,C250,Rahim Uddin,36,Female,Chittagong,Clothing,৳633.63,3,15.0,null,09-20-2024,09-22-2024,Delivered,3,False,1615.76
+ORD10824,C135,Mim Chowdhury,34,F,Chittagong,Sports,"3,606 Tk",3,15.0,Nagad,2024-02-02,03 Feb 2024,Returned,-,0,$9194.31
+ORD10625,C265,Imran Khan,27,M,Dhaka,Beauty,372.91,1,5.0,nagad,2025-04-29,2025-04-30,In Transit,4,True,354.26
+ORD10277,C584,Arif Islam,41,Female,khulna,Sports,1837.14,3,5.0,Credit Card,2025-04-20,04-24-2025,Delivered,,True,5235.85
+ORD10982,C221,Arif Islam,24,female,Barisal,Home & Kitchen,"৳1,627.32",3,0.0,COD,2025-07-16,07-18-2025,Deliverd,4,True,4881.96
+ORD10603,C474,nusrat jahan,35,Female,Chittagong,Electronics,10308.09,1,25.0,Nagad,07/02/2025,14 Feb 2025,Delivered,4,No,7731.07
+ORD10484,C369,Karim Hossain,missing,Female,Dhaka,Home & Kitchen,"3,042 Tk",2,25.0,Credit Card,"October 26, 2024",10-28-2024,Delivered,5,True,4562.64
+ORD10496,C126,Mim Chowdhury,,Male,Barisal,Sports,1785.26,4,25.0,Cash on Delivery,25 Oct 2024,01/11/2024,Delivered,5,Y,5355.78
+ORD10182,C226,IMRAN KHAN,27, Female,DHAKA,Books,148.39,3,15.0,Credit Card,2024-08-29,2024-09-03,In Transit,1,Y,$378.39
+ORD10929,C326,Karim Hossain,35,MALE,Dhaka,Clothing,3549.15,4,25.0,Nagad,"July 16, 2024",19 Jul 2024,Returned,-1,Y,10647.45
+ORD10827,C597,rahim uddin,N/A,M,Rajshai, Sports,2134.52,3,10.0,Credit Card,2025-06-14,22 Jun 2025,Delivered,3,False,5763.2
+ORD10589,C565,Farhana Rahman,32, Female,Rajshahi,Beauty,1937.74,1,10.0,Nagad,29/04/2024,"May 05, 2024",Delivered,3,No,1743.97
+ORD10684,C445,  Arif Islam  ,18,Female,Rajshai,Beauty,BDT 1259.42,3,20.0,Cash on Delivery,06 Jun 2024,2024-06-09,Returned,1,True,3022.61
+ORD10744,C332,karim hossain,32,Male,CTG,Clothing,1600.41,3,10.0,Cash on Delivery,30 Mar 2025,04-03-2025,Delivered,5,False,4321.11
+ORD10721,?,nusrat jahan,41,Male,chittagong,Electronics ,5158.08,2,20.0,Cash on Delivery,13 Feb 2024,02-15-2024,Cancelled,N/A,No,nan
+ORD10036,C486,Nusrat Jahan,45,Female,Dhaka ,Electronics,11557.91,1,25.0,?,10 Mar 2024,15 Mar 2024,Delivered,N/A,False,8668.43
+ORD10156,C273,Mim Chowdhury,35,male,Barisal,Beauty,1537.28,3,5.0,bKash,08 May 2025,09 May 2025,Delivered,5,True,4381.25
+ORD10002,C321,tania akter,missing,Male,Rajshahi,Electronics,"৳17,796.72",1,25.0,Debit Card,04-13-2025,19/04/2025,Delivered,4,1,13347.54
+ORD10754,C110,Rahim Uddin,39,Male,Sylhet,Clothing,1390.66,1,0.0,Credit card,16/02/2024,19 Feb 2024,Delivered,3,True,1390.66
+ORD10508,C298,Karim Hossain,41,Female,Sylhet,Clothing,"2,300 Tk",1,20.0,Credit Card,28 May 2024,"June 02, 2024",delivered,3,true,1840.29
+ORD10497,C331,Imran Khan,32,Female,CTG,Books,570.73,3,25.0,nagad,03 Feb 2024,08/02/2024,Delivered,5,1,1284.14
+ORD10308,C348,tania akter,24,F,DHAKA,SPORTS,BDT 708.88,5,0.0,Nagad,"November 19, 2024",11-26-2024,Delivered,3,False,3544.4
+ORD10289,C191,  Arif Islam  ,29,Female,Sylhet,Electronics,18803.79,4,5.0,Debit Card,2024-07-14,07-21-2024,in transit,4,true,71454.4
+ORD10957,C396,Nusrat Jahan,26,male,Rajshahi,Beauty,647.1,5,5.0,Credit Card,2025-05-19,"May 26, 2025",Delivered,2,False,3073.72
+ORD10560,C506,Imran Khan,26,Male,barisal,Clothing,-500,5,20.0,Nagad,02-04-2024,08/02/2024,DELIVERED,5,False,$2008.8
+ORD10414,C280,nusrat jahan,24,Female,Barisal,NA,717.53,2,5.0,Debit Card,01/07/2024,"July 07, 2024",Delivered,5,True,1363.31
+ORD10421,C269,Farhana Rahman,32,MALE,Khulna,Sports,"৳2,431.03",1,0.0,Credit Card,07-01-2025,05 Jul 2025,Delivered,5,False,2431.03
+ORD10141,C356,Nusrat Jahan,27,Female,nan,Sports,3776.87,1,0.0,null,13 Sep 2024,"September 19, 2024",in transit,5,0,3776.87
+ORD10223,C147,Mim Chowdhury,31,Male,Sylhet,beauty,1170.01,1,25.0,Cash on Delivery,15 Jan 2024,2024-01-23,Delivered,1,True,877.51
+ORD10864,C343,KARIM HOSSAIN,41,MALE,Rajshahi,Clothing,1769.76,-2,15.0,Credit Card,2025-05-30,06-07-2025,Cancelled,5,N,1504.3
+ORD10183,C248,Farhana Rahman,23,male,Khulna,Books,342.13,1,20.0,Cash on Delivery,12/08/2024,"August 17, 2024",Cancelled,5,False,$273.7
+ORD10843,C193,Rahim Uddin,25,nan,Khulna,Electronics,25130.6,2,20.0,bKash,13/06/2024,06-16-2024,Delivered,NULL,False,40208.96
+ord10666,C259,Sabbir Ahmed,26,Male,Chittagong,Beauty,826.1,5,10.0,bKash,"December 04, 2024",12-10-2024,Delivered,5,true,3717.45
+ORD10999,C258,Nusrat Jahan,28,Male,Chittagong,Clothing,1284.8,5,20.0,Credit Card,03-18-2024,20 Mar 2024,Delivered,2,False,5139.2
+ORD10672,C169,Tania Akter,30,Female,Rajshahi,Electronics,8044.87,5,25.0,Nagad,2024-11-09,11-13-2024,Cancelled,5,True,30168.26
+ORD10848,C528,Shirin Sultana,35,Male,Khulna, Electronics,BDT 5522.5,1,0.0,Debit Card,10 Jun 2025,"June 11, 2025",Delivered,5,False,5522.5
+ORD10511,C113,Karim Hossain,37,Male,Sylhet,Books,৳362.52,4,25.0,Credit Card,11 Jul 2025,12 Jul 2025,Deliverd,4,False,$1087.56
+ORD10912,C411,NUSRAT JAHAN,5,Male,Barisal,Beauty,BDT 610.61,1,0.0,Nagad,03/07/2025,06/07/2025,Delivered,4,True,610.61
+ORD10731,C290,Farhana Rahman,46,Male,Dhaka,Electronics,BDT 18771.18,2,5.0,Nagad,10/08/2024,18/08/2024,In Transit,3,True,$35665.24
+ORD10611,C258,TANIA AKTER,twenty five,Female,Barisal,Clothing,5459.05,1,15.0,Cash on Delivery,30/06/2024,07/07/2024,in transit,4,Yes,4640.19
+ORD10996,C261,SABBIR AHMED,44,Male,Sylhet,Books,418.93,1,15.0,bKash,14 Jul 2024,"July 19, 2024",Delivered,nan,True,356.09
+ORD10892,C109,Mim Chowdhury,34,-,Rajshahi, Sports,1232.65,1,10.0,Credit Card,"May 11, 2024","May 18, 2024",In Transit,4,False,1109.39
+ORD10747,C415,Sabbir Ahmed,37,Female,Chittagong,Electronics,6953.27,4,10.0,Nagad,05-13-2024,16/05/2024,Delivered,3,True,25031.77
+ORD10970,C210,Karim Hossain,23,Female,khulna,Clothing,1961.64,2,0.0,Nagad,11/02/2025,2025-02-17,Delivered,1,False,3923.28
+ORD10887,C427,Shirin Sultana,18,Female,, Beauty,942.98,1,15.0,Debit Card,02-15-2024,"February 16, 2024",Delivered,1,Y,801.53
+ORD10117,C590,IMRAN KHAN,33,Male,Chittagong,Clothing,1272.04,2,0.0,Credit Card,12 Apr 2024,2024-04-18,Returned,5,No,2544.08
+ORD10853,C598,Mim Chowdhury,37,Male,Dhaka,Home & Kitchen,3782.59,1,15.0,bKash,05-07-2025,11 May 2025,Delivered,2,Y,3215.2
+ORD10001,C325,Karim Hossain,missing,F,Rajshahi,Clothing,606.59,3,20.0,Nagad,2025-03-06,"March 13, 2025",Delivered,5,True,1455.82
+ORD10113,C554,  Shirin Sultana  ,31,Female,Dhaka ,Clothing,1850.27,2,20.0,bKash,2025-02-17,24/02/2025,Delivered,-,Y,2960.43
+ORD10545,C518,Tania Akter,18,F,Sylhet,Sports,819.16,5,0.0,Nagad,21/07/2025,07-23-2025,In Transit,4,True,4095.8
+ORD10686,C325,Sabbir Ahmed,35, Female,Barisal,Home & Kitchen,1751.42,1,25.0,Nagad,19/01/2024,"January 20, 2024",Delivered,NA,0,1313.56
+ORD10765,C114,Rahim Uddin,18,Female,Barisal,Books,719.65,3,15.0,bKash,17 Sep 2024,18/09/2024,Delivered,5,Y,1835.11
+ORD10165,C106,Sabbir Ahmed,34,Female,Dhaka,Sports,2170.76,3,25.0,bKash,30/03/2024,04-03-2024,Delivered,5,True,4884.21
+ORD10967,C174,Farhana Rahman,60,Male,Khulna,Beauty,BDT 580.77,2,15.0,bKash,07-11-2024,15/07/2024,Delivered,4,Y,987.31
+ord10954,C107,Farhana Rahman,N/A,Male,Dhaka,Electronics,6722.79,4,10.0,credit card,20/08/2024,28/08/2024,Delivered,1,True,24202.04
+ORD10184,C203,Karim Hossain,30,Female,Khulna,Books,৳164.16,4,5.0,BKASH,07 Mar 2024,2024-03-14,Delivered,nan,False,623.81
+ORD10677,C216,Farhana Rahman,36,Male,Rajshahi,Electronics ,10860.13,2,10.0,Debit Card,19/11/2024,20/11/2024,Delivered,4,False,19548.23
+ORD10959,C539,mim chowdhury,22, Female,Khulna,beauty,1247.6,2,0.0,bKash,"May 06, 2025",05-07-2025,Delivered,1,True,$2495.2
+ORD10372,C380,Nusrat Jahan,36,M,Rajshahi,Home & Kitchen,4892.96,5,0.0,Nagad,23/01/2024,26 Jan 2024,In Transit,1,No,24464.8
+ORD10274,C250,Shirin Sultana,24,MALE,Rajshahi,Sports,"৳1,264.88",2,25.0,Credit Card,"January 31, 2025","February 01, 2025",Delivered,4,True,1897.32
+ORD10818,C339,Nusrat Jahan,37,Male,Dhaka,Electronics,11813.13,2,25.0,Debit Card,01 Jan 2025,"January 03, 2025",Delivered,5,True,17719.7
+ORD10704,C272,ARIF ISLAM,41,Female,Dhaka,Electronics,23780.13,1,20.0,credit card,2024-10-02,09 Oct 2024,Delivered,3,False,19024.1
+ORD10433,C509,Rahim Uddin,40,Male,Dhaka ,Home & Kitchen,1935.08,1,0.0,Nagad,07-09-2025,2025-07-14,Delivered,2,True,1935.08
+ORD10383,C455,Imran Khan,18,Male,barisal,Beauty,1232.24,1,15.0,Nagad,01-13-2025,01-20-2025,Delivered,2,true,1047.4
+ORD10561,C513,Rahim Uddin,39,Male,Chittagong,Books,৳138.30,1,0.0,COD,2025-05-31,"June 04, 2025",Delivered,,False,138.3
+ORD10862,C359,Karim Hossain,31,Female,CTG,Books,৳219.88,1,25.0,Cash on Delivery,18 Aug 2025,08-25-2025,Cancelled,5,False,164.91
+ORD10176,C540,Rahim Uddin,31,Male,Barisal,Home & Kitchen,4661.69,3,0.0,Nagad,04-28-2024,04-29-2024,In Transit,4,1,13985.07
+ORD10379,C175,Farhana Rahman,28,Female,Sylhet,Home & Kitchen,3434.17,2,0.0,cod,12-22-2024,30/12/2024,Delivered,5,True,nan
+ORD10104,C452,Imran Khan,36,female,khulna,Beauty,4486.35,2,20.0,Debit Card,09-11-2024,"September 14, 2024",Delivered,2,N,7178.16
+ORD10519,C538,Rahim Uddin,35,Male,Chittagong,Electronics,17376.45,2,25.0,Cash on Delivery,30/11/2024,"December 07, 2024",Delivered,3,False,26064.68
+ORD10830,C166,Farhana Rahman,54,,barisal,Sports,839 Tk,2,25.0,Debit Card,04/08/2025,2025-08-11,canceled,5,True,1258.77
+ORD10507,C408,Karim Hossain,null,Female,KHULNA,Sports,nan,1,0.0,Credit Card,02/06/2024,2024-06-06,in transit,5,Yes,$3274.82
+ORD10413,C231,Nusrat Jahan,22,M,Khulna,Sports,3656.54,3,15.0,Debit Card,04 Oct 2024,"October 06, 2024",Delivered,3,False,9324.18
+ORD10622,C251,Arif Islam,32,Female,Rajshahi,Electronics,"46,268 Tk",2,0.0,Cash on Delivery,02-12-2024,19/02/2024,Delivered,1,False,N/A
+ORD10872,C489,Imran Khan,36,Female,Rajshahi,Clothing,788.2,2,0.0,Cash on Delivery,09-22-2024,"September 29, 2024",Delivered,5,True,1576.4
+ORD10858,C520,arif islam,51,Male,rajshahi,Books,272.77,5,10.0,Cash on Delivery,07-12-2024,2024-07-13,Delivered,4,No,1227.46
+ORD10641,C166,NUSRAT JAHAN,25,Female,Barisal,Sports ,11675.27,1,10.0,Cash on Delivery,07 Aug 2024,08/08/2024,Delivered,1,True,10507.74
+ORD10258,C434,RAHIM UDDIN,38,Male,-,Beauty,979.7,2,20.0,Nagad,08-05-2025,13 Aug 2025,Delivered,1,1,1567.52
+ORD10834,C130,Farhana Rahman,37,Female,Dhaka ,Sports,BDT 5054.6,1,20.0,Debit Card,03/07/2025,07-10-2025,Returned,5,0,4043.68
+ORD10662,C270,  Imran Khan  ,35,M,Barisal,Sports,1919.29,2,25.0,Cash on Delivery,04-29-2025,02 May 2025,In Transit,2,False,2878.94
+ORD10337,C276,Arif Islam,55,nan,Chittagong,Sports,817.52,1,20.0,bKash,2025-05-03,05-11-2025,Delivered,4,True,654.02
+ORD10398,C443,Arif Islam,29,Male,Dhaka,Home & Kitchen,3448.8,3,10.0,Credit Card,06-18-2024,2024-06-20,Delivered,2,True,$9311.76
+ORD10605,C407,Mim Chowdhury,34,Male,Khulna,Clothing,1255.55,2,0.0,Credit Card,09 May 2025,15 May 2025,Delivered,4,Y,2511.1
+ORD10480,C148,NUSRAT JAHAN,30,Male,Barisal,home & kitchen,5016.73,4,0.0,NULL,28 Feb 2024,"March 01, 2024",Delivered,NULL,False,20066.92
+ORD10917,C411,Sabbir Ahmed,18,Female,Barisal,books,670.29,4,15.0,Debit Card,06/07/2025,2025-07-14,Delivered,5,False,2278.99
+ORD10006,C334,Farhana Rahman,23,Male,Khulna,Electronics,37953.58,1,25.0,Credit Card,2024-09-03,06 Sep 2024,In Transit,1,False,28465.18
+ORD10875,C228,Arif Islam,35,MALE,Dhaka,Electronics,36832.36,3,0.0,Nagad,2025-03-04,2025-03-10,Returned,5,1,110497.08
+ORD10659,C523,Rahim Uddin,18,Male,Khulna,Home & Kitchen,4180.82,4,15.0,bKash,26/03/2024,"April 02, 2024",delivered,2,False,14214.79
+ORD10472,C104,Rahim Uddin,34,Male,Rajshahi,Electronics,19128.51,5,20.0,Nagad,2024-02-28,01/03/2024,Delivered,4,False,76514.04
+ORD10789,C320,Rahim Uddin,29,M,Rajshai,Beauty ,1085.97,3,10.0,Debit Card,2025-08-03,2025-08-09,Delivered,4,False,2932.12
+ORD10256,C183,imran khan,49,Male,Dhaka,Home & Kitchen,2143.29,5,5.0,bKash,"February 12, 2024",2024-02-16,delivered,3,True,$10180.63
+ORD10968,C522,ARIF ISLAM,22,Female,Chittagong,Clothing,3473.73,4,15.0,Credit card,01/08/2024,"August 04, 2024",delivered,2,False,11810.68
+ORD10952,C464,Sabbir Ahmed,19,male,NA,Electronics,7232.17,2,0.0,bKash,08/07/2024,"July 12, 2024",Delivered,NA,True,14464.34
